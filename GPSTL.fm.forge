@@ -1,0 +1,22 @@
+{
+    "core": {
+        "key": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+        "name": "GPSTL",
+        "type": "Core",
+        "parent": "-1",
+        "parentRelation": "Normal",
+        "presence": "Mandatory",
+        "lgFile": "",
+        "role": "",
+        "hexColor": "",
+        "help": "",
+        "nodeWeight": -1
+    },
+    "functionalities": [],
+    "fileResources": [],
+    "textResources": [],
+    "smartAppAssetResources": [],
+    "colorResources": [],
+    "referencedModels": [],
+    "constraints": []
+}
