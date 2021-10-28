@@ -85,7 +85,7 @@
         },
         {
             "key": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-            "name": "Ressources graphiques",
+            "name": "RessourcesGraphiques",
             "type": "Resource feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
@@ -96,6 +96,20 @@
             "help": "",
             "nodeWeight": -1,
             "filePath": "src/Web/WebMVC/Setup"
+        },
+        {
+            "key": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
+            "name": "CatalogPictures",
+            "type": "Resource feature",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#5df2f0",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "src/Services/Catalog/Catalog.API/Setup"
         }
     ],
     "textResources": [],
