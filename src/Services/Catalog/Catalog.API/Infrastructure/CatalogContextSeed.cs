@@ -29,34 +29,40 @@
                 var contentRootPath = env.ContentRootPath;
                 var picturePath = env.WebRootPath;
 
-                if (!context.CatalogBrands.Any())
-                {
-                    await context.CatalogBrands.AddRangeAsync(useCustomizationData
-                        ? GetCatalogBrandsFromFile(contentRootPath, logger)
-                        : GetPreconfiguredCatalogBrands());
+                // if (!context.CatalogBrands.Any())
+                // {
+                //     await context.CatalogBrands.AddRangeAsync(useCustomizationData
+                //         ? GetCatalogBrandsFromFile(contentRootPath, logger)
+                //         : GetPreconfiguredCatalogBrands());
 
-                    await context.SaveChangesAsync();
-                }
+                //     await context.SaveChangesAsync();
+                // }
 
-                if (!context.CatalogTypes.Any())
-                {
-                    await context.CatalogTypes.AddRangeAsync(useCustomizationData
-                        ? GetCatalogTypesFromFile(contentRootPath, logger)
-                        : GetPreconfiguredCatalogTypes());
+                // if (!context.CatalogTypes.Any())
+                // {
+                //     await context.CatalogTypes.AddRangeAsync(useCustomizationData
+                //         ? GetCatalogTypesFromFile(contentRootPath, logger)
+                //         : GetPreconfiguredCatalogTypes());
 
-                    await context.SaveChangesAsync();
-                }
+                //     await context.SaveChangesAsync();
+                // }
 
-                if (!context.CatalogItems.Any())
-                {
-                    await context.CatalogItems.AddRangeAsync(useCustomizationData
-                        ? GetCatalogItemsFromFile(contentRootPath, context, logger)
-                        : GetPreconfiguredItems());
+                // if (!context.CatalogItems.Any())
+                // {
+                //     await context.CatalogItems.AddRangeAsync(useCustomizationData
+                //         ? GetCatalogItemsFromFile(contentRootPath, context, logger)
+                //         : GetPreconfiguredItems());
 
-                    await context.SaveChangesAsync();
+                //     await context.SaveChangesAsync();
 
-                    GetCatalogItemPictures(contentRootPath, picturePath);
-                }
+                //     GetCatalogItemPictures(contentRootPath, picturePath);
+                // }
+
+
+                await GetCatalogBrandsFromFile(contentRootPath, logger);
+                await GetCatalogTypesFromFile(contentRootPath, logger);
+                await GetCatalogItemsFromFile(contentRootPath, context, logger);
+                await context.SaveChangesAsync();
             });
         }
 
@@ -64,10 +70,10 @@
         {
             string csvFileCatalogBrands = Path.Combine(contentRootPath, "Setup", "CatalogBrands.csv");
 
-            if (!File.Exists(csvFileCatalogBrands))
-            {
-                return GetPreconfiguredCatalogBrands();
-            }
+            // if (!File.Exists(csvFileCatalogBrands))
+            // {
+            //     return GetPreconfiguredCatalogBrands();
+            // }
 
             string[] csvheaders;
             try
@@ -78,7 +84,7 @@
             catch (Exception ex)
             {
                 logger.LogError(ex, "EXCEPTION ERROR: {Message}", ex.Message);
-                return GetPreconfiguredCatalogBrands();
+                // return GetPreconfiguredCatalogBrands();
             }
 
             return File.ReadAllLines(csvFileCatalogBrands)
@@ -103,26 +109,26 @@
             };
         }
 
-        private IEnumerable<CatalogBrand> GetPreconfiguredCatalogBrands()
-        {
-            return new List<CatalogBrand>()
-            {
-                new CatalogBrand() { Brand = "Azure"},
-                new CatalogBrand() { Brand = ".NET" },
-                new CatalogBrand() { Brand = "Visual Studio" },
-                new CatalogBrand() { Brand = "SQL Server" },
-                new CatalogBrand() { Brand = "Other" }
-            };
-        }
+        // private IEnumerable<CatalogBrand> GetPreconfiguredCatalogBrands()
+        // {
+        //     return new List<CatalogBrand>()
+        //     {
+        //         new CatalogBrand() { Brand = "Azure"},
+        //         new CatalogBrand() { Brand = ".NET" },
+        //         new CatalogBrand() { Brand = "Visual Studio" },
+        //         new CatalogBrand() { Brand = "SQL Server" },
+        //         new CatalogBrand() { Brand = "Other" }
+        //     };
+        // }
 
         private IEnumerable<CatalogType> GetCatalogTypesFromFile(string contentRootPath, ILogger<CatalogContextSeed> logger)
         {
             string csvFileCatalogTypes = Path.Combine(contentRootPath, "Setup", "CatalogTypes.csv");
 
-            if (!File.Exists(csvFileCatalogTypes))
-            {
-                return GetPreconfiguredCatalogTypes();
-            }
+            // if (!File.Exists(csvFileCatalogTypes))
+            // {
+            //     return GetPreconfiguredCatalogTypes();
+            // }
 
             string[] csvheaders;
             try
@@ -133,7 +139,7 @@
             catch (Exception ex)
             {
                 logger.LogError(ex, "EXCEPTION ERROR: {Message}", ex.Message);
-                return GetPreconfiguredCatalogTypes();
+                // return GetPreconfiguredCatalogTypes();
             }
 
             return File.ReadAllLines(csvFileCatalogTypes)
@@ -158,25 +164,25 @@
             };
         }
 
-        private IEnumerable<CatalogType> GetPreconfiguredCatalogTypes()
-        {
-            return new List<CatalogType>()
-            {
-                new CatalogType() { Type = "Mug"},
-                new CatalogType() { Type = "T-Shirt" },
-                new CatalogType() { Type = "Sheet" },
-                new CatalogType() { Type = "USB Memory Stick" }
-            };
-        }
+        // private IEnumerable<CatalogType> GetPreconfiguredCatalogTypes()
+        // {
+        //     return new List<CatalogType>()
+        //     {
+        //         new CatalogType() { Type = "Mug"},
+        //         new CatalogType() { Type = "T-Shirt" },
+        //         new CatalogType() { Type = "Sheet" },
+        //         new CatalogType() { Type = "USB Memory Stick" }
+        //     };
+        // }
 
         private IEnumerable<CatalogItem> GetCatalogItemsFromFile(string contentRootPath, CatalogContext context, ILogger<CatalogContextSeed> logger)
         {
             string csvFileCatalogItems = Path.Combine(contentRootPath, "Setup", "CatalogItems.csv");
 
-            if (!File.Exists(csvFileCatalogItems))
-            {
-                return GetPreconfiguredItems();
-            }
+            // if (!File.Exists(csvFileCatalogItems))
+            // {
+            //     return GetPreconfiguredItems();
+            // }
 
             string[] csvheaders;
             try
@@ -188,7 +194,7 @@
             catch (Exception ex)
             {
                 logger.LogError(ex, "EXCEPTION ERROR: {Message}", ex.Message);
-                return GetPreconfiguredItems();
+                // return GetPreconfiguredItems();
             }
 
             var catalogTypeIdLookup = context.CatalogTypes.ToDictionary(ct => ct.Type, ct => ct.Id);
@@ -308,24 +314,24 @@
             return catalogItem;
         }
 
-        private IEnumerable<CatalogItem> GetPreconfiguredItems()
-        {
-            return new List<CatalogItem>()
-            {
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Bot Black Hoodie", Name = ".NET Bot Black Hoodie", Price = 19.5M, PictureFileName = "1.png" },
-                new CatalogItem { CatalogTypeId = 1, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Black & White Mug", Name = ".NET Black & White Mug", Price= 8.50M, PictureFileName = "2.png" },
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Prism White T-Shirt", Name = "Prism White T-Shirt", Price = 12, PictureFileName = "3.png" },
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Foundation T-shirt", Name = ".NET Foundation T-shirt", Price = 12, PictureFileName = "4.png" },
-                new CatalogItem { CatalogTypeId = 3, CatalogBrandId = 5, AvailableStock = 100, Description = "Roslyn Red Sheet", Name = "Roslyn Red Sheet", Price = 8.5M, PictureFileName = "5.png" },
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Blue Hoodie", Name = ".NET Blue Hoodie", Price = 12, PictureFileName = "6.png" },
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Roslyn Red T-Shirt", Name = "Roslyn Red T-Shirt", Price = 12, PictureFileName = "7.png" },
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Kudu Purple Hoodie", Name = "Kudu Purple Hoodie", Price = 8.5M, PictureFileName = "8.png" },
-                new CatalogItem { CatalogTypeId = 1, CatalogBrandId = 5, AvailableStock = 100, Description = "Cup<T> White Mug", Name = "Cup<T> White Mug", Price = 12, PictureFileName = "9.png" },
-                new CatalogItem { CatalogTypeId = 3, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Foundation Sheet", Name = ".NET Foundation Sheet", Price = 12, PictureFileName = "10.png" },
-                new CatalogItem { CatalogTypeId = 3, CatalogBrandId = 2, AvailableStock = 100, Description = "Cup<T> Sheet", Name = "Cup<T> Sheet", Price = 8.5M, PictureFileName = "11.png" },
-                new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Prism White TShirt", Name = "Prism White TShirt", Price = 12, PictureFileName = "12.png" },
-            };
-        }
+        // private IEnumerable<CatalogItem> GetPreconfiguredItems()
+        // {
+        //     return new List<CatalogItem>()
+        //     {
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Bot Black Hoodie", Name = ".NET Bot Black Hoodie", Price = 19.5M, PictureFileName = "1.png" },
+        //         new CatalogItem { CatalogTypeId = 1, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Black & White Mug", Name = ".NET Black & White Mug", Price= 8.50M, PictureFileName = "2.png" },
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Prism White T-Shirt", Name = "Prism White T-Shirt", Price = 12, PictureFileName = "3.png" },
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Foundation T-shirt", Name = ".NET Foundation T-shirt", Price = 12, PictureFileName = "4.png" },
+        //         new CatalogItem { CatalogTypeId = 3, CatalogBrandId = 5, AvailableStock = 100, Description = "Roslyn Red Sheet", Name = "Roslyn Red Sheet", Price = 8.5M, PictureFileName = "5.png" },
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Blue Hoodie", Name = ".NET Blue Hoodie", Price = 12, PictureFileName = "6.png" },
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Roslyn Red T-Shirt", Name = "Roslyn Red T-Shirt", Price = 12, PictureFileName = "7.png" },
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Kudu Purple Hoodie", Name = "Kudu Purple Hoodie", Price = 8.5M, PictureFileName = "8.png" },
+        //         new CatalogItem { CatalogTypeId = 1, CatalogBrandId = 5, AvailableStock = 100, Description = "Cup<T> White Mug", Name = "Cup<T> White Mug", Price = 12, PictureFileName = "9.png" },
+        //         new CatalogItem { CatalogTypeId = 3, CatalogBrandId = 2, AvailableStock = 100, Description = ".NET Foundation Sheet", Name = ".NET Foundation Sheet", Price = 12, PictureFileName = "10.png" },
+        //         new CatalogItem { CatalogTypeId = 3, CatalogBrandId = 2, AvailableStock = 100, Description = "Cup<T> Sheet", Name = "Cup<T> Sheet", Price = 8.5M, PictureFileName = "11.png" },
+        //         new CatalogItem { CatalogTypeId = 2, CatalogBrandId = 5, AvailableStock = 100, Description = "Prism White TShirt", Name = "Prism White TShirt", Price = 12, PictureFileName = "12.png" },
+        //     };
+        // }
 
         private string[] GetHeaders(string csvfile, string[] requiredHeaders, string[] optionalHeaders = null)
         {
