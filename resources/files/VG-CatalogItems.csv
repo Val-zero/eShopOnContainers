@@ -1,0 +1,13 @@
+CatalogTypeName,CatalogBrandName,Description,Name,Price,PictureFileName,availablestock,onreorder
+Consoles,Nintendo,Meilleure des consoles,Nintendo Switch,299.99,1.jpg,100,false
+Consoles,XBox,Console de riches,XBox Series X,499.99,2.jpg,1,false
+Consoles,PlayStation,Console de kéké,PS5,499.99,3.jpg,0,true
+Accessoires,Nintendo,Fragile (Joycon drift),Paire de joycons,89.99,4.jpg,50,false
+Accessoires,XBox,Meilleure des manettes,Manette XBox Elite,179.99,5.jpg,25,true
+Accessoires,PlayStation,IManette,Manette dualsense 4,69.99,6.jpg,0,false
+Jeux,Nintendo,Soignez votre dépression,Animal Crossing New Horizons,59.99,7.jpg,150,false
+Jeux,Nintendo,Perdez vos amis,Mario Party Superstars,59.99,8.jpg,150,false
+Jeux,XBox,Tuez des aliens,Halo Infinite,69.99,9.jpg,50,true
+Jeux,XBox,Grand vol voitures,GTA Trilogy,69.99,10.jpg,false
+Jeux,PlayStation,Tuez d'autres aliens,Guardians of the Galaxy,69.99,11.jpg,false
+Jeux,PlayStation,Tuez (mais pas des aliens),Call of Duty Vanguard,79.99,12.jpg,false

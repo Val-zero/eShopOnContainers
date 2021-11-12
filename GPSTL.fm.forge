@@ -28,7 +28,7 @@
         },
         {
             "key": "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
-            "name": "Panier",
+            "name": "Login",
             "type": "Functionality feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
@@ -36,6 +36,19 @@
             "lgFile": "",
             "role": "",
             "hexColor": "#806cf1",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "ea6b4e21-302f-45c7-80d4-a7b5bbd0c60c",
+            "name": "Panier",
+            "type": "Functionality feature",
+            "parent": "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#260c4b",
             "help": "",
             "nodeWeight": -1
         }

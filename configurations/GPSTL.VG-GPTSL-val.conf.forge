@@ -1,0 +1,40 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+        "6a21491c-5e8f-4234-9638-b793fa71e694",
+        "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
+        "ea6b4e21-302f-45c7-80d4-a7b5bbd0c60c"
+    ],
+    "fileResourceConfiguration": [
+        {
+            "key": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
+            "value": "src/Services/Catalog/Catalog.API/Setup",
+            "fileName": "VG-CatalogItems.csv"
+        },
+        {
+            "key": "c33da827-deff-4676-8bd1-3adcae78ae3e",
+            "value": "src/Services/Catalog/Catalog.API/Setup",
+            "fileName": "VG-CatalogBrands.csv"
+        },
+        {
+            "key": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
+            "value": "src/Services/Catalog/Catalog.API/Setup",
+            "fileName": "VG-CatalogTypes.csv"
+        },
+        {
+            "key": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
+            "value": "src/Web/WebMVC/Setup",
+            "fileName": "images.zip"
+        },
+        {
+            "key": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
+            "value": "src/Services/Catalog/Catalog.API/Setup",
+            "fileName": "VG-images.zip"
+        }
+    ],
+    "textResourceConfiguration": [],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": []
+}
