@@ -59,9 +59,9 @@
                 // }
 
 
-                await GetCatalogBrandsFromFile(contentRootPath, logger);
-                await GetCatalogTypesFromFile(contentRootPath, logger);
-                await GetCatalogItemsFromFile(contentRootPath, context, logger);
+                GetCatalogBrandsFromFile(contentRootPath, logger);
+                GetCatalogTypesFromFile(contentRootPath, logger);
+                GetCatalogItemsFromFile(contentRootPath, context, logger);
                 await context.SaveChangesAsync();
             });
         }
@@ -184,7 +184,7 @@
             //     return GetPreconfiguredItems();
             // }
 
-            string[] csvheaders;
+            string[] csvheaders = null;
             try
             {
                 string[] requiredHeaders = { "catalogtypename", "catalogbrandname", "description", "name", "price", "picturefilename" };

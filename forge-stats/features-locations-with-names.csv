@@ -1,0 +1,9 @@
+File,CatalogBrands(%Of-File),CatalogBrands(%Of-Feature),CatalogBrands(#Propagations),CatalogItems(%Of-File),CatalogItems(%Of-Feature),CatalogItems(#Propagations),CatalogPictures(%Of-File),CatalogPictures(%Of-Feature),CatalogPictures(#Propagations),CatalogTypes(%Of-File),CatalogTypes(%Of-Feature),CatalogTypes(#Propagations),Login(%Of-File),Login(%Of-Feature),Login(#Propagations),Panier(%Of-File),Panier(%Of-Feature),Panier(#Propagations),RessourcesGraphiques(%Of-File),RessourcesGraphiques(%Of-Feature),RessourcesGraphiques(#Propagations),Tri(%Of-File),Tri(%Of-Feature),Tri(#Propagations)
+src/Web/WebMVC/WebMVC.csproj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.333555703802535,20,1,0,0,0
+src/Web/WebSPA/WebSPA.csproj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2767783005812344,20,1,0,0,0
+src/Web/WebSPA/Server/Infrastructure/WebContextSeed.cs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3434065934065934,20,1,0,0,0
+src/Web/WebMVC/Infrastructure/WebContextSeed.cs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2844950213371266,20,1,0,0,0
+src/Services/Identity/Identity.API/Data/ApplicationDbContextSeed.cs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10225994477962982,20,1,0,0,0
+src/Services/Catalog/Catalog.FunctionalTests/Catalog.FunctionalTests.csproj,1.8801410105757932,40,2,1.8801410105757932,40,2,0,0,0,0,0,0,1.8801410105757932,40,2,1.9976498237367801,40,2,0,0,0,0,0,0
+src/Tests/Services/Application.FunctionalTests/Application.FunctionalTests.csproj,1.1319419879731163,40,2,1.1319419879731163,40,2,0,0,0,0,0,0,1.1319419879731163,40,2,1.2026883622214362,40,2,0,0,0,0,0,0
+src/Services/Catalog/Catalog.API/Infrastructure/CatalogContextSeed.cs,0.08734101206397729,20,1,0.08734101206397729,20,1,0,0,0,0,0,0,0.08734101206397729,20,1,0.09279982531797587,20,1,0,0,0,0,0,0
