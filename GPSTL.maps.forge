@@ -1,20 +1,2130 @@
 {
-    "deletionPropagations": [],
+    "deletionPropagations": [
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/components/identity/identity.html",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "b9143382-e71f-48de-9932-c3f5a7cff2c9",
+                            "sourceId": "b9143382-e71f-48de-9932-c3f5a7cff2c9",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 31,
+                            "endColumn": 6,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Views/Shared/_Layout.cshtml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "c59192c6-b938-4d01-954b-fbcffdd50dc8",
+                            "sourceId": "c59192c6-b938-4d01-954b-fbcffdd50dc8",
+                            "startLine": 45,
+                            "startColumn": 16,
+                            "endLine": 45,
+                            "endColumn": 57,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "8180d8bf-7463-4b92-94f5-5a08912bded8",
+                            "sourceId": "8180d8bf-7463-4b92-94f5-5a08912bded8",
+                            "startLine": 94,
+                            "startColumn": 0,
+                            "endLine": 134,
+                            "endColumn": 9,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "build/acr-build/queue-all.ps1",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "5bb56f54-d748-42d1-910e-49db3b5a8b1e",
+                            "sourceId": "5bb56f54-d748-42d1-910e-49db3b5a8b1e",
+                            "startLine": 13,
+                            "startColumn": 0,
+                            "endLine": 14,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "build/multiarch-manifests/create-manifests.ps1",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "fc123f3a-228f-4ab6-b8b4-84ddd216e349",
+                            "sourceId": "fc123f3a-228f-4ab6-b8b4-84ddd216e349",
+                            "startLine": 14,
+                            "startColumn": 12,
+                            "endLine": 14,
+                            "endColumn": 27,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/app.yaml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "d599f53a-30fb-4d68-bba8-f8f7e9e6d28a",
+                            "sourceId": "d599f53a-30fb-4d68-bba8-f8f7e9e6d28a",
+                            "startLine": 27,
+                            "startColumn": 6,
+                            "endLine": 27,
+                            "endColumn": 87,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "2551dc1a-858b-4021-a93a-81afc7563c40",
+                            "sourceId": "2551dc1a-858b-4021-a93a-81afc7563c40",
+                            "startLine": 10,
+                            "startColumn": 6,
+                            "endLine": 10,
+                            "endColumn": 88,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/azure/az/sql/sqldeploy.parameters.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "cfcfe399-2f49-4339-9677-18e9b3f991e6",
+                            "sourceId": "cfcfe399-2f49-4339-9677-18e9b3f991e6",
+                            "startLine": 9,
+                            "startColumn": 10,
+                            "endLine": 9,
+                            "endColumn": 35,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/deploy-all-mac.ps1",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "18b984b9-7b69-43d4-a5a2-0fcefcea670f",
+                            "sourceId": "18b984b9-7b69-43d4-a5a2-0fcefcea670f",
+                            "startLine": 122,
+                            "startColumn": 55,
+                            "endLine": 122,
+                            "endColumn": 70,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/deploy-all.ps1",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "70483aa4-2add-4608-bc35-c4007e47cfa5",
+                            "sourceId": "70483aa4-2add-4608-bc35-c4007e47cfa5",
+                            "startLine": 121,
+                            "startColumn": 55,
+                            "endLine": 121,
+                            "endColumn": 70,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/deploy-all.sh",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "694ba108-680a-43c0-b3f1-f99d035be541",
+                            "sourceId": "694ba108-680a-43c0-b3f1-f99d035be541",
+                            "startLine": 144,
+                            "startColumn": 35,
+                            "endLine": 144,
+                            "endColumn": 47,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "562974e5-6537-4add-8833-112eb8b49786",
+                            "sourceId": "562974e5-6537-4add-8833-112eb8b49786",
+                            "startLine": 211,
+                            "startColumn": 60,
+                            "endLine": 211,
+                            "endColumn": 72,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/inf.yaml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "c17f5384-4ced-41e2-a41e-6ec82a961c40",
+                            "sourceId": "c17f5384-4ced-41e2-a41e-6ec82a961c40",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 20,
+                            "endColumn": 54,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/basket-api/values.yaml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "a6ec0095-41e5-4c54-b64a-8b920648bc57",
+                            "sourceId": "a6ec0095-41e5-4c54-b64a-8b920648bc57",
+                            "startLine": 36,
+                            "startColumn": 0,
+                            "endLine": 37,
+                            "endColumn": 28,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/basket-api/templates/configmap.yaml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "e1b97130-eaaa-4457-bcf4-ffb5404869d6",
+                            "sourceId": "e1b97130-eaaa-4457-bcf4-ffb5404869d6",
+                            "startLine": 13,
+                            "startColumn": 2,
+                            "endLine": 13,
+                            "endColumn": 58,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose-tests.override.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "c54403be-c18c-4fca-9ef3-9060b889d06c",
+                            "sourceId": "c54403be-c18c-4fca-9ef3-9060b889d06c",
+                            "startLine": 23,
+                            "startColumn": 0,
+                            "endLine": 39,
+                            "endColumn": 17,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "aecb3f19-ae90-44f2-82b4-ecfa61856b76",
+                            "sourceId": "aecb3f19-ae90-44f2-82b4-ecfa61856b76",
+                            "startLine": 46,
+                            "startColumn": 0,
+                            "endLine": 46,
+                            "endColumn": 39,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f957df72-1e59-42bd-8b6c-ed90010a4ba6",
+                            "sourceId": "f957df72-1e59-42bd-8b6c-ed90010a4ba6",
+                            "startLine": 68,
+                            "startColumn": 0,
+                            "endLine": 68,
+                            "endColumn": 39,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "70656f26-67e3-48e7-9326-a4e77ed6ff25",
+                            "sourceId": "70656f26-67e3-48e7-9326-a4e77ed6ff25",
+                            "startLine": 138,
+                            "startColumn": 0,
+                            "endLine": 138,
+                            "endColumn": 39,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5edd7da9-3d81-4093-af26-78aae18e7ab3",
+                            "sourceId": "5edd7da9-3d81-4093-af26-78aae18e7ab3",
+                            "startLine": 162,
+                            "startColumn": 0,
+                            "endLine": 162,
+                            "endColumn": 39,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose-tests.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "da177df7-9dab-4091-892d-5c450f886f69",
+                            "sourceId": "da177df7-9dab-4091-892d-5c450f886f69",
+                            "startLine": 15,
+                            "startColumn": 0,
+                            "endLine": 21,
+                            "endColumn": 21,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose-windows.prod.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "e96a4812-af94-4ef7-833f-604d82624b50",
+                            "sourceId": "e96a4812-af94-4ef7-833f-604d82624b50",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 21,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "a77368eb-58ba-40d2-abe2-528d19e58eef",
+                            "sourceId": "a77368eb-58ba-40d2-abe2-528d19e58eef",
+                            "startLine": 42,
+                            "startColumn": 0,
+                            "endLine": 54,
+                            "endColumn": 17,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "4e121f1e-4647-472a-a395-874a2d7ba9e3",
+                            "sourceId": "4e121f1e-4647-472a-a395-874a2d7ba9e3",
+                            "startLine": 61,
+                            "startColumn": 0,
+                            "endLine": 62,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "8a7e6b03-99d4-41c1-8f75-1522e4063c29",
+                            "sourceId": "8a7e6b03-99d4-41c1-8f75-1522e4063c29",
+                            "startLine": 90,
+                            "startColumn": 0,
+                            "endLine": 91,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "6f53c3de-b383-4d7c-9a2a-48dda1c728c9",
+                            "sourceId": "6f53c3de-b383-4d7c-9a2a-48dda1c728c9",
+                            "startLine": 126,
+                            "startColumn": 0,
+                            "endLine": 126,
+                            "endColumn": 42,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.override.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "5e3d7075-ec7f-42c6-8f06-a51033c5bcab",
+                            "sourceId": "5e3d7075-ec7f-42c6-8f06-a51033c5bcab",
+                            "startLine": 40,
+                            "startColumn": 0,
+                            "endLine": 58,
+                            "endColumn": 17,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "df07bd6e-5c60-4996-aad2-697bec25eca2",
+                            "sourceId": "df07bd6e-5c60-4996-aad2-697bec25eca2",
+                            "startLine": 65,
+                            "startColumn": 0,
+                            "endLine": 66,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "6c85c3c6-ab0c-4daf-812b-6f1d13287fc4",
+                            "sourceId": "6c85c3c6-ab0c-4daf-812b-6f1d13287fc4",
+                            "startLine": 108,
+                            "startColumn": 0,
+                            "endLine": 109,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "64377e06-3bed-4c5e-95fd-d17463187320",
+                            "sourceId": "64377e06-3bed-4c5e-95fd-d17463187320",
+                            "startLine": 170,
+                            "startColumn": 0,
+                            "endLine": 171,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "3ac26c11-9d82-40e6-a2bf-df5ae87b4558",
+                            "sourceId": "3ac26c11-9d82-40e6-a2bf-df5ae87b4558",
+                            "startLine": 195,
+                            "startColumn": 0,
+                            "endLine": 196,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "cc62935d-6fdb-4610-af85-1f4630bbaab5",
+                            "sourceId": "cc62935d-6fdb-4610-af85-1f4630bbaab5",
+                            "startLine": 201,
+                            "startColumn": 0,
+                            "endLine": 202,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "6d3ddbad-c6b8-4df2-a126-6391d1749adc",
+                            "sourceId": "6d3ddbad-c6b8-4df2-a126-6391d1749adc",
+                            "startLine": 214,
+                            "startColumn": 0,
+                            "endLine": 215,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "246134b3-b82d-4339-8f1a-dd397b62eb54",
+                            "sourceId": "246134b3-b82d-4339-8f1a-dd397b62eb54",
+                            "startLine": 220,
+                            "startColumn": 0,
+                            "endLine": 221,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "65214146-f7b6-4177-8f9b-76ac9d085032",
+                            "sourceId": "65214146-f7b6-4177-8f9b-76ac9d085032",
+                            "startLine": 237,
+                            "startColumn": 0,
+                            "endLine": 238,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "4986a7b2-73dc-4235-82ed-a9b479214d8f",
+                            "sourceId": "4986a7b2-73dc-4235-82ed-a9b479214d8f",
+                            "startLine": 259,
+                            "startColumn": 0,
+                            "endLine": 260,
+                            "endColumn": 67,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "e4d91aa9-e99a-472d-8f67-6fe757167654",
+                            "sourceId": "e4d91aa9-e99a-472d-8f67-6fe757167654",
+                            "startLine": 278,
+                            "startColumn": 0,
+                            "endLine": 279,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "20a1be32-cb77-435f-8dac-acfa7a874c38",
+                            "sourceId": "20a1be32-cb77-435f-8dac-acfa7a874c38",
+                            "startLine": 293,
+                            "startColumn": 0,
+                            "endLine": 294,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.prod.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "1367437b-2ab3-450f-bb73-fb2e9472f46c",
+                            "sourceId": "1367437b-2ab3-450f-bb73-fb2e9472f46c",
+                            "startLine": 22,
+                            "startColumn": 0,
+                            "endLine": 23,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "15bc824b-96fb-4112-971c-c2b422fc9e8f",
+                            "sourceId": "15bc824b-96fb-4112-971c-c2b422fc9e8f",
+                            "startLine": 54,
+                            "startColumn": 0,
+                            "endLine": 70,
+                            "endColumn": 17,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5c3eac89-cc43-4ef0-83b7-1f3c53844df5",
+                            "sourceId": "5c3eac89-cc43-4ef0-83b7-1f3c53844df5",
+                            "startLine": 77,
+                            "startColumn": 0,
+                            "endLine": 78,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5bbc1f04-b056-494d-93b9-f82c3c099ecd",
+                            "sourceId": "5bbc1f04-b056-494d-93b9-f82c3c099ecd",
+                            "startLine": 117,
+                            "startColumn": 0,
+                            "endLine": 118,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "c19deddc-d874-4fe1-8984-729154efced8",
+                            "sourceId": "c19deddc-d874-4fe1-8984-729154efced8",
+                            "startLine": 131,
+                            "startColumn": 0,
+                            "endLine": 132,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "89b4c1e2-def6-48a9-844d-93c9a6fd410b",
+                            "sourceId": "89b4c1e2-def6-48a9-844d-93c9a6fd410b",
+                            "startLine": 134,
+                            "startColumn": 0,
+                            "endLine": 135,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "a20c279a-fdd1-4ec4-8e0e-881ea21298b8",
+                            "sourceId": "a20c279a-fdd1-4ec4-8e0e-881ea21298b8",
+                            "startLine": 151,
+                            "startColumn": 0,
+                            "endLine": 152,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "eb092895-1575-4ae5-9ee7-3ec47d09800b",
+                            "sourceId": "eb092895-1575-4ae5-9ee7-3ec47d09800b",
+                            "startLine": 196,
+                            "startColumn": 0,
+                            "endLine": 197,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "dfcee99f-57aa-4a46-92db-501cf705b8e3",
+                            "sourceId": "dfcee99f-57aa-4a46-92db-501cf705b8e3",
+                            "startLine": 206,
+                            "startColumn": 0,
+                            "endLine": 207,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d0d10ec7-ee82-446e-9d63-6702faa816ad",
+                            "sourceId": "d0d10ec7-ee82-446e-9d63-6702faa816ad",
+                            "startLine": 219,
+                            "startColumn": 0,
+                            "endLine": 220,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "06b62c46-da40-4a82-b0b9-b51b6207a4d0",
+                            "sourceId": "06b62c46-da40-4a82-b0b9-b51b6207a4d0",
+                            "startLine": 230,
+                            "startColumn": 0,
+                            "endLine": 231,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.windows.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "25766a18-08d5-4d8b-bb72-4f07c82e4975",
+                            "sourceId": "25766a18-08d5-4d8b-bb72-4f07c82e4975",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 22,
+                            "endColumn": 49,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.yml",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "ce9529cc-e0ea-4cda-b9c5-4825b00f878f",
+                            "sourceId": "ce9529cc-e0ea-4cda-b9c5-4825b00f878f",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 25,
+                            "endColumn": 15,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d546c083-8d5f-496d-bfc7-dadb6466034f",
+                            "sourceId": "d546c083-8d5f-496d-bfc7-dadb6466034f",
+                            "startLine": 34,
+                            "startColumn": 0,
+                            "endLine": 35,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "c2e5196b-2f43-4a8b-b4be-e142f6c7c747",
+                            "sourceId": "c2e5196b-2f43-4a8b-b4be-e142f6c7c747",
+                            "startLine": 91,
+                            "startColumn": 0,
+                            "endLine": 92,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "e3620068-4f2b-43de-94df-a87c09a31d7f",
+                            "sourceId": "e3620068-4f2b-43de-94df-a87c09a31d7f",
+                            "startLine": 105,
+                            "startColumn": 0,
+                            "endLine": 106,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "167b0c5b-6dd5-4e68-8af7-7d3773e69d19",
+                            "sourceId": "167b0c5b-6dd5-4e68-8af7-7d3773e69d19",
+                            "startLine": 119,
+                            "startColumn": 0,
+                            "endLine": 120,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/eShopOnContainers-ServicesAndWebApps.sln",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "e85bbcb8-e2a0-4e9c-a451-8f7b67097492",
+                            "sourceId": "e85bbcb8-e2a0-4e9c-a451-8f7b67097492",
+                            "startLine": 29,
+                            "startColumn": 0,
+                            "endLine": 30,
+                            "endColumn": 10,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5e5668e4-812c-4572-bece-7d86735faf3f",
+                            "sourceId": "5e5668e4-812c-4572-bece-7d86735faf3f",
+                            "startLine": 43,
+                            "startColumn": 0,
+                            "endLine": 44,
+                            "endColumn": 10,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "db4c125d-c09c-46b2-9674-4242150e3c07",
+                            "sourceId": "db4c125d-c09c-46b2-9674-4242150e3c07",
+                            "startLine": 380,
+                            "startColumn": 2,
+                            "endLine": 427,
+                            "endColumn": 78,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "9a6907af-ee8f-4b94-b652-8b21f94c893e",
+                            "sourceId": "9a6907af-ee8f-4b94-b652-8b21f94c893e",
+                            "startLine": 1543,
+                            "startColumn": 2,
+                            "endLine": 1543,
+                            "endColumn": 81,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "432af4cf-948c-4ba6-9a12-cb4177de64e9",
+                            "sourceId": "432af4cf-948c-4ba6-9a12-cb4177de64e9",
+                            "startLine": 1550,
+                            "startColumn": 2,
+                            "endLine": 1550,
+                            "endColumn": 81,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/prepare-devspaces.ps1",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "750f6405-c88b-4c75-ab94-4e0fb6ca9314",
+                            "sourceId": "750f6405-c88b-4c75-ab94-4e0fb6ca9314",
+                            "startLine": 28,
+                            "startColumn": 0,
+                            "endLine": 30,
+                            "endColumn": 87,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/run-test-infrastructure.ps1",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "5590e7b8-dabd-49b9-9953-d6d2420c3cf9",
+                            "sourceId": "5590e7b8-dabd-49b9-9953-d6d2420c3cf9",
+                            "startLine": 0,
+                            "startColumn": 148,
+                            "endLine": 0,
+                            "endColumn": 166,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/appsettings.localhost.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "846f1dce-fef5-4bd0-acc7-fef4623baa6e",
+                            "sourceId": "846f1dce-fef5-4bd0-acc7-fef4623baa6e",
+                            "startLine": 5,
+                            "startColumn": 0,
+                            "endLine": 5,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "1ae63275-e23e-4a77-a4b8-b84d62b7bb99",
+                            "sourceId": "1ae63275-e23e-4a77-a4b8-b84d62b7bb99",
+                            "startLine": 10,
+                            "startColumn": 0,
+                            "endLine": 11,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "3abff0c5-2e89-49d8-9c2f-4e89a31c98b1",
+                            "sourceId": "3abff0c5-2e89-49d8-9c2f-4e89a31c98b1",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/Startup.cs",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "d9d5f4c0-5d6f-4f95-98d7-7785fab1babb",
+                            "sourceId": "d9d5f4c0-5d6f-4f95-98d7-7785fab1babb",
+                            "startLine": 44,
+                            "startColumn": 16,
+                            "endLine": 44,
+                            "endColumn": 134,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "a6e5cead-3c34-47bd-9ef5-ed8719d8d4d2",
+                            "sourceId": "a6e5cead-3c34-47bd-9ef5-ed8719d8d4d2",
+                            "startLine": 127,
+                            "startColumn": 2,
+                            "endLine": 128,
+                            "endColumn": 121,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Web.Bff.Shopping/aggregator/appsettings.localhost.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "fe0b2566-bfd1-483c-9269-dfefa26d2a66",
+                            "sourceId": "fe0b2566-bfd1-483c-9269-dfefa26d2a66",
+                            "startLine": 5,
+                            "startColumn": 0,
+                            "endLine": 5,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Web.Bff.Shopping/aggregator/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "11918307-6e6b-4245-87d6-7a6abc10cb0d",
+                            "sourceId": "11918307-6e6b-4245-87d6-7a6abc10cb0d",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Web.Bff.Shopping/aggregator/Startup.cs",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "8be597a3-9380-48e8-8911-7948d6977add",
+                            "sourceId": "8be597a3-9380-48e8-8911-7948d6977add",
+                            "startLine": 44,
+                            "startColumn": 0,
+                            "endLine": 45,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Basket/Basket.API/appsettings.Development.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "c0fbabb9-a932-4b9f-9358-26ec5834b372",
+                            "sourceId": "c0fbabb9-a932-4b9f-9358-26ec5834b372",
+                            "startLine": 11,
+                            "startColumn": 0,
+                            "endLine": 12,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Basket/Basket.API/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "a9e7879d-bec1-4521-89a8-3b4b6a2e6b71",
+                            "sourceId": "a9e7879d-bec1-4521-89a8-3b4b6a2e6b71",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Basket/Basket.FunctionalTests/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "da63ea10-ef2c-439b-9e81-e5c509d94730",
+                            "sourceId": "da63ea10-ef2c-439b-9e81-e5c509d94730",
+                            "startLine": 9,
+                            "startColumn": 0,
+                            "endLine": 10,
+                            "endColumn": 49,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Catalog/Catalog.API/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "1bfd7987-463a-4087-8827-6c7cfaee6ac1",
+                            "sourceId": "1bfd7987-463a-4087-8827-6c7cfaee6ac1",
+                            "startLine": 27,
+                            "startColumn": 0,
+                            "endLine": 28,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Catalog/Catalog.FunctionalTests/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "9d42288f-a939-41e1-9e2d-1c99d1726363",
+                            "sourceId": "9d42288f-a939-41e1-9e2d-1c99d1726363",
+                            "startLine": 3,
+                            "startColumn": 0,
+                            "endLine": 3,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.API/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "9c7540f4-5bee-4f70-aa01-bbec9de9d234",
+                            "sourceId": "9c7540f4-5bee-4f70-aa01-bbec9de9d234",
+                            "startLine": 2,
+                            "startColumn": 2,
+                            "endLine": 2,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.API/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "82d96ceb-2c78-446d-8309-9c699e9219fe",
+                            "sourceId": "82d96ceb-2c78-446d-8309-9c699e9219fe",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Webhooks/Webhooks.API/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "a334ebae-ac2f-48fb-b834-ff1b61067791",
+                            "sourceId": "a334ebae-ac2f-48fb-b834-ff1b61067791",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Services/Basket/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "843ec5a5-adbf-416a-826d-c50a0034b78b",
+                            "sourceId": "843ec5a5-adbf-416a-826d-c50a0034b78b",
+                            "startLine": 9,
+                            "startColumn": 0,
+                            "endLine": 10,
+                            "endColumn": 49,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Services/Catalog/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "fc694ab3-201c-4715-85dd-4a64d250109f",
+                            "sourceId": "fc694ab3-201c-4715-85dd-4a64d250109f",
+                            "startLine": 3,
+                            "startColumn": 0,
+                            "endLine": 4,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Services/Ordering/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "92886993-1f03-4ab3-b2f9-374afc1fbdf1",
+                            "sourceId": "92886993-1f03-4ab3-b2f9-374afc1fbdf1",
+                            "startLine": 3,
+                            "startColumn": 0,
+                            "endLine": 4,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "fe8fc218-8676-486b-88c1-6caf4a2b3812",
+                            "sourceId": "fe8fc218-8676-486b-88c1-6caf4a2b3812",
+                            "startLine": 9,
+                            "startColumn": 0,
+                            "endLine": 10,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebhookClient/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "de51a31f-0ba2-43b3-b3c4-b8e7b61248f6",
+                            "sourceId": "de51a31f-0ba2-43b3-b3c4-b8e7b61248f6",
+                            "startLine": 27,
+                            "startColumn": 0,
+                            "endLine": 28,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "ce47e690-0fc1-44ab-b414-2a82aa406cb7",
+                            "sourceId": "ce47e690-0fc1-44ab-b414-2a82aa406cb7",
+                            "startLine": 4,
+                            "startColumn": 2,
+                            "endLine": 4,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "57291262-7a61-4a3d-ae84-6838235ca484",
+                            "sourceId": "57291262-7a61-4a3d-ae84-6838235ca484",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Startup.cs",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "459a83a7-183e-41c6-9e7f-42dda075c021",
+                            "sourceId": "459a83a7-183e-41c6-9e7f-42dda075c021",
+                            "startLine": 117,
+                            "startColumn": 16,
+                            "endLine": 117,
+                            "endColumn": 134,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "9df43293-b9c1-4160-a619-a2ac35aba80e",
+                            "sourceId": "9df43293-b9c1-4160-a619-a2ac35aba80e",
+                            "startLine": 47,
+                            "startColumn": 12,
+                            "endLine": 47,
+                            "endColumn": 60,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/appsettings.json",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "033e30b3-7292-4be1-977c-e20f646a6484",
+                            "sourceId": "033e30b3-7292-4be1-977c-e20f646a6484",
+                            "startLine": 1,
+                            "startColumn": 0,
+                            "endLine": 1,
+                            "endColumn": 52,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "45f34716-fadd-49b9-adfe-b3076696619b",
+                            "sourceId": "45f34716-fadd-49b9-adfe-b3076696619b",
+                            "startLine": 6,
+                            "startColumn": 0,
+                            "endLine": 6,
+                            "endColumn": 57,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "3b519a89-a2b7-4a81-baa7-c1a0e58fb7b6",
+                            "sourceId": "3b519a89-a2b7-4a81-baa7-c1a0e58fb7b6",
+                            "startLine": 37,
+                            "startColumn": 0,
+                            "endLine": 38,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Startup.cs",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "e5a8fe70-b6dd-47ac-9e30-352d99078b39",
+                            "sourceId": "e5a8fe70-b6dd-47ac-9e30-352d99078b39",
+                            "startLine": 45,
+                            "startColumn": 16,
+                            "endLine": 45,
+                            "endColumn": 134,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebStatus/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "7382cd19-a0da-47ea-b36a-c4c7b9d8dc57",
+                            "sourceId": "7382cd19-a0da-47ea-b36a-c4c7b9d8dc57",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.BackgroundTasks/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "446944ba-0884-4eb9-abce-0d93ed615b01",
+                            "sourceId": "446944ba-0884-4eb9-abce-0d93ed615b01",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.SignalrHub/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "8d7e427e-7662-4e71-88cc-26ea2064c67f",
+                            "sourceId": "8d7e427e-7662-4e71-88cc-26ea2064c67f",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Payment/Payment.API/Dockerfile",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "d7dca422-0785-4238-82fe-451aa0aae1c7",
+                            "sourceId": "d7dca422-0785-4238-82fe-451aa0aae1c7",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/DockerfileSolutionRestore.txt",
+            "propagations": [
+                {
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "ranges": [
+                        {
+                            "propagationId": "97a9b64b-d667-4f3e-9079-fd2ac6debdb1",
+                            "sourceId": "97a9b64b-d667-4f3e-9079-fd2ac6debdb1",
+                            "startLine": 16,
+                            "startColumn": 0,
+                            "endLine": 17,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
     "replacementPropagations": [],
     "resourcePropagations": [
         {
-            "file": "src/Web/WebMVC/Infrastructure/WebContextSeed.cs",
+            "file": "src/Services/Catalog/Catalog.FunctionalTests/Catalog.FunctionalTests.csproj",
             "propagations": [
                 {
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
+                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
                     "ranges": [
                         {
-                            "propagationId": "4524de55-3fe5-4f09-9512-d773231bec4a",
-                            "sourceId": "4524de55-3fe5-4f09-9512-d773231bec4a",
-                            "startLine": 58,
-                            "startColumn": 79,
-                            "endLine": 58,
-                            "endColumn": 89,
+                            "propagationId": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
+                            "sourceId": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
+                            "startLine": 10,
+                            "startColumn": 24,
+                            "endLine": 10,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "07371216-dfa8-4f33-bad1-367ef0dd559d",
+                            "sourceId": "07371216-dfa8-4f33-bad1-367ef0dd559d",
+                            "startLine": 20,
+                            "startColumn": 28,
+                            "endLine": 20,
+                            "endColumn": 45,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
+                    "ranges": [
+                        {
+                            "propagationId": "e1a07523-e77d-451c-b97f-1eed00dc3244",
+                            "sourceId": "e1a07523-e77d-451c-b97f-1eed00dc3244",
+                            "startLine": 11,
+                            "startColumn": 24,
+                            "endLine": 11,
+                            "endColumn": 40,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
+                            "sourceId": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
+                            "startLine": 23,
+                            "startColumn": 28,
+                            "endLine": 23,
+                            "endColumn": 44,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
+                    "ranges": [
+                        {
+                            "propagationId": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
+                            "sourceId": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
+                            "startLine": 12,
+                            "startColumn": 24,
+                            "endLine": 12,
+                            "endColumn": 40,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "90781c91-cecb-4c3c-ae91-aa91931d0019",
+                            "sourceId": "90781c91-cecb-4c3c-ae91-aa91931d0019",
+                            "startLine": 26,
+                            "startColumn": 28,
+                            "endLine": 26,
+                            "endColumn": 44,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
+                    "ranges": [
+                        {
+                            "propagationId": "65392b6f-a786-4b3a-9d4f-a78fee825101",
+                            "sourceId": "65392b6f-a786-4b3a-9d4f-a78fee825101",
+                            "startLine": 13,
+                            "startColumn": 24,
+                            "endLine": 13,
+                            "endColumn": 40,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
+                            "sourceId": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
+                            "startLine": 29,
+                            "startColumn": 28,
+                            "endLine": 29,
+                            "endColumn": 44,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Application.FunctionalTests.csproj",
+            "propagations": [
+                {
+                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
+                    "ranges": [
+                        {
+                            "propagationId": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
+                            "sourceId": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
+                            "startLine": 12,
+                            "startColumn": 24,
+                            "endLine": 12,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "617cebf9-b73e-4605-9b65-d695661323f2",
+                            "sourceId": "617cebf9-b73e-4605-9b65-d695661323f2",
+                            "startLine": 26,
+                            "startColumn": 28,
+                            "endLine": 26,
+                            "endColumn": 45,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
+                    "ranges": [
+                        {
+                            "propagationId": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
+                            "sourceId": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
+                            "startLine": 13,
+                            "startColumn": 24,
+                            "endLine": 13,
+                            "endColumn": 40,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "8fba14d2-2377-4b58-8402-523f6d78ed92",
+                            "sourceId": "8fba14d2-2377-4b58-8402-523f6d78ed92",
+                            "startLine": 29,
+                            "startColumn": 28,
+                            "endLine": 29,
+                            "endColumn": 44,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
+                    "ranges": [
+                        {
+                            "propagationId": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
+                            "sourceId": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
+                            "startLine": 14,
+                            "startColumn": 24,
+                            "endLine": 14,
+                            "endColumn": 40,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "64214cc6-1e53-410e-9c93-75f75b0469ac",
+                            "sourceId": "64214cc6-1e53-410e-9c93-75f75b0469ac",
+                            "startLine": 32,
+                            "startColumn": 28,
+                            "endLine": 32,
+                            "endColumn": 44,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
+                    "ranges": [
+                        {
+                            "propagationId": "1b3f66ab-df50-4897-80aa-d1a133391c18",
+                            "sourceId": "1b3f66ab-df50-4897-80aa-d1a133391c18",
+                            "startLine": 15,
+                            "startColumn": 24,
+                            "endLine": 15,
+                            "endColumn": 40,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d0110719-ca4a-40f8-8de6-2ce908504f72",
+                            "sourceId": "d0110719-ca4a-40f8-8de6-2ce908504f72",
+                            "startLine": 35,
+                            "startColumn": 28,
+                            "endLine": 35,
+                            "endColumn": 44,
                             "isValidated": true,
                             "isMapped": true,
                             "analyzer": "Resource Analyzer",
@@ -39,30 +2149,6 @@
                             "startColumn": 28,
                             "endLine": 13,
                             "endColumn": 38,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Services/Identity/Identity.API/Data/ApplicationDbContextSeed.cs",
-            "propagations": [
-                {
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "ranges": [
-                        {
-                            "propagationId": "806b2018-47c0-48b6-ad48-039cb71cd702",
-                            "sourceId": "806b2018-47c0-48b6-ad48-039cb71cd702",
-                            "startLine": 198,
-                            "startColumn": 79,
-                            "endLine": 198,
-                            "endColumn": 89,
                             "isValidated": true,
                             "isMapped": true,
                             "analyzer": "Resource Analyzer",
@@ -123,18 +2209,18 @@
             ]
         },
         {
-            "file": "src/Services/Catalog/Catalog.API/Infrastructure/CatalogContextSeed.cs",
+            "file": "src/Web/WebMVC/Infrastructure/WebContextSeed.cs",
             "propagations": [
                 {
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
+                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
                     "ranges": [
                         {
-                            "propagationId": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
-                            "sourceId": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
-                            "startLine": 173,
-                            "startColumn": 81,
-                            "endLine": 173,
-                            "endColumn": 97,
+                            "propagationId": "4524de55-3fe5-4f09-9512-d773231bec4a",
+                            "sourceId": "4524de55-3fe5-4f09-9512-d773231bec4a",
+                            "startLine": 58,
+                            "startColumn": 79,
+                            "endLine": 58,
+                            "endColumn": 89,
                             "isValidated": true,
                             "isMapped": true,
                             "analyzer": "Resource Analyzer",
@@ -143,7 +2229,12 @@
                             "children": []
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Catalog/Catalog.API/Infrastructure/CatalogContextSeed.cs",
+            "propagations": [
                 {
                     "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
                     "ranges": [
@@ -183,6 +2274,25 @@
                     ]
                 },
                 {
+                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
+                    "ranges": [
+                        {
+                            "propagationId": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
+                            "sourceId": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
+                            "startLine": 173,
+                            "startColumn": 81,
+                            "endLine": 173,
+                            "endColumn": 97,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
                     "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
                     "ranges": [
                         {
@@ -192,280 +2302,6 @@
                             "startColumn": 92,
                             "endLine": 367,
                             "endColumn": 108,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Services/Catalog/Catalog.FunctionalTests/Catalog.FunctionalTests.csproj",
-            "propagations": [
-                {
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "ranges": [
-                        {
-                            "propagationId": "e1a07523-e77d-451c-b97f-1eed00dc3244",
-                            "sourceId": "e1a07523-e77d-451c-b97f-1eed00dc3244",
-                            "startLine": 11,
-                            "startColumn": 24,
-                            "endLine": 11,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
-                            "sourceId": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
-                            "startLine": 23,
-                            "startColumn": 28,
-                            "endLine": 23,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "ranges": [
-                        {
-                            "propagationId": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
-                            "sourceId": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
-                            "startLine": 10,
-                            "startColumn": 24,
-                            "endLine": 10,
-                            "endColumn": 41,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "07371216-dfa8-4f33-bad1-367ef0dd559d",
-                            "sourceId": "07371216-dfa8-4f33-bad1-367ef0dd559d",
-                            "startLine": 20,
-                            "startColumn": 28,
-                            "endLine": 20,
-                            "endColumn": 45,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "ranges": [
-                        {
-                            "propagationId": "65392b6f-a786-4b3a-9d4f-a78fee825101",
-                            "sourceId": "65392b6f-a786-4b3a-9d4f-a78fee825101",
-                            "startLine": 13,
-                            "startColumn": 24,
-                            "endLine": 13,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
-                            "sourceId": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
-                            "startLine": 29,
-                            "startColumn": 28,
-                            "endLine": 29,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "ranges": [
-                        {
-                            "propagationId": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
-                            "sourceId": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
-                            "startLine": 12,
-                            "startColumn": 24,
-                            "endLine": 12,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "90781c91-cecb-4c3c-ae91-aa91931d0019",
-                            "sourceId": "90781c91-cecb-4c3c-ae91-aa91931d0019",
-                            "startLine": 26,
-                            "startColumn": 28,
-                            "endLine": 26,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Tests/Services/Application.FunctionalTests/Application.FunctionalTests.csproj",
-            "propagations": [
-                {
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "ranges": [
-                        {
-                            "propagationId": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
-                            "sourceId": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
-                            "startLine": 13,
-                            "startColumn": 24,
-                            "endLine": 13,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "8fba14d2-2377-4b58-8402-523f6d78ed92",
-                            "sourceId": "8fba14d2-2377-4b58-8402-523f6d78ed92",
-                            "startLine": 29,
-                            "startColumn": 28,
-                            "endLine": 29,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "ranges": [
-                        {
-                            "propagationId": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
-                            "sourceId": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
-                            "startLine": 12,
-                            "startColumn": 24,
-                            "endLine": 12,
-                            "endColumn": 41,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "617cebf9-b73e-4605-9b65-d695661323f2",
-                            "sourceId": "617cebf9-b73e-4605-9b65-d695661323f2",
-                            "startLine": 26,
-                            "startColumn": 28,
-                            "endLine": 26,
-                            "endColumn": 45,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "ranges": [
-                        {
-                            "propagationId": "1b3f66ab-df50-4897-80aa-d1a133391c18",
-                            "sourceId": "1b3f66ab-df50-4897-80aa-d1a133391c18",
-                            "startLine": 15,
-                            "startColumn": 24,
-                            "endLine": 15,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "d0110719-ca4a-40f8-8de6-2ce908504f72",
-                            "sourceId": "d0110719-ca4a-40f8-8de6-2ce908504f72",
-                            "startLine": 35,
-                            "startColumn": 28,
-                            "endLine": 35,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "ranges": [
-                        {
-                            "propagationId": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
-                            "sourceId": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
-                            "startLine": 14,
-                            "startColumn": 24,
-                            "endLine": 14,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "64214cc6-1e53-410e-9c93-75f75b0469ac",
-                            "sourceId": "64214cc6-1e53-410e-9c93-75f75b0469ac",
-                            "startLine": 32,
-                            "startColumn": 28,
-                            "endLine": 32,
-                            "endColumn": 44,
                             "isValidated": true,
                             "isMapped": true,
                             "analyzer": "Resource Analyzer",

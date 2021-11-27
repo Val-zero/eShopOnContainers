@@ -1,0 +1,10 @@
+File,Basket(%Of-File),Basket(%Of-Feature),Basket(#Propagations),CatalogBrands(%Of-File),CatalogBrands(%Of-Feature),CatalogBrands(#Propagations),CatalogItems(%Of-File),CatalogItems(%Of-Feature),CatalogItems(#Propagations),CatalogPictures(%Of-File),CatalogPictures(%Of-Feature),CatalogPictures(#Propagations),CatalogTypes(%Of-File),CatalogTypes(%Of-Feature),CatalogTypes(#Propagations),Login(%Of-File),Login(%Of-Feature),Login(#Propagations),RessourcesGraphiques(%Of-File),RessourcesGraphiques(%Of-Feature),RessourcesGraphiques(#Propagations),Tri(%Of-File),Tri(%Of-Feature),Tri(#Propagations)
+src\Web\WebSPA\Client\src\modules\shared\components\identity\identity.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99.90412272291466,50,1,0,0,0
+src\Web\WebMVC\Views\Shared\_Layout.cshtml,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7196770229945585,50,1,0,0,0
+src\Services\Catalog\Catalog.FunctionalTests\Catalog.FunctionalTests.csproj,1.8801410105757932,40,2,1.8801410105757932,40,2,0,0,0,0,0,0,1.8801410105757932,40,2,1.9976498237367801,40,2,0,0,0,0,0,0
+src\Tests\Services\Application.FunctionalTests\Application.FunctionalTests.csproj,1.1319419879731163,40,2,1.1319419879731163,40,2,0,0,0,0,0,0,1.1319419879731163,40,2,1.2026883622214362,40,2,0,0,0,0,0,0
+src\Web\WebMVC\WebMVC.csproj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3325573661456601,25,1
+src\Web\WebSPA\WebSPA.csproj,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2767783005812344,25,1
+src\Web\WebSPA\Server\Infrastructure\WebContextSeed.cs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3434065934065934,25,1
+src\Web\WebMVC\Infrastructure\WebContextSeed.cs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2844950213371266,25,1
+src\Services\Catalog\Catalog.API\Infrastructure\CatalogContextSeed.cs,0.08976660682226212,20,1,0.08976660682226212,20,1,0,0,0,0,0,0,0.08976660682226212,20,1,0.0953770197486535,20,1,0,0,0,0,0,0

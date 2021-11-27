@@ -1,4 +1,1420 @@
 {
-    "rangeSeeds": [],
+    "rangeSeeds": [
+        {
+            "file": "src/Web/WebMVC/Views/Shared/_Layout.cshtml",
+            "seeds": [
+                {
+                    "id": "c59192c6-b938-4d01-954b-fbcffdd50dc8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 45,
+                    "startColumn": 16,
+                    "endLine": 45,
+                    "endColumn": 57,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                },
+                {
+                    "id": "8180d8bf-7463-4b92-94f5-5a08912bded8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 94,
+                    "startColumn": 0,
+                    "endLine": 134,
+                    "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/components/identity/identity.html",
+            "seeds": [
+                {
+                    "id": "b9143382-e71f-48de-9932-c3f5a7cff2c9",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 31,
+                    "endColumn": 6,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/components/identity/identity.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/shared.module.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/eShopOnContainers-ServicesAndWebApps.sln",
+            "seeds": [
+                {
+                    "id": "e85bbcb8-e2a0-4e9c-a451-8f7b67097492",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 29,
+                    "startColumn": 0,
+                    "endLine": 30,
+                    "endColumn": 10,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "5e5668e4-812c-4572-bece-7d86735faf3f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 43,
+                    "startColumn": 0,
+                    "endLine": 44,
+                    "endColumn": 10,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "db4c125d-c09c-46b2-9674-4242150e3c07",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 380,
+                    "startColumn": 2,
+                    "endLine": 427,
+                    "endColumn": 78,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "9a6907af-ee8f-4b94-b652-8b21f94c893e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 1543,
+                    "startColumn": 2,
+                    "endLine": 1543,
+                    "endColumn": 81,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "432af4cf-948c-4ba6-9a12-cb4177de64e9",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 1550,
+                    "startColumn": 2,
+                    "endLine": 1550,
+                    "endColumn": 81,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "build/acr-build/queue-all.ps1",
+            "seeds": [
+                {
+                    "id": "5bb56f54-d748-42d1-910e-49db3b5a8b1e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 13,
+                    "startColumn": 0,
+                    "endLine": 14,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "build/multiarch-manifests/create-manifests.ps1",
+            "seeds": [
+                {
+                    "id": "fc123f3a-228f-4ab6-b8b4-84ddd216e349",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 14,
+                    "startColumn": 12,
+                    "endLine": 14,
+                    "endColumn": 27,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/app.yaml",
+            "seeds": [
+                {
+                    "id": "2551dc1a-858b-4021-a93a-81afc7563c40",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 10,
+                    "startColumn": 6,
+                    "endLine": 10,
+                    "endColumn": 88,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "d599f53a-30fb-4d68-bba8-f8f7e9e6d28a",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 27,
+                    "startColumn": 6,
+                    "endLine": 27,
+                    "endColumn": 87,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/azure/az/sql/sqldeploy.parameters.json",
+            "seeds": [
+                {
+                    "id": "cfcfe399-2f49-4339-9677-18e9b3f991e6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 9,
+                    "startColumn": 10,
+                    "endLine": 9,
+                    "endColumn": 35,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/deploy-all-mac.ps1",
+            "seeds": [
+                {
+                    "id": "18b984b9-7b69-43d4-a5a2-0fcefcea670f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 122,
+                    "startColumn": 55,
+                    "endLine": 122,
+                    "endColumn": 70,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/deploy-all.ps1",
+            "seeds": [
+                {
+                    "id": "70483aa4-2add-4608-bc35-c4007e47cfa5",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 121,
+                    "startColumn": 55,
+                    "endLine": 121,
+                    "endColumn": 70,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/deploy-all.sh",
+            "seeds": [
+                {
+                    "id": "694ba108-680a-43c0-b3f1-f99d035be541",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 144,
+                    "startColumn": 35,
+                    "endLine": 144,
+                    "endColumn": 47,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "562974e5-6537-4add-8833-112eb8b49786",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 211,
+                    "startColumn": 60,
+                    "endLine": 211,
+                    "endColumn": 72,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/inf.yaml",
+            "seeds": [
+                {
+                    "id": "c17f5384-4ced-41e2-a41e-6ec82a961c40",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 20,
+                    "endColumn": 54,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/basket-api/values.yaml",
+            "seeds": [
+                {
+                    "id": "a6ec0095-41e5-4c54-b64a-8b920648bc57",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 36,
+                    "startColumn": 0,
+                    "endLine": 37,
+                    "endColumn": 28,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/basket-api/templates/configmap.yaml",
+            "seeds": [
+                {
+                    "id": "e1b97130-eaaa-4457-bcf4-ffb5404869d6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 13,
+                    "startColumn": 2,
+                    "endLine": 13,
+                    "endColumn": 58,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose-tests.override.yml",
+            "seeds": [
+                {
+                    "id": "c54403be-c18c-4fca-9ef3-9060b889d06c",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 23,
+                    "startColumn": 0,
+                    "endLine": 39,
+                    "endColumn": 17,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "aecb3f19-ae90-44f2-82b4-ecfa61856b76",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 46,
+                    "startColumn": 0,
+                    "endLine": 46,
+                    "endColumn": 39,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "f957df72-1e59-42bd-8b6c-ed90010a4ba6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 68,
+                    "startColumn": 0,
+                    "endLine": 68,
+                    "endColumn": 39,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "70656f26-67e3-48e7-9326-a4e77ed6ff25",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 138,
+                    "startColumn": 0,
+                    "endLine": 138,
+                    "endColumn": 39,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "5edd7da9-3d81-4093-af26-78aae18e7ab3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 162,
+                    "startColumn": 0,
+                    "endLine": 162,
+                    "endColumn": 39,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose-tests.yml",
+            "seeds": [
+                {
+                    "id": "da177df7-9dab-4091-892d-5c450f886f69",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 15,
+                    "startColumn": 0,
+                    "endLine": 21,
+                    "endColumn": 21,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose-windows.prod.yml",
+            "seeds": [
+                {
+                    "id": "e96a4812-af94-4ef7-833f-604d82624b50",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 20,
+                    "startColumn": 0,
+                    "endLine": 21,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "a77368eb-58ba-40d2-abe2-528d19e58eef",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 42,
+                    "startColumn": 0,
+                    "endLine": 54,
+                    "endColumn": 17,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "4e121f1e-4647-472a-a395-874a2d7ba9e3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 61,
+                    "startColumn": 0,
+                    "endLine": 62,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "8a7e6b03-99d4-41c1-8f75-1522e4063c29",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 90,
+                    "startColumn": 0,
+                    "endLine": 91,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "6f53c3de-b383-4d7c-9a2a-48dda1c728c9",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 126,
+                    "startColumn": 0,
+                    "endLine": 126,
+                    "endColumn": 42,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.override.yml",
+            "seeds": [
+                {
+                    "id": "5e3d7075-ec7f-42c6-8f06-a51033c5bcab",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 40,
+                    "startColumn": 0,
+                    "endLine": 58,
+                    "endColumn": 17,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "df07bd6e-5c60-4996-aad2-697bec25eca2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 65,
+                    "startColumn": 0,
+                    "endLine": 66,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "6c85c3c6-ab0c-4daf-812b-6f1d13287fc4",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 108,
+                    "startColumn": 0,
+                    "endLine": 109,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "64377e06-3bed-4c5e-95fd-d17463187320",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 170,
+                    "startColumn": 0,
+                    "endLine": 171,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "3ac26c11-9d82-40e6-a2bf-df5ae87b4558",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 195,
+                    "startColumn": 0,
+                    "endLine": 196,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "cc62935d-6fdb-4610-af85-1f4630bbaab5",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 201,
+                    "startColumn": 0,
+                    "endLine": 202,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "6d3ddbad-c6b8-4df2-a126-6391d1749adc",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 214,
+                    "startColumn": 0,
+                    "endLine": 215,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "246134b3-b82d-4339-8f1a-dd397b62eb54",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 220,
+                    "startColumn": 0,
+                    "endLine": 221,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "65214146-f7b6-4177-8f9b-76ac9d085032",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 237,
+                    "startColumn": 0,
+                    "endLine": 238,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "4986a7b2-73dc-4235-82ed-a9b479214d8f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 259,
+                    "startColumn": 0,
+                    "endLine": 260,
+                    "endColumn": 67,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "e4d91aa9-e99a-472d-8f67-6fe757167654",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 278,
+                    "startColumn": 0,
+                    "endLine": 279,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "20a1be32-cb77-435f-8dac-acfa7a874c38",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 293,
+                    "startColumn": 0,
+                    "endLine": 294,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.prod.yml",
+            "seeds": [
+                {
+                    "id": "1367437b-2ab3-450f-bb73-fb2e9472f46c",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 22,
+                    "startColumn": 0,
+                    "endLine": 23,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "15bc824b-96fb-4112-971c-c2b422fc9e8f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 54,
+                    "startColumn": 0,
+                    "endLine": 70,
+                    "endColumn": 17,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "5c3eac89-cc43-4ef0-83b7-1f3c53844df5",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 77,
+                    "startColumn": 0,
+                    "endLine": 78,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "5bbc1f04-b056-494d-93b9-f82c3c099ecd",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 117,
+                    "startColumn": 0,
+                    "endLine": 118,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "c19deddc-d874-4fe1-8984-729154efced8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 131,
+                    "startColumn": 0,
+                    "endLine": 132,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "89b4c1e2-def6-48a9-844d-93c9a6fd410b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 134,
+                    "startColumn": 0,
+                    "endLine": 135,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "a20c279a-fdd1-4ec4-8e0e-881ea21298b8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 151,
+                    "startColumn": 0,
+                    "endLine": 152,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "eb092895-1575-4ae5-9ee7-3ec47d09800b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 196,
+                    "startColumn": 0,
+                    "endLine": 197,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "dfcee99f-57aa-4a46-92db-501cf705b8e3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 206,
+                    "startColumn": 0,
+                    "endLine": 207,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "d0d10ec7-ee82-446e-9d63-6702faa816ad",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 219,
+                    "startColumn": 0,
+                    "endLine": 220,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "06b62c46-da40-4a82-b0b9-b51b6207a4d0",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 230,
+                    "startColumn": 0,
+                    "endLine": 231,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.windows.yml",
+            "seeds": [
+                {
+                    "id": "25766a18-08d5-4d8b-bb72-4f07c82e4975",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 22,
+                    "endColumn": 49,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.yml",
+            "seeds": [
+                {
+                    "id": "ce9529cc-e0ea-4cda-b9c5-4825b00f878f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 25,
+                    "endColumn": 15,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "d546c083-8d5f-496d-bfc7-dadb6466034f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 34,
+                    "startColumn": 0,
+                    "endLine": 35,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "c2e5196b-2f43-4a8b-b4be-e142f6c7c747",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 91,
+                    "startColumn": 0,
+                    "endLine": 92,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "e3620068-4f2b-43de-94df-a87c09a31d7f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 105,
+                    "startColumn": 0,
+                    "endLine": 106,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "167b0c5b-6dd5-4e68-8af7-7d3773e69d19",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 119,
+                    "startColumn": 0,
+                    "endLine": 120,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/prepare-devspaces.ps1",
+            "seeds": [
+                {
+                    "id": "750f6405-c88b-4c75-ab94-4e0fb6ca9314",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 28,
+                    "startColumn": 0,
+                    "endLine": 30,
+                    "endColumn": 87,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/run-test-infrastructure.ps1",
+            "seeds": [
+                {
+                    "id": "5590e7b8-dabd-49b9-9953-d6d2420c3cf9",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 0,
+                    "startColumn": 148,
+                    "endLine": 0,
+                    "endColumn": 166,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/appsettings.localhost.json",
+            "seeds": [
+                {
+                    "id": "846f1dce-fef5-4bd0-acc7-fef4623baa6e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 5,
+                    "startColumn": 0,
+                    "endLine": 5,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "1ae63275-e23e-4a77-a4b8-b84d62b7bb99",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 10,
+                    "startColumn": 0,
+                    "endLine": 11,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/Dockerfile",
+            "seeds": [
+                {
+                    "id": "3abff0c5-2e89-49d8-9c2f-4e89a31c98b1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/Startup.cs",
+            "seeds": [
+                {
+                    "id": "d9d5f4c0-5d6f-4f95-98d7-7785fab1babb",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 44,
+                    "startColumn": 16,
+                    "endLine": 44,
+                    "endColumn": 134,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "a6e5cead-3c34-47bd-9ef5-ed8719d8d4d2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 127,
+                    "startColumn": 2,
+                    "endLine": 128,
+                    "endColumn": 121,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Web.Bff.Shopping/aggregator/appsettings.localhost.json",
+            "seeds": [
+                {
+                    "id": "fe0b2566-bfd1-483c-9269-dfefa26d2a66",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 5,
+                    "startColumn": 0,
+                    "endLine": 5,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Web.Bff.Shopping/aggregator/Dockerfile",
+            "seeds": [
+                {
+                    "id": "11918307-6e6b-4245-87d6-7a6abc10cb0d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/ApiGateways/Web.Bff.Shopping/aggregator/Startup.cs",
+            "seeds": [
+                {
+                    "id": "8be597a3-9380-48e8-8911-7948d6977add",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 44,
+                    "startColumn": 0,
+                    "endLine": 45,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Basket/Basket.API/appsettings.Development.json",
+            "seeds": [
+                {
+                    "id": "c0fbabb9-a932-4b9f-9358-26ec5834b372",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 11,
+                    "startColumn": 0,
+                    "endLine": 12,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Basket/Basket.API/Dockerfile",
+            "seeds": [
+                {
+                    "id": "a9e7879d-bec1-4521-89a8-3b4b6a2e6b71",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Basket/Basket.FunctionalTests/appsettings.json",
+            "seeds": [
+                {
+                    "id": "da63ea10-ef2c-439b-9e81-e5c509d94730",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 9,
+                    "startColumn": 0,
+                    "endLine": 10,
+                    "endColumn": 49,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Catalog/Catalog.API/Dockerfile",
+            "seeds": [
+                {
+                    "id": "1bfd7987-463a-4087-8827-6c7cfaee6ac1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 27,
+                    "startColumn": 0,
+                    "endLine": 28,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Catalog/Catalog.FunctionalTests/appsettings.json",
+            "seeds": [
+                {
+                    "id": "9d42288f-a939-41e1-9e2d-1c99d1726363",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 3,
+                    "startColumn": 0,
+                    "endLine": 3,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.API/appsettings.json",
+            "seeds": [
+                {
+                    "id": "9c7540f4-5bee-4f70-aa01-bbec9de9d234",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 2,
+                    "startColumn": 2,
+                    "endLine": 2,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.API/Dockerfile",
+            "seeds": [
+                {
+                    "id": "82d96ceb-2c78-446d-8309-9c699e9219fe",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Webhooks/Webhooks.API/Dockerfile",
+            "seeds": [
+                {
+                    "id": "a334ebae-ac2f-48fb-b834-ff1b61067791",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Services/Basket/appsettings.json",
+            "seeds": [
+                {
+                    "id": "843ec5a5-adbf-416a-826d-c50a0034b78b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 9,
+                    "startColumn": 0,
+                    "endLine": 10,
+                    "endColumn": 49,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Services/Catalog/appsettings.json",
+            "seeds": [
+                {
+                    "id": "fc694ab3-201c-4715-85dd-4a64d250109f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 3,
+                    "startColumn": 0,
+                    "endLine": 4,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Tests/Services/Application.FunctionalTests/Services/Ordering/appsettings.json",
+            "seeds": [
+                {
+                    "id": "92886993-1f03-4ab3-b2f9-374afc1fbdf1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 3,
+                    "startColumn": 0,
+                    "endLine": 4,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "fe8fc218-8676-486b-88c1-6caf4a2b3812",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 9,
+                    "startColumn": 0,
+                    "endLine": 10,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebhookClient/Dockerfile",
+            "seeds": [
+                {
+                    "id": "de51a31f-0ba2-43b3-b3c4-b8e7b61248f6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 27,
+                    "startColumn": 0,
+                    "endLine": 28,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/appsettings.json",
+            "seeds": [
+                {
+                    "id": "ce47e690-0fc1-44ab-b414-2a82aa406cb7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 4,
+                    "startColumn": 2,
+                    "endLine": 4,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Dockerfile",
+            "seeds": [
+                {
+                    "id": "57291262-7a61-4a3d-ae84-6838235ca484",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Startup.cs",
+            "seeds": [
+                {
+                    "id": "9df43293-b9c1-4160-a619-a2ac35aba80e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 47,
+                    "startColumn": 12,
+                    "endLine": 47,
+                    "endColumn": 60,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "459a83a7-183e-41c6-9e7f-42dda075c021",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 117,
+                    "startColumn": 16,
+                    "endLine": 117,
+                    "endColumn": 134,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/appsettings.json",
+            "seeds": [
+                {
+                    "id": "033e30b3-7292-4be1-977c-e20f646a6484",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 1,
+                    "startColumn": 0,
+                    "endLine": 1,
+                    "endColumn": 52,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "45f34716-fadd-49b9-adfe-b3076696619b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 6,
+                    "startColumn": 0,
+                    "endLine": 6,
+                    "endColumn": 57,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Dockerfile",
+            "seeds": [
+                {
+                    "id": "3b519a89-a2b7-4a81-baa7-c1a0e58fb7b6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 37,
+                    "startColumn": 0,
+                    "endLine": 38,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Startup.cs",
+            "seeds": [
+                {
+                    "id": "e5a8fe70-b6dd-47ac-9e30-352d99078b39",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 45,
+                    "startColumn": 16,
+                    "endLine": 45,
+                    "endColumn": 134,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebStatus/Dockerfile",
+            "seeds": [
+                {
+                    "id": "7382cd19-a0da-47ea-b36a-c4c7b9d8dc57",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.BackgroundTasks/Dockerfile",
+            "seeds": [
+                {
+                    "id": "446944ba-0884-4eb9-abce-0d93ed615b01",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Ordering/Ordering.SignalrHub/Dockerfile",
+            "seeds": [
+                {
+                    "id": "8d7e427e-7662-4e71-88cc-26ea2064c67f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Services/Payment/Payment.API/Dockerfile",
+            "seeds": [
+                {
+                    "id": "d7dca422-0785-4238-82fe-451aa0aae1c7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 26,
+                    "startColumn": 0,
+                    "endLine": 27,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/DockerfileSolutionRestore.txt",
+            "seeds": [
+                {
+                    "id": "97a9b64b-d667-4f3e-9079-fd2ac6debdb1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 16,
+                    "startColumn": 0,
+                    "endLine": 17,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        }
+    ],
     "fileSeeds": []
 }

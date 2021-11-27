@@ -35,23 +35,6 @@
             ]
         },
         {
-            "file": "src/Services/Identity/Identity.API/Data/ApplicationDbContextSeed.cs",
-            "seeds": [
-                {
-                    "id": "806b2018-47c0-48b6-ad48-039cb71cd702",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "startLine": 198,
-                    "startColumn": 79,
-                    "endLine": 198,
-                    "endColumn": 89,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
             "file": "src/Web/WebSPA/WebSPA.csproj",
             "seeds": [
                 {
