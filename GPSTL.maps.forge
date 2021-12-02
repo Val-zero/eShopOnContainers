@@ -43,12 +43,7 @@
                             "isFromMarker": true,
                             "parent": "-1",
                             "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
-                    "ranges": [
+                        },
                         {
                             "propagationId": "8180d8bf-7463-4b92-94f5-5a08912bded8",
                             "sourceId": "8180d8bf-7463-4b92-94f5-5a08912bded8",
@@ -58,6 +53,25 @@
                             "endColumn": 9,
                             "isValidated": true,
                             "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "7d3db2a3-2950-4b12-bb6f-80e007ed4fdb",
+                            "sourceId": "7d3db2a3-2950-4b12-bb6f-80e007ed4fdb",
+                            "startLine": 14,
+                            "startColumn": 8,
+                            "endLine": 16,
+                            "endColumn": 8,
+                            "isValidated": true,
+                            "isMapped": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
                             "parent": "-1",
@@ -1090,6 +1104,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "25f2bbb1-6bfd-4533-9470-75959ca1339c",
+                            "sourceId": "25f2bbb1-6bfd-4533-9470-75959ca1339c",
+                            "startLine": 0,
+                            "startColumn": 117,
+                            "endLine": 0,
+                            "endColumn": 134,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1358,6 +1391,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "1e9cd3ea-eebf-41a3-8b46-4d578c17e626",
+                            "sourceId": "1e9cd3ea-eebf-41a3-8b46-4d578c17e626",
+                            "startLine": 21,
+                            "startColumn": 0,
+                            "endLine": 24,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1424,6 +1476,25 @@
                             "endColumn": 0,
                             "isValidated": true,
                             "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "3a652b85-ebe6-49b9-acae-b67b79f7145d",
+                            "sourceId": "3a652b85-ebe6-49b9-acae-b67b79f7145d",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 23,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
                             "parent": "-1",
@@ -1564,6 +1635,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "ff90ecf0-9b24-4e32-b4b4-acd5ecce6979",
+                            "sourceId": "ff90ecf0-9b24-4e32-b4b4-acd5ecce6979",
+                            "startLine": 21,
+                            "startColumn": 0,
+                            "endLine": 24,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1588,6 +1678,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "d6d62d98-527a-4376-a58b-d143b6b7e426",
+                            "sourceId": "d6d62d98-527a-4376-a58b-d143b6b7e426",
+                            "startLine": 3,
+                            "startColumn": 0,
+                            "endLine": 4,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1603,6 +1712,25 @@
                             "startLine": 26,
                             "startColumn": 0,
                             "endLine": 27,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "6daffbf9-a2a1-453c-89a5-b2b26555a94c",
+                            "sourceId": "6daffbf9-a2a1-453c-89a5-b2b26555a94c",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 23,
                             "endColumn": 0,
                             "isValidated": true,
                             "isMapped": false,
@@ -1650,6 +1778,39 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "d02df79e-4fbf-46ac-8cef-7313ccff4a58",
+                            "sourceId": "d02df79e-4fbf-46ac-8cef-7313ccff4a58",
+                            "startLine": 203,
+                            "startColumn": 16,
+                            "endLine": 204,
+                            "endColumn": 16,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "96bc41cc-4688-44c0-8a12-c49cebcc4bcf",
+                            "sourceId": "96bc41cc-4688-44c0-8a12-c49cebcc4bcf",
+                            "startLine": 154,
+                            "startColumn": 12,
+                            "endLine": 158,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1688,6 +1849,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "e6cec771-6581-4414-a625-e150fd85c470",
+                            "sourceId": "e6cec771-6581-4414-a625-e150fd85c470",
+                            "startLine": 3,
+                            "startColumn": 0,
+                            "endLine": 4,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1706,6 +1886,25 @@
                             "endColumn": 0,
                             "isValidated": true,
                             "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "98c0db23-20f0-49ed-8315-df358ee25c39",
+                            "sourceId": "98c0db23-20f0-49ed-8315-df358ee25c39",
+                            "startLine": 31,
+                            "startColumn": 0,
+                            "endLine": 34,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
                             "parent": "-1",
@@ -1760,6 +1959,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "4f087a46-b20f-402c-bb6a-c7e2a68b50eb",
+                            "sourceId": "4f087a46-b20f-402c-bb6a-c7e2a68b50eb",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 23,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1784,6 +2002,25 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "9000aa23-76be-43e5-8158-96b55613808c",
+                            "sourceId": "9000aa23-76be-43e5-8158-96b55613808c",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 23,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1802,6 +2039,25 @@
                             "endColumn": 0,
                             "isValidated": true,
                             "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "fd3296ad-7f65-43c0-9482-40ae05c30738",
+                            "sourceId": "fd3296ad-7f65-43c0-9482-40ae05c30738",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 23,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
                             "parent": "-1",
@@ -2314,5 +2570,726 @@
             ]
         }
     ],
-    "pathPropagations": []
+    "pathPropagations": [
+        {
+            "propagationId": "de9840bc-24ee-4f50-8a2f-405b3f62797e",
+            "sourceId": "de9840bc-24ee-4f50-8a2f-405b3f62797e",
+            "propagatedPath": "src/Services/Basket",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "9227e531-5228-4b37-893e-aeb7dce362d0",
+            "sourceId": "9227e531-5228-4b37-893e-aeb7dce362d0",
+            "propagatedPath": "src/Services/Basket/Basket.API/.dockerignore",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "8b743854-5253-4173-b282-36d942ae5665",
+            "sourceId": "8b743854-5253-4173-b282-36d942ae5665",
+            "propagatedPath": "src/Services/Basket/Basket.API/appsettings.Development.json",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "ef8db048-3422-4373-990b-a579fb181a0b",
+            "sourceId": "ef8db048-3422-4373-990b-a579fb181a0b",
+            "propagatedPath": "src/Services/Basket/Basket.API/appsettings.json",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "99c1484b-e7db-4294-b60e-b3b76b40981a",
+            "sourceId": "99c1484b-e7db-4294-b60e-b3b76b40981a",
+            "propagatedPath": "src/Services/Basket/Basket.API/Auth/Client/enable-token-client.js",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "71d06ace-534f-41b5-a839-6c701ea8b774",
+            "sourceId": "71d06ace-534f-41b5-a839-6c701ea8b774",
+            "propagatedPath": "src/Services/Basket/Basket.API/Auth/Client/oidc-token-manager.js",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "1daf6040-f71f-469c-9d5b-cef92a140538",
+            "sourceId": "1daf6040-f71f-469c-9d5b-cef92a140538",
+            "propagatedPath": "src/Services/Basket/Basket.API/Auth/Client/popup.html",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "eb12e68e-20c4-4334-a2a5-a11fb450a00d",
+            "sourceId": "eb12e68e-20c4-4334-a2a5-a11fb450a00d",
+            "propagatedPath": "src/Services/Basket/Basket.API/Auth/Server/AuthorizationHeaderParameterOperationFilter.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "85dff5ad-acc6-4d6d-b4f5-a374dbae33a5",
+            "sourceId": "85dff5ad-acc6-4d6d-b4f5-a374dbae33a5",
+            "propagatedPath": "src/Services/Basket/Basket.API/azds.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "2671bd04-549e-4bc8-80ba-5f521731583d",
+            "sourceId": "2671bd04-549e-4bc8-80ba-5f521731583d",
+            "propagatedPath": "src/Services/Basket/Basket.API/Basket.API.csproj",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "dd40eb32-9cae-4672-b0a3-c65cf1cb15ee",
+            "sourceId": "dd40eb32-9cae-4672-b0a3-c65cf1cb15ee",
+            "propagatedPath": "src/Services/Basket/Basket.API/BasketSettings.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "78b03a2c-8663-489c-bd2c-b0bbdb95d4e3",
+            "sourceId": "78b03a2c-8663-489c-bd2c-b0bbdb95d4e3",
+            "propagatedPath": "src/Services/Basket/Basket.API/Controllers/BasketController.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e1606085-4bb8-42eb-9551-f049549f6450",
+            "sourceId": "e1606085-4bb8-42eb-9551-f049549f6450",
+            "propagatedPath": "src/Services/Basket/Basket.API/Controllers/HomeController.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "d2db9e8b-e544-4a65-a09d-63d6d1b6bffe",
+            "sourceId": "d2db9e8b-e544-4a65-a09d-63d6d1b6bffe",
+            "propagatedPath": "src/Services/Basket/Basket.API/Dockerfile",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "1ba75635-f286-42ee-a9d5-921071263fa2",
+            "sourceId": "1ba75635-f286-42ee-a9d5-921071263fa2",
+            "propagatedPath": "src/Services/Basket/Basket.API/Dockerfile.develop",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e368a269-4ecd-4a03-8c34-2307a63f5dd9",
+            "sourceId": "e368a269-4ecd-4a03-8c34-2307a63f5dd9",
+            "propagatedPath": "src/Services/Basket/Basket.API/Grpc/BasketService.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "adce33bb-f02f-4adf-9fb9-05c06cf4dd89",
+            "sourceId": "adce33bb-f02f-4adf-9fb9-05c06cf4dd89",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/ActionResults/InternalServerErrorObjectResult.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "889906ee-ea53-4163-98cd-d498af872007",
+            "sourceId": "889906ee-ea53-4163-98cd-d498af872007",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Exceptions/BasketDomainException.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "7d3dadbb-3d77-4a1d-b402-7ca27bcb36d4",
+            "sourceId": "7d3dadbb-3d77-4a1d-b402-7ca27bcb36d4",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Exceptions/FailingMiddlewareAppBuilderExtensions.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "63470884-c67e-428a-97cd-efede8fc463f",
+            "sourceId": "63470884-c67e-428a-97cd-efede8fc463f",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Filters/HttpGlobalExceptionFilter.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "950bbadd-5137-4284-aa5f-4433316071ff",
+            "sourceId": "950bbadd-5137-4284-aa5f-4433316071ff",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Filters/JsonErrorResponse.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "da8949c9-f8b1-463d-9f75-89e46b8baf36",
+            "sourceId": "da8949c9-f8b1-463d-9f75-89e46b8baf36",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Filters/ValidateModelStateFilter.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "55747401-3dc3-4ac5-90d9-814167b16b2a",
+            "sourceId": "55747401-3dc3-4ac5-90d9-814167b16b2a",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Middlewares/AuthorizeCheckOperationFilter.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "be2c66b8-e40b-4353-9606-4e5568bbdced",
+            "sourceId": "be2c66b8-e40b-4353-9606-4e5568bbdced",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Middlewares/FailingMiddleware.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "885822fb-a4fe-4158-8c17-8fe4ac6729b3",
+            "sourceId": "885822fb-a4fe-4158-8c17-8fe4ac6729b3",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Middlewares/FailingOptions.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "677cf33b-c97f-49a6-8f77-d26c5fa215b7",
+            "sourceId": "677cf33b-c97f-49a6-8f77-d26c5fa215b7",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Middlewares/FailingStartupFilter.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "87b908ef-7e96-4b89-89b5-a35c02a17d0d",
+            "sourceId": "87b908ef-7e96-4b89-89b5-a35c02a17d0d",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Middlewares/FailingWebHostBuilderExtensions.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "18de585c-d252-4735-8413-d5d802f25989",
+            "sourceId": "18de585c-d252-4735-8413-d5d802f25989",
+            "propagatedPath": "src/Services/Basket/Basket.API/Infrastructure/Repositories/RedisBasketRepository.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "5bb8244c-1916-40d8-9007-d5b57c25a2aa",
+            "sourceId": "5bb8244c-1916-40d8-9007-d5b57c25a2aa",
+            "propagatedPath": "src/Services/Basket/Basket.API/IntegrationEvents/EventHandling/OrderStartedIntegrationEventHandler.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "a56e714d-b829-462b-9e4c-18928243b1fb",
+            "sourceId": "a56e714d-b829-462b-9e4c-18928243b1fb",
+            "propagatedPath": "src/Services/Basket/Basket.API/IntegrationEvents/EventHandling/ProductPriceChangedIntegrationEventHandler.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e5ec514b-4f93-4936-9086-6abb6690b1bf",
+            "sourceId": "e5ec514b-4f93-4936-9086-6abb6690b1bf",
+            "propagatedPath": "src/Services/Basket/Basket.API/IntegrationEvents/Events/OrderStartedIntegrationEvent.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "a1074bb6-3ab4-4dd7-97db-b24a40ce4f2e",
+            "sourceId": "a1074bb6-3ab4-4dd7-97db-b24a40ce4f2e",
+            "propagatedPath": "src/Services/Basket/Basket.API/IntegrationEvents/Events/ProductPriceChangedIntegrationEvent.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "3c2f5591-a9d2-4efd-ac8e-b91f9ae4cdbc",
+            "sourceId": "3c2f5591-a9d2-4efd-ac8e-b91f9ae4cdbc",
+            "propagatedPath": "src/Services/Basket/Basket.API/IntegrationEvents/Events/UserCheckoutAcceptedIntegrationEvent.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "317710ea-42f1-4ab2-a24f-3bb464eadf66",
+            "sourceId": "317710ea-42f1-4ab2-a24f-3bb464eadf66",
+            "propagatedPath": "src/Services/Basket/Basket.API/Model/BasketCheckout.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "c0e9e080-5e7a-4e43-aeec-445aac26a474",
+            "sourceId": "c0e9e080-5e7a-4e43-aeec-445aac26a474",
+            "propagatedPath": "src/Services/Basket/Basket.API/Model/BasketItem.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "9e59bffa-9e09-4012-a491-b7393815c86f",
+            "sourceId": "9e59bffa-9e09-4012-a491-b7393815c86f",
+            "propagatedPath": "src/Services/Basket/Basket.API/Model/CustomerBasket.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "58f194eb-f35c-4e9e-9708-965dbb7eb836",
+            "sourceId": "58f194eb-f35c-4e9e-9708-965dbb7eb836",
+            "propagatedPath": "src/Services/Basket/Basket.API/Model/IBasketRepository.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "6d8cb3eb-372a-4eab-80ae-d6aa4ee3434e",
+            "sourceId": "6d8cb3eb-372a-4eab-80ae-d6aa4ee3434e",
+            "propagatedPath": "src/Services/Basket/Basket.API/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "d45b1190-33ef-4a33-b1b3-7f9a7e628241",
+            "sourceId": "d45b1190-33ef-4a33-b1b3-7f9a7e628241",
+            "propagatedPath": "src/Services/Basket/Basket.API/obj/Debug/net5.0/Basket.API.AssemblyInfo.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "f68fe405-8a2a-48d0-84f0-51bc41b95702",
+            "sourceId": "f68fe405-8a2a-48d0-84f0-51bc41b95702",
+            "propagatedPath": "src/Services/Basket/Basket.API/obj/Debug/net5.0/Basket.API.AssemblyInfoInputs.cache",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "856fb708-f13e-4f3c-8c3a-62d04b841b43",
+            "sourceId": "856fb708-f13e-4f3c-8c3a-62d04b841b43",
+            "propagatedPath": "src/Services/Basket/Basket.API/obj/Debug/net5.0/Basket.API.csproj.AssemblyReference.cache",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "4eeb706f-06c6-43f6-8706-aab8a97ed4d0",
+            "sourceId": "4eeb706f-06c6-43f6-8706-aab8a97ed4d0",
+            "propagatedPath": "src/Services/Basket/Basket.API/obj/Debug/net5.0/Basket.API.GeneratedMSBuildEditorConfig.editorconfig",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "7c61d1b7-8b55-4b44-8bfb-66a1538dad58",
+            "sourceId": "7c61d1b7-8b55-4b44-8bfb-66a1538dad58",
+            "propagatedPath": "src/Services/Basket/Basket.API/obj/Debug/net5.0/project.razor.json",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "a2d17ecb-c251-44dc-80e9-228fe47e2636",
+            "sourceId": "a2d17ecb-c251-44dc-80e9-228fe47e2636",
+            "propagatedPath": "src/Services/Basket/Basket.API/Program.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "cbb344e3-e5f5-46e5-9c73-dd120f49cd71",
+            "sourceId": "cbb344e3-e5f5-46e5-9c73-dd120f49cd71",
+            "propagatedPath": "src/Services/Basket/Basket.API/Properties/launchSettings.json",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "87f4f49b-cb7f-4eda-a01a-77ff1d5b90b4",
+            "sourceId": "87f4f49b-cb7f-4eda-a01a-77ff1d5b90b4",
+            "propagatedPath": "src/Services/Basket/Basket.API/Proto/basket.proto",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "db745962-59d9-410d-aba8-d8757f634865",
+            "sourceId": "db745962-59d9-410d-aba8-d8757f634865",
+            "propagatedPath": "src/Services/Basket/Basket.API/README.md",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "8a2860e9-2f0c-490e-944d-57a6c90c864c",
+            "sourceId": "8a2860e9-2f0c-490e-944d-57a6c90c864c",
+            "propagatedPath": "src/Services/Basket/Basket.API/Services/IdentityService.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "c4b1d462-5b97-43d2-9127-880a564936d1",
+            "sourceId": "c4b1d462-5b97-43d2-9127-880a564936d1",
+            "propagatedPath": "src/Services/Basket/Basket.API/Services/IIdentityService.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "847a5412-2aab-479b-b099-2fdd23ce0875",
+            "sourceId": "847a5412-2aab-479b-b099-2fdd23ce0875",
+            "propagatedPath": "src/Services/Basket/Basket.API/Startup.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "2148f891-df57-4105-9b1b-f397f9acf2ad",
+            "sourceId": "2148f891-df57-4105-9b1b-f397f9acf2ad",
+            "propagatedPath": "src/Services/Basket/Basket.API/TestHttpResponseTrailersFeature.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "7fa50fd1-0943-4be5-907b-de1a137e760a",
+            "sourceId": "7fa50fd1-0943-4be5-907b-de1a137e760a",
+            "propagatedPath": "src/Services/Basket/Basket.API/values.dev.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "7da675ee-91b1-4dba-a8f2-9ca77c5772ba",
+            "sourceId": "7da675ee-91b1-4dba-a8f2-9ca77c5772ba",
+            "propagatedPath": "src/Services/Basket/Basket.API/web.config",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e8d55e62-d819-4488-b724-4bfdb86eed2a",
+            "sourceId": "e8d55e62-d819-4488-b724-4bfdb86eed2a",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/appsettings.json",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e4573e24-db10-4531-9903-24a3c72de594",
+            "sourceId": "e4573e24-db10-4531-9903-24a3c72de594",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/Base/AutoAuthorizeMiddleware.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "d3a35b78-3413-4a31-befb-235504d3b691",
+            "sourceId": "d3a35b78-3413-4a31-befb-235504d3b691",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/Base/BasketScenarioBase.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "c9215e0a-c243-437e-916b-760f091cc8d2",
+            "sourceId": "c9215e0a-c243-437e-916b-760f091cc8d2",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/Base/BasketTestStartup.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e7eb55d5-41f1-4560-8eb1-bb725bc5b100",
+            "sourceId": "e7eb55d5-41f1-4560-8eb1-bb725bc5b100",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/Base/HttpClientExtensions.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "3868b428-2944-432d-b62b-f1505b0da171",
+            "sourceId": "3868b428-2944-432d-b62b-f1505b0da171",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "1f39d2cc-3d6f-46b6-a624-dbf0a88c5023",
+            "sourceId": "1f39d2cc-3d6f-46b6-a624-dbf0a88c5023",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/BasketScenarios.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "42a981ca-a262-4a3f-921f-3171b85dd4e7",
+            "sourceId": "42a981ca-a262-4a3f-921f-3171b85dd4e7",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "67ddacfa-b3ac-4fab-a3b2-d718aa9278d2",
+            "sourceId": "67ddacfa-b3ac-4fab-a3b2-d718aa9278d2",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/obj/Debug/net5.0/Basket.FunctionalTests.AssemblyInfo.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "f6065190-3632-406e-85a1-a78cdb7892c4",
+            "sourceId": "f6065190-3632-406e-85a1-a78cdb7892c4",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/obj/Debug/net5.0/Basket.FunctionalTests.AssemblyInfoInputs.cache",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "3365782e-6f9c-438a-98a9-8441d2921973",
+            "sourceId": "3365782e-6f9c-438a-98a9-8441d2921973",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/obj/Debug/net5.0/Basket.FunctionalTests.GeneratedMSBuildEditorConfig.editorconfig",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "ece58922-f7cd-4813-baf8-48ebdab56e2e",
+            "sourceId": "ece58922-f7cd-4813-baf8-48ebdab56e2e",
+            "propagatedPath": "src/Services/Basket/Basket.FunctionalTests/RedisBasketRepositoryTests.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "4908d8a4-28d4-4f53-a453-fec6e238516b",
+            "sourceId": "4908d8a4-28d4-4f53-a453-fec6e238516b",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/Application/BasketWebApiTest.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "f036e591-5ec5-4b3a-b326-b0207843808c",
+            "sourceId": "f036e591-5ec5-4b3a-b326-b0207843808c",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/Application/CartControllerTest.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "27a1f02e-6df9-468c-b596-bc3c5130480f",
+            "sourceId": "27a1f02e-6df9-468c-b596-bc3c5130480f",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/Basket.UnitTests.csproj",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "de677cc0-0d1e-408e-b731-7ea22ce7ff5f",
+            "sourceId": "de677cc0-0d1e-408e-b731-7ea22ce7ff5f",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e719eced-2409-49da-8f5a-be67c8f05b1d",
+            "sourceId": "e719eced-2409-49da-8f5a-be67c8f05b1d",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/obj/Debug/net5.0/Basket.UnitTests.AssemblyInfo.cs",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "bed63e0e-e4b6-466e-b66a-79e7e191e5ae",
+            "sourceId": "bed63e0e-e4b6-466e-b66a-79e7e191e5ae",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/obj/Debug/net5.0/Basket.UnitTests.AssemblyInfoInputs.cache",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "908a285c-7373-4618-bf5a-39007b8c0e30",
+            "sourceId": "908a285c-7373-4618-bf5a-39007b8c0e30",
+            "propagatedPath": "src/Services/Basket/Basket.UnitTests/obj/Debug/net5.0/Basket.UnitTests.GeneratedMSBuildEditorConfig.editorconfig",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        }
+    ]
 }

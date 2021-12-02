@@ -60,7 +60,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6",
+            "id": "ab617c18-2dbe-4926-b63f-391b02a9101a",
             "position": {
                 "x": 840,
                 "y": 50
@@ -159,19 +159,19 @@
             "feature": {
                 "key": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
                 "name": "CatalogItems",
-                "nodeType": "resourceFile",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
                 "hexColor": "#626a5e",
                 "help": "",
                 "nodeWeight": -1,
-                "isPropagated": false,
                 "filePath": "src/Services/Catalog/Catalog.API/Setup",
-                "referenceType": "not a reference"
+                "nodeType": "resourceFile",
+                "referenceType": "not a reference",
+                "fullName": "CatalogItems"
             },
             "size": {
                 "width": 180,
@@ -216,7 +216,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "b689db7d-e28e-469f-84e8-2b34aca8eb90",
+            "id": "c2290c66-3793-4db9-8fd4-096bb7e3433c",
             "position": {
                 "x": 150,
                 "y": 151
@@ -305,8 +305,7 @@
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
-                    "cursor": "pointer",
-                    "display": "block"
+                    "cursor": "pointer"
                 }
             }
         },
@@ -315,19 +314,19 @@
             "feature": {
                 "key": "c33da827-deff-4676-8bd1-3adcae78ae3e",
                 "name": "CatalogBrands",
-                "nodeType": "resourceFile",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
                 "hexColor": "#8eecc8",
                 "help": "",
                 "nodeWeight": -1,
-                "isPropagated": false,
                 "filePath": "src/Services/Catalog/Catalog.API/Setup",
-                "referenceType": "not a reference"
+                "nodeType": "resourceFile",
+                "referenceType": "not a reference",
+                "fullName": "CatalogBrands"
             },
             "size": {
                 "width": 180,
@@ -372,7 +371,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "21a01af0-e211-44c5-b6c8-38ca6fcc7b58",
+            "id": "ba92b1ea-12ed-4a98-9f50-592944546f16",
             "position": {
                 "x": 380,
                 "y": 151
@@ -461,8 +460,7 @@
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
-                    "cursor": "pointer",
-                    "display": "block"
+                    "cursor": "pointer"
                 }
             }
         },
@@ -471,19 +469,19 @@
             "feature": {
                 "key": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
                 "name": "CatalogTypes",
-                "nodeType": "resourceFile",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
                 "hexColor": "#270d04",
                 "help": "",
                 "nodeWeight": -1,
-                "isPropagated": false,
                 "filePath": "src/Services/Catalog/Catalog.API/Setup",
-                "referenceType": "not a reference"
+                "nodeType": "resourceFile",
+                "referenceType": "not a reference",
+                "fullName": "CatalogTypes"
             },
             "size": {
                 "width": 180,
@@ -528,7 +526,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "e5248fe0-5029-41fc-9065-317d706cbed3",
+            "id": "0fca9bf7-ef22-4592-a994-a6d1751b8b40",
             "position": {
                 "x": 610,
                 "y": 151
@@ -617,8 +615,7 @@
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
-                    "cursor": "pointer",
-                    "display": "block"
+                    "cursor": "pointer"
                 }
             }
         },
@@ -627,19 +624,19 @@
             "feature": {
                 "key": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
                 "name": "RessourcesGraphiques",
-                "nodeType": "resourceFile",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
                 "hexColor": "#480e49",
                 "help": "",
                 "nodeWeight": -1,
-                "isPropagated": false,
                 "filePath": "src/Web/WebMVC/Setup",
-                "referenceType": "not a reference"
+                "nodeType": "resourceFile",
+                "referenceType": "not a reference",
+                "fullName": "RessourcesGraphiques"
             },
             "size": {
                 "width": 180,
@@ -684,7 +681,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "1bbf5395-2be5-4559-8567-9743c4e264d1",
+            "id": "747e45ca-11aa-452c-954e-1eb8575a87d8",
             "position": {
                 "x": 840,
                 "y": 151
@@ -773,8 +770,7 @@
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
-                    "cursor": "pointer",
-                    "display": "block"
+                    "cursor": "pointer"
                 }
             }
         },
@@ -840,7 +836,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "b5b02d13-990a-468f-8dba-ac994d2a612f",
+            "id": "8c13c375-e978-4564-846e-37b26fc158f2",
             "position": {
                 "x": 1070,
                 "y": 151
@@ -849,9 +845,9 @@
                 "body": {
                     "refWidth": "100%",
                     "refHeight": "100%",
-                    "strokeWidth": 2,
+                    "strokeWidth": 1,
                     "fill": "#FFFFFF",
-                    "stroke": "#FFCFC3",
+                    "stroke": "#b745bb",
                     "style": {
                         "transition": "0.3s ease-in-out"
                     },
@@ -994,7 +990,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "aad74c1f-e55b-431d-9121-df7620adeba5",
+            "id": "0649c65c-5f2a-4aaf-bdaf-85d7d889daf3",
             "position": {
                 "x": 1300,
                 "y": 151
@@ -1090,7 +1086,7 @@
         {
             "type": "app.FeatureShapeModel",
             "feature": {
-                "key": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                "key": "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
                 "name": "Login",
                 "type": "Functionality feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
@@ -1098,7 +1094,7 @@
                 "presence": "Optional",
                 "lgFile": "",
                 "role": "",
-                "hexColor": "#3844f0",
+                "hexColor": "#806cf1",
                 "help": "",
                 "nodeWeight": -1,
                 "nodeType": "feature",
@@ -1148,7 +1144,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "ca4e8230-d400-48b7-8313-8cbcd56e73df",
+            "id": "922d6ec7-5bd3-4f04-a4d1-6d2b3bd3a4e2",
             "position": {
                 "x": 1530,
                 "y": 151
@@ -1233,7 +1229,7 @@
                 "markerColorRect": {
                     "refX": 12,
                     "refY": 10,
-                    "fill": "#3844f0",
+                    "fill": "#806cf1",
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
@@ -1244,20 +1240,21 @@
         {
             "type": "app.FeatureShapeModel",
             "feature": {
-                "key": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                "key": "ea6b4e21-302f-45c7-80d4-a7b5bbd0c60c",
                 "name": "Basket",
+                "nodeType": "feature",
                 "type": "Functionality feature",
-                "parent": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                "parent": "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
                 "parentRelation": "Normal",
                 "presence": "Optional",
                 "lgFile": "",
                 "role": "",
-                "hexColor": "#83a21f",
+                "hexColor": "#ffb30f",
                 "help": "",
                 "nodeWeight": -1,
-                "nodeType": "feature",
-                "referenceType": "not a reference",
-                "fullName": "Basket"
+                "isPropagated": false,
+                "filePath": "",
+                "referenceType": "not a reference"
             },
             "size": {
                 "width": 180,
@@ -1302,7 +1299,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "fe67eae1-093a-4671-b32c-c4f38cc1293d",
+            "id": "ea6e972b-806a-4dc5-a18f-12d528c53e83",
             "position": {
                 "x": 1530,
                 "y": 252
@@ -1387,11 +1384,12 @@
                 "markerColorRect": {
                     "refX": 12,
                     "refY": 10,
-                    "fill": "#83a21f",
+                    "fill": "#ffb30f",
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
-                    "cursor": "pointer"
+                    "cursor": "pointer",
+                    "display": "block"
                 }
             }
         },
@@ -1407,7 +1405,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1427,11 +1425,11 @@
                         "rotate": true
                     }
                 },
-                "id": "b689db7d-e28e-469f-84e8-2b34aca8eb90"
+                "id": "c2290c66-3793-4db9-8fd4-096bb7e3433c"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "f24c3d66-5fa6-493d-be2c-bec322c0c6aa",
+            "id": "6cc7364b-5a1c-4a0a-a24f-2f12fd32fc52",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1441,7 +1439,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1465,7 +1463,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1485,11 +1483,11 @@
                         "rotate": true
                     }
                 },
-                "id": "21a01af0-e211-44c5-b6c8-38ca6fcc7b58"
+                "id": "ba92b1ea-12ed-4a98-9f50-592944546f16"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "baf3ce7d-9a55-4038-9cc9-20e885d5931c",
+            "id": "9cfcef22-5213-4fb4-ab53-3bbc2fb77d38",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1499,7 +1497,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1523,7 +1521,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1543,11 +1541,11 @@
                         "rotate": true
                     }
                 },
-                "id": "e5248fe0-5029-41fc-9065-317d706cbed3"
+                "id": "0fca9bf7-ef22-4592-a994-a6d1751b8b40"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "6d09b261-6f04-4f05-8c78-a67a13f51491",
+            "id": "369ce0f7-8545-4aee-8a78-c40223946377",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1557,7 +1555,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1581,7 +1579,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1601,11 +1599,11 @@
                         "rotate": true
                     }
                 },
-                "id": "1bbf5395-2be5-4559-8567-9743c4e264d1"
+                "id": "747e45ca-11aa-452c-954e-1eb8575a87d8"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "9b33fa24-4607-4ae3-b5de-177988cd3542",
+            "id": "d6c90e97-6d1a-486a-abc7-0d2aded8fa00",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1615,7 +1613,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1639,7 +1637,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1659,11 +1657,11 @@
                         "rotate": true
                     }
                 },
-                "id": "b5b02d13-990a-468f-8dba-ac994d2a612f"
+                "id": "8c13c375-e978-4564-846e-37b26fc158f2"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "0707d8bd-7219-4ad2-8088-ff637d8feff1",
+            "id": "b4297224-5210-42b0-b8f6-33638d59b60c",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1673,7 +1671,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1697,7 +1695,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1717,11 +1715,11 @@
                         "rotate": true
                     }
                 },
-                "id": "aad74c1f-e55b-431d-9121-df7620adeba5"
+                "id": "0649c65c-5f2a-4aaf-bdaf-85d7d889daf3"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "e12fccae-3110-482f-b3ec-9261d3131c7b",
+            "id": "9ab23338-085d-4452-8007-04cb2b9670be",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1755,7 +1753,7 @@
                         "rotate": true
                     }
                 },
-                "id": "e49d63a7-b0d0-4094-b6f3-e8fef89c15f6"
+                "id": "ab617c18-2dbe-4926-b63f-391b02a9101a"
             },
             "target": {
                 "connectionPoint": {
@@ -1775,11 +1773,11 @@
                         "rotate": true
                     }
                 },
-                "id": "ca4e8230-d400-48b7-8313-8cbcd56e73df"
+                "id": "922d6ec7-5bd3-4f04-a4d1-6d2b3bd3a4e2"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "820239a6-e322-495e-9d38-b782f9831e8c",
+            "id": "ca70a80a-79e5-4c2e-a6cf-9f615f85460b",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1813,7 +1811,7 @@
                         "rotate": true
                     }
                 },
-                "id": "ca4e8230-d400-48b7-8313-8cbcd56e73df"
+                "id": "922d6ec7-5bd3-4f04-a4d1-6d2b3bd3a4e2"
             },
             "target": {
                 "connectionPoint": {
@@ -1833,11 +1831,11 @@
                         "rotate": true
                     }
                 },
-                "id": "fe67eae1-093a-4671-b32c-c4f38cc1293d"
+                "id": "ea6e972b-806a-4dc5-a18f-12d528c53e83"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "80f0db14-fb59-4c46-8aee-a48b80730e27",
+            "id": "ea781dc0-5c5e-4a7f-b931-9d65a3465157",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
