@@ -27,7 +27,7 @@
             "nodeWeight": -1
         },
         {
-            "key": "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
+            "key": "db0c3f43-b03b-46e6-a66d-86c412698eca",
             "name": "Login",
             "type": "Functionality feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
@@ -40,10 +40,10 @@
             "nodeWeight": -1
         },
         {
-            "key": "ea6b4e21-302f-45c7-80d4-a7b5bbd0c60c",
+            "key": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
             "name": "Basket",
             "type": "Functionality feature",
-            "parent": "2fa2fcdf-acd5-4bfd-8b86-306c539352d9",
+            "parent": "db0c3f43-b03b-46e6-a66d-86c412698eca",
             "parentRelation": "Normal",
             "presence": "Optional",
             "lgFile": "",
