@@ -35,7 +35,7 @@
             "presence": "Optional",
             "lgFile": "",
             "role": "",
-            "hexColor": "#806cf1",
+            "hexColor": "#3f376d",
             "help": "",
             "nodeWeight": -1
         },
@@ -43,12 +43,12 @@
             "key": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
             "name": "Basket",
             "type": "Functionality feature",
-            "parent": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
-            "presence": "Optional",
+            "presence": "Normal",
             "lgFile": "",
             "role": "",
-            "hexColor": "#ffb30f",
+            "hexColor": "#5a8c31",
             "help": "",
             "nodeWeight": -1
         }
@@ -129,5 +129,17 @@
     "smartAppAssetResources": [],
     "colorResources": [],
     "referencedModels": [],
-    "constraints": []
+    "constraints": [
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca"
+            }
+        }
+    ]
 }
