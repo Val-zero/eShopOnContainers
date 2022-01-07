@@ -102,6 +102,39 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "33d11d86-e939-4a6a-88d6-e098daa1925f",
+                            "sourceId": "33d11d86-e939-4a6a-88d6-e098daa1925f",
+                            "startLine": 34,
+                            "startColumn": 0,
+                            "endLine": 34,
+                            "endColumn": 12,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "63222ced-5d00-47a5-90d0-6d2a556f78a4",
+                            "sourceId": "63222ced-5d00-47a5-90d0-6d2a556f78a4",
+                            "startLine": 11,
+                            "startColumn": 0,
+                            "endLine": 12,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -120,6 +153,25 @@
                             "endColumn": 27,
                             "isValidated": true,
                             "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "8965c9c9-b1f7-4751-9626-09713dabd326",
+                            "sourceId": "8965c9c9-b1f7-4751-9626-09713dabd326",
+                            "startLine": 14,
+                            "startColumn": 27,
+                            "endLine": 14,
+                            "endColumn": 41,
+                            "isValidated": true,
+                            "isMapped": true,
                             "analyzer": "Interoperable analyzer",
                             "isFromMarker": true,
                             "parent": "-1",
@@ -1267,12 +1319,7 @@
                             "isFromMarker": true,
                             "parent": "-1",
                             "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
-                    "ranges": [
+                        },
                         {
                             "propagationId": "5830c2ca-8e5b-4e7f-8e5c-be14f151dfb0",
                             "sourceId": "5830c2ca-8e5b-4e7f-8e5c-be14f151dfb0",
@@ -2917,6 +2964,168 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "deploy/azure/az/servicebus/sbusdeploy.json",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "7d39fd64-8337-45d6-a019-07d0a2f56c9d",
+                            "sourceId": "7d39fd64-8337-45d6-a019-07d0a2f56c9d",
+                            "startLine": 13,
+                            "startColumn": 0,
+                            "endLine": 13,
+                            "endColumn": 37,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "06c348ee-fd54-4a78-9979-f7e34590191e",
+                            "sourceId": "06c348ee-fd54-4a78-9979-f7e34590191e",
+                            "startLine": 78,
+                            "startColumn": 24,
+                            "endLine": 97,
+                            "endColumn": 26,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/apigwws/envoy.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "dacfed37-5dfd-40d3-a077-c3db4b9d2b26",
+                            "sourceId": "dacfed37-5dfd-40d3-a077-c3db4b9d2b26",
+                            "startLine": 61,
+                            "startColumn": 0,
+                            "endLine": 73,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "960954a6-d8c5-40f6-b2e2-8635f37885b1",
+                            "sourceId": "960954a6-d8c5-40f6-b2e2-8635f37885b1",
+                            "startLine": 118,
+                            "startColumn": 0,
+                            "endLine": 125,
+                            "endColumn": 22,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/identity-api/templates/configmap.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "517b86fd-dba6-4db7-842c-1abfea7cb91c",
+                            "sourceId": "517b86fd-dba6-4db7-842c-1abfea7cb91c",
+                            "startLine": 4,
+                            "startColumn": 0,
+                            "endLine": 5,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "6609b7f6-c837-4104-bbee-be81ea1a0e68",
+                            "sourceId": "6609b7f6-c837-4104-bbee-be81ea1a0e68",
+                            "startLine": 27,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 36,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/identity-api/values.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "b0985f0a-3136-4532-96fe-e458e306092e",
+                            "sourceId": "b0985f0a-3136-4532-96fe-e458e306092e",
+                            "startLine": 42,
+                            "startColumn": 0,
+                            "endLine": 43,
+                            "endColumn": 19,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/docker-compose.override.windows.yml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "9e4dc3ff-f356-4d24-8661-ab73aa369e08",
+                            "sourceId": "9e4dc3ff-f356-4d24-8661-ab73aa369e08",
+                            "startLine": 24,
+                            "startColumn": 0,
+                            "endLine": 27,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "replacementPropagations": [],
@@ -4088,6 +4297,186 @@
             "propagationId": "908a285c-7373-4618-bf5a-39007b8c0e30",
             "sourceId": "908a285c-7373-4618-bf5a-39007b8c0e30",
             "propagatedPath": "src/Services/Basket/Basket.UnitTests/obj/Debug/net5.0/Basket.UnitTests.GeneratedMSBuildEditorConfig.editorconfig",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "6cf97391-1788-4b78-812a-b6f507e04d01",
+            "sourceId": "6cf97391-1788-4b78-812a-b6f507e04d01",
+            "propagatedPath": "deploy/k8s/helm/basket-api",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "6b10542b-fbb3-4c59-9818-410ca3a7b111",
+            "sourceId": "6b10542b-fbb3-4c59-9818-410ca3a7b111",
+            "propagatedPath": "deploy/k8s/helm/basket-api/.helmignore",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "fa93c270-b48b-4dbd-99d0-925d6529dcbf",
+            "sourceId": "fa93c270-b48b-4dbd-99d0-925d6529dcbf",
+            "propagatedPath": "deploy/k8s/helm/basket-api/Chart.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "e4a1ee36-61d1-44a2-abaf-e40f767b596c",
+            "sourceId": "e4a1ee36-61d1-44a2-abaf-e40f767b596c",
+            "propagatedPath": "deploy/k8s/helm/basket-api/templates/_helpers.tpl",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "10e1c228-f391-4403-b641-04d80b16d096",
+            "sourceId": "10e1c228-f391-4403-b641-04d80b16d096",
+            "propagatedPath": "deploy/k8s/helm/basket-api/templates/_names.tpl",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "cb5560d6-181b-4c79-b552-5449a7f75fb5",
+            "sourceId": "cb5560d6-181b-4c79-b552-5449a7f75fb5",
+            "propagatedPath": "deploy/k8s/helm/basket-api/templates/configmap.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "fd092fb0-3ec1-45ca-a689-6b24208f04ab",
+            "sourceId": "fd092fb0-3ec1-45ca-a689-6b24208f04ab",
+            "propagatedPath": "deploy/k8s/helm/basket-api/templates/deployment.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "7070a555-2102-4512-99a8-8cd6f9dcf635",
+            "sourceId": "7070a555-2102-4512-99a8-8cd6f9dcf635",
+            "propagatedPath": "deploy/k8s/helm/basket-api/templates/NOTES.txt",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "9b36486a-62d5-4e2b-be3b-5d0fd6e2b87b",
+            "sourceId": "9b36486a-62d5-4e2b-be3b-5d0fd6e2b87b",
+            "propagatedPath": "deploy/k8s/helm/basket-api/templates/service.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "a7a8e379-bd4a-40fe-bded-605dca16d527",
+            "sourceId": "a7a8e379-bd4a-40fe-bded-605dca16d527",
+            "propagatedPath": "deploy/k8s/helm/basket-api/values.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "7c86325f-3919-4452-b38d-f3c3235e0e37",
+            "sourceId": "7c86325f-3919-4452-b38d-f3c3235e0e37",
+            "propagatedPath": "deploy/k8s/helm/basket-data",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "548bdb37-4553-4005-80b4-61c0a90fd696",
+            "sourceId": "548bdb37-4553-4005-80b4-61c0a90fd696",
+            "propagatedPath": "deploy/k8s/helm/basket-data/.helmignore",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "51d31463-332e-42cd-b2b2-8fdd382794d6",
+            "sourceId": "51d31463-332e-42cd-b2b2-8fdd382794d6",
+            "propagatedPath": "deploy/k8s/helm/basket-data/Chart.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "99be21ca-fbd1-470e-8152-fa0f67a254b9",
+            "sourceId": "99be21ca-fbd1-470e-8152-fa0f67a254b9",
+            "propagatedPath": "deploy/k8s/helm/basket-data/templates/_helpers.tpl",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "8ba425de-59b2-460a-9996-693b02914ec5",
+            "sourceId": "8ba425de-59b2-460a-9996-693b02914ec5",
+            "propagatedPath": "deploy/k8s/helm/basket-data/templates/deployment.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "f156a2e4-5c78-43e4-9c9e-d71664cfda7d",
+            "sourceId": "f156a2e4-5c78-43e4-9c9e-d71664cfda7d",
+            "propagatedPath": "deploy/k8s/helm/basket-data/templates/NOTES.txt",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "72a31896-ca9b-4c32-aee0-84fb438b57f7",
+            "sourceId": "72a31896-ca9b-4c32-aee0-84fb438b57f7",
+            "propagatedPath": "deploy/k8s/helm/basket-data/templates/service.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "d7f26b14-2147-47dd-8429-d4ee7a3f1393",
+            "sourceId": "d7f26b14-2147-47dd-8429-d4ee7a3f1393",
+            "propagatedPath": "deploy/k8s/helm/basket-data/values.yaml",
             "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
             "isValidated": true,
             "isMapped": false,
