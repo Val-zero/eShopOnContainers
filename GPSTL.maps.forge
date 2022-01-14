@@ -216,6 +216,39 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "f8499354-c430-4b5c-b49b-1ba5aabbbad0",
+                            "sourceId": "f8499354-c430-4b5c-b49b-1ba5aabbbad0",
+                            "startLine": 7,
+                            "startColumn": 6,
+                            "endLine": 7,
+                            "endColumn": 86,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "e635055b-09e5-439f-8937-9dbb611111f2",
+                            "sourceId": "e635055b-09e5-439f-8937-9dbb611111f2",
+                            "startLine": 22,
+                            "startColumn": 6,
+                            "endLine": 22,
+                            "endColumn": 85,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -264,6 +297,39 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "d842f184-bac7-4b54-b8b2-950e1f0d22d0",
+                            "sourceId": "d842f184-bac7-4b54-b8b2-950e1f0d22d0",
+                            "startLine": 121,
+                            "startColumn": 64,
+                            "endLine": 121,
+                            "endColumn": 79,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "938ef92b-a1de-4b42-a80c-e21406157024",
+                            "sourceId": "938ef92b-a1de-4b42-a80c-e21406157024",
+                            "startLine": 122,
+                            "startColumn": 25,
+                            "endLine": 122,
+                            "endColumn": 39,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -280,6 +346,39 @@
                             "startColumn": 55,
                             "endLine": 121,
                             "endColumn": 70,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "ae59ced7-8687-4b15-8250-c4ce4183fe47",
+                            "sourceId": "ae59ced7-8687-4b15-8250-c4ce4183fe47",
+                            "startLine": 120,
+                            "startColumn": 64,
+                            "endLine": 120,
+                            "endColumn": 79,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b54b5bf4-03ab-4a5c-9313-12e73f6f2843",
+                            "sourceId": "b54b5bf4-03ab-4a5c-9313-12e73f6f2843",
+                            "startLine": 121,
+                            "startColumn": 25,
+                            "endLine": 121,
+                            "endColumn": 39,
                             "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
@@ -326,6 +425,53 @@
                             "children": []
                         }
                     ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "a67734e2-267c-4b13-8d43-9c2a995b9ce9",
+                            "sourceId": "a67734e2-267c-4b13-8d43-9c2a995b9ce9",
+                            "startLine": 144,
+                            "startColumn": 12,
+                            "endLine": 144,
+                            "endColumn": 22,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "2ece73b8-857a-45b4-b10c-e19a061611a8",
+                            "sourceId": "2ece73b8-857a-45b4-b10c-e19a061611a8",
+                            "startLine": 210,
+                            "startColumn": 51,
+                            "endLine": 210,
+                            "endColumn": 62,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "943d4651-9b75-4758-923d-419d5bf29fcb",
+                            "sourceId": "943d4651-9b75-4758-923d-419d5bf29fcb",
+                            "startLine": 211,
+                            "startColumn": 37,
+                            "endLine": 211,
+                            "endColumn": 47,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
@@ -342,6 +488,25 @@
                             "startColumn": 0,
                             "endLine": 20,
                             "endColumn": 54,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "02835d5a-99e5-4833-ae6e-86680b139dc0",
+                            "sourceId": "02835d5a-99e5-4833-ae6e-86680b139dc0",
+                            "startLine": 26,
+                            "startColumn": 4,
+                            "endLine": 28,
+                            "endColumn": 75,
                             "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
@@ -1756,12 +1921,7 @@
                             "isFromMarker": true,
                             "parent": "-1",
                             "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
-                    "ranges": [
+                        },
                         {
                             "propagationId": "1ee0514a-7d06-4aef-884a-a0ef7f9bceb3",
                             "sourceId": "1ee0514a-7d06-4aef-884a-a0ef7f9bceb3",
@@ -3243,6 +3403,262 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "deploy/k8s/helm/mobileshoppingagg/templates/configmap.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "de0ea849-fff4-4e55-b9f3-d4ed3ce9931d",
+                            "sourceId": "de0ea849-fff4-4e55-b9f3-d4ed3ce9931d",
+                            "startLine": 16,
+                            "startColumn": 0,
+                            "endLine": 16,
+                            "endColumn": 59,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b7853e50-9040-4197-a02d-28b8714e5c91",
+                            "sourceId": "b7853e50-9040-4197-a02d-28b8714e5c91",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 20,
+                            "endColumn": 66,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f15f6fdd-0c1c-4d83-aa6d-254747cd2aad",
+                            "sourceId": "f15f6fdd-0c1c-4d83-aa6d-254747cd2aad",
+                            "startLine": 25,
+                            "startColumn": 0,
+                            "endLine": 25,
+                            "endColumn": 96,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/mobileshoppingagg/values.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "e548d43c-0537-4b64-9bac-ded1ca844b01",
+                            "sourceId": "e548d43c-0537-4b64-9bac-ded1ca844b01",
+                            "startLine": 35,
+                            "startColumn": 0,
+                            "endLine": 36,
+                            "endColumn": 31,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "dff18271-b59e-4e1a-8e3f-ab7a512a952c",
+                            "sourceId": "dff18271-b59e-4e1a-8e3f-ab7a512a952c",
+                            "startLine": 45,
+                            "startColumn": 0,
+                            "endLine": 46,
+                            "endColumn": 35,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "acc04e17-79e7-41b8-a3ff-97c09228b5f2",
+                            "sourceId": "acc04e17-79e7-41b8-a3ff-97c09228b5f2",
+                            "startLine": 53,
+                            "startColumn": 0,
+                            "endLine": 54,
+                            "endColumn": 35,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/webshoppingagg/templates/configmap.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "0f3a261c-5d2f-4bbd-bf97-9b8b154216a1",
+                            "sourceId": "0f3a261c-5d2f-4bbd-bf97-9b8b154216a1",
+                            "startLine": 16,
+                            "startColumn": 0,
+                            "endLine": 16,
+                            "endColumn": 59,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "c7980d50-1268-41de-a7f3-587e846e1a9f",
+                            "sourceId": "c7980d50-1268-41de-a7f3-587e846e1a9f",
+                            "startLine": 20,
+                            "startColumn": 0,
+                            "endLine": 20,
+                            "endColumn": 66,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "0d9e1a5a-9296-4a76-abc8-a34d1758c4b2",
+                            "sourceId": "0d9e1a5a-9296-4a76-abc8-a34d1758c4b2",
+                            "startLine": 25,
+                            "startColumn": 0,
+                            "endLine": 25,
+                            "endColumn": 96,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/webshoppingagg/values.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "16a11890-2df8-43cf-be69-355f8c1cb673",
+                            "sourceId": "16a11890-2df8-43cf-be69-355f8c1cb673",
+                            "startLine": 35,
+                            "startColumn": 0,
+                            "endLine": 36,
+                            "endColumn": 31,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "75eb308b-e7bb-428f-b7d9-8aef0e28d50d",
+                            "sourceId": "75eb308b-e7bb-428f-b7d9-8aef0e28d50d",
+                            "startLine": 45,
+                            "startColumn": 0,
+                            "endLine": 46,
+                            "endColumn": 35,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "15425b01-23e8-4445-9866-aeddb79dafb2",
+                            "sourceId": "15425b01-23e8-4445-9866-aeddb79dafb2",
+                            "startLine": 53,
+                            "startColumn": 0,
+                            "endLine": 54,
+                            "endColumn": 35,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/webstatus/templates/configmap.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "934f1569-b7ae-4568-bded-07a558037ea2",
+                            "sourceId": "934f1569-b7ae-4568-bded-07a558037ea2",
+                            "startLine": 35,
+                            "startColumn": 0,
+                            "endLine": 36,
+                            "endColumn": 66,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "deploy/k8s/helm/webstatus/values.yaml",
+            "propagations": [
+                {
+                    "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+                    "ranges": [
+                        {
+                            "propagationId": "823e4f7d-d7a7-4a54-aad3-de5803e44913",
+                            "sourceId": "823e4f7d-d7a7-4a54-aad3-de5803e44913",
+                            "startLine": 56,
+                            "startColumn": 0,
+                            "endLine": 59,
+                            "endColumn": 35,
+                            "isValidated": true,
+                            "isMapped": false,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "replacementPropagations": [],
@@ -4594,6 +5010,16 @@
             "propagationId": "d7f26b14-2147-47dd-8429-d4ee7a3f1393",
             "sourceId": "d7f26b14-2147-47dd-8429-d4ee7a3f1393",
             "propagatedPath": "deploy/k8s/helm/basket-data/values.yaml",
+            "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
+            "isValidated": true,
+            "isMapped": false,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "dac5c3e5-33bd-4f95-9c12-0f31f99b2319",
+            "sourceId": "dac5c3e5-33bd-4f95-9c12-0f31f99b2319",
+            "propagatedPath": "deploy/k8s/linkerd/basket-api-sp.yaml",
             "featureKey": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
             "isValidated": true,
             "isMapped": false,
