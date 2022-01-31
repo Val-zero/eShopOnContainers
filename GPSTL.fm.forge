@@ -40,19 +40,6 @@
             "nodeWeight": -1
         },
         {
-            "key": "a60b0cc8-1a14-4f65-a58e-aaa5ae044373",
-            "name": "Basket",
-            "type": "Functionality feature",
-            "parent": "db0c3f43-b03b-46e6-a66d-86c412698eca",
-            "parentRelation": "Normal",
-            "presence": "Optional",
-            "lgFile": "",
-            "role": "",
-            "hexColor": "#83a21f",
-            "help": "",
-            "nodeWeight": -1
-        },
-        {
             "key": "6638de2b-d69d-4131-9f46-199a7f8abfa4",
             "name": "Payment",
             "type": "Functionality feature",
@@ -155,5 +142,24 @@
     "smartAppAssetResources": [],
     "colorResources": [],
     "referencedModels": [],
-    "constraints": []
+    "constraints": [
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946"
+            },
+            "right": {
+                "type": "∧",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4"
+                },
+                "right": {
+                    "type": "feature",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca"
+                }
+            }
+        }
+    ]
 }
