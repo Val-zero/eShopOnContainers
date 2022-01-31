@@ -51,6 +51,32 @@
             "hexColor": "#83a21f",
             "help": "",
             "nodeWeight": -1
+        },
+        {
+            "key": "6638de2b-d69d-4131-9f46-199a7f8abfa4",
+            "name": "Payment",
+            "type": "Functionality feature",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+            "parentRelation": "Normal",
+            "presence": "Normal",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#44b813",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "name": "Ordering",
+            "type": "Functionality feature",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#10614e",
+            "help": "",
+            "nodeWeight": -1
         }
     ],
     "fileResources": [
