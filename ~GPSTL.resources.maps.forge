@@ -52,6 +52,74 @@
                     "isMapped": true
                 }
             ]
+        },
+        {
+            "file": "src/Web/WebMVC/wwwroot/css/_variables.scss",
+            "seeds": [
+                {
+                    "id": "9a18e6e7-e763-475c-af0c-70fe68f728b5",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "a9d7f1da-46a3-417c-8f93-652c132442cf",
+                    "startLine": 63,
+                    "startColumn": 35,
+                    "endLine": 63,
+                    "endColumn": 50,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/wwwroot/css/catalog/catalog.component.css",
+            "seeds": [
+                {
+                    "id": "074e4d6e-e116-4154-8acc-a2ba45ea31fc",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "a9d7f1da-46a3-417c-8f93-652c132442cf",
+                    "startLine": 1,
+                    "startColumn": 38,
+                    "endLine": 1,
+                    "endColumn": 53,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/app.component.scss",
+            "seeds": [
+                {
+                    "id": "9e3fa393-640b-4df3-b2bf-22d6aa2d2d35",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "3f896e65-6499-42f8-a856-687aa3a878ad",
+                    "startLine": 11,
+                    "startColumn": 40,
+                    "endLine": 11,
+                    "endColumn": 50,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/wwwroot/css/catalog/catalog.component.min.css",
+            "seeds": [
+                {
+                    "id": "06706a68-c6bc-46ee-9673-b6cda780dcbc",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "a9d7f1da-46a3-417c-8f93-652c132442cf",
+                    "startLine": 0,
+                    "startColumn": 53,
+                    "endLine": 0,
+                    "endColumn": 68,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
         }
     ],
     "fileSeeds": []

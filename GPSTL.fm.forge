@@ -109,6 +109,34 @@
             "help": "",
             "nodeWeight": -1,
             "filePath": "src/Services/Catalog/Catalog.API/Setup"
+        },
+        {
+            "key": "a9d7f1da-46a3-417c-8f93-652c132442cf",
+            "name": "HeaderMVC",
+            "type": "Resource feature",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#0f940a",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "src/Web/WebMVC/wwwroot/images"
+        },
+        {
+            "key": "3f896e65-6499-42f8-a856-687aa3a878ad",
+            "name": "HeaderSPA",
+            "type": "Resource feature",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#4fe5f8",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "src/Web/WebSPA/Client/src/assets/images"
         }
     ],
     "textResources": [],
