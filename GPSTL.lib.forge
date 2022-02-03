@@ -1,3 +1,9 @@
 {
-    "replacements": []
+    "replacements": [
+        {
+            "id": "-custom-PicturesPath",
+            "content": "            picturePath = Path.Combine(contentRootPath, \"../../../\", \"resources\", \"Pics\");",
+            "editorExtension": ".cs"
+        }
+    ]
 }

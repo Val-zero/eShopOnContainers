@@ -3125,6 +3125,144 @@
                     "isMapped": true
                 }
             ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/components/identity/identity.ts",
+            "seeds": [
+                {
+                    "id": "9c64bdd1-196f-4ae7-af89-addc31a1551f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 55,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/shared.module.ts",
+            "seeds": [
+                {
+                    "id": "d58764d5-b417-4fbe-9d35-c6e3b8241a74",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 18,
+                    "startColumn": 0,
+                    "endLine": 19,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "10080166-cce1-4cdc-ae71-fdbe39da8d64",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 39,
+                    "startColumn": 0,
+                    "endLine": 40,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                },
+                {
+                    "id": "7f71dad0-e0f7-4f18-9bdc-3eca0dbe32fc",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 53,
+                    "startColumn": 0,
+                    "endLine": 54,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/services/security.service.ts",
+            "seeds": [
+                {
+                    "id": "94fffa92-5a79-4f83-92d1-6155e05446fb",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 77,
+                    "startColumn": 0,
+                    "endLine": 101,
+                    "endColumn": 5,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                },
+                {
+                    "id": "b5877773-c533-4175-ac89-dd8441f7556d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 149,
+                    "startColumn": 0,
+                    "endLine": 164,
+                    "endColumn": 5,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/shared/services/basket.wrapper.service.ts",
+            "seeds": [
+                {
+                    "id": "b8acf5b4-2d60-4c8b-a094-d2abfd44d939",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 36,
+                    "startColumn": 0,
+                    "endLine": 37,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/app.component.html",
+            "seeds": [
+                {
+                    "id": "ba34fc9c-eb30-4592-81e0-2a5908fcad06",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 13,
+                    "startColumn": 0,
+                    "endLine": 16,
+                    "endColumn": 22,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Views/Shared/_LoginPartial.cshtml",
+            "seeds": [
+                {
+                    "id": "af9a9aff-e071-4851-862a-a751f82ced86",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 63,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": false
+                }
+            ]
         }
     ],
     "fileSeeds": [
@@ -3252,6 +3390,15 @@
             "analyzer": "File system analyzer",
             "isValidated": true,
             "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "c98dddfc-52ae-4ae3-97ca-07a701ecffac",
+            "file": "src/Web/WebSPA/Client/src/modules/shared/components/identity/identity.ts",
+            "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": false,
             "contentAnalysis": false
         }
     ]

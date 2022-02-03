@@ -14,19 +14,6 @@
     },
     "functionalities": [
         {
-            "key": "6a21491c-5e8f-4234-9638-b793fa71e694",
-            "name": "Tri",
-            "type": "Functionality feature",
-            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-            "parentRelation": "Normal",
-            "presence": "Optional",
-            "lgFile": "",
-            "role": "",
-            "hexColor": "#995814",
-            "help": "",
-            "nodeWeight": -1
-        },
-        {
             "key": "db0c3f43-b03b-46e6-a66d-86c412698eca",
             "name": "Login",
             "type": "Functionality feature",
@@ -68,71 +55,57 @@
     ],
     "fileResources": [
         {
-            "key": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-            "name": "CatalogItems",
+            "key": "8d47ec8f-7865-4b56-a291-5f88741a9d85",
+            "name": "Items",
             "type": "Resource feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
-            "presence": "Optional",
+            "presence": "Mandatory",
             "lgFile": "",
             "role": "",
-            "hexColor": "#626a5e",
+            "hexColor": "#6f8875",
             "help": "",
             "nodeWeight": -1,
             "filePath": "src/Services/Catalog/Catalog.API/Setup"
         },
         {
-            "key": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-            "name": "CatalogBrands",
+            "key": "dd4ceefd-b02e-45dc-a009-94e4650882dc",
+            "name": "Brands",
             "type": "Resource feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
-            "presence": "Optional",
+            "presence": "Mandatory",
             "lgFile": "",
             "role": "",
-            "hexColor": "#8eecc8",
+            "hexColor": "#761fd8",
             "help": "",
             "nodeWeight": -1,
             "filePath": "src/Services/Catalog/Catalog.API/Setup"
         },
         {
-            "key": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-            "name": "CatalogTypes",
+            "key": "9cb98684-9baa-4671-a31c-0907e0a7b06c",
+            "name": "Types",
             "type": "Resource feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
-            "presence": "Optional",
+            "presence": "Mandatory",
             "lgFile": "",
             "role": "",
-            "hexColor": "#270d04",
+            "hexColor": "#845c92",
             "help": "",
             "nodeWeight": -1,
             "filePath": "src/Services/Catalog/Catalog.API/Setup"
         },
         {
-            "key": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-            "name": "RessourcesGraphiques",
+            "key": "c6a28dfa-5a15-41d6-8c9d-b289cecd1962",
+            "name": "Pictures",
             "type": "Resource feature",
             "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
             "parentRelation": "Normal",
-            "presence": "Optional",
+            "presence": "Mandatory",
             "lgFile": "",
             "role": "",
-            "hexColor": "#480e49",
-            "help": "",
-            "nodeWeight": -1,
-            "filePath": "src/Web/WebMVC/Setup"
-        },
-        {
-            "key": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-            "name": "CatalogPictures",
-            "type": "Resource feature",
-            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-            "parentRelation": "Normal",
-            "presence": "Optional",
-            "lgFile": "",
-            "role": "",
-            "hexColor": "#5df2f0",
+            "hexColor": "#b82b89",
             "help": "",
             "nodeWeight": -1,
             "filePath": "src/Services/Catalog/Catalog.API/Setup"
@@ -150,15 +123,19 @@
                 "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946"
             },
             "right": {
-                "type": "∧",
-                "left": {
-                    "type": "feature",
-                    "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4"
-                },
-                "right": {
-                    "type": "feature",
-                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca"
-                }
+                "type": "feature",
+                "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4"
+            }
+        },
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca"
             }
         }
     ]

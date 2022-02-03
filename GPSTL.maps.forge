@@ -693,12 +693,7 @@
                             "isFromMarker": true,
                             "parent": "-1",
                             "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
-                    "ranges": [
+                        },
                         {
                             "propagationId": "c6ac3740-f0e8-433c-b4b7-80ff4e0b1314",
                             "sourceId": "c6ac3740-f0e8-433c-b4b7-80ff4e0b1314",
@@ -4188,74 +4183,50 @@
             ]
         },
         {
-            "file": "src/Services/Ordering/Ordering.API/Extensions/BasketItemExtensions.cs",
+            "file": "src/Web/WebSPA/Client/src/modules/shared/shared.module.ts",
             "propagations": [
                 {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                     "ranges": [
                         {
-                            "propagationId": "712ce3b6-e505-47bf-bb59-124c0eb36d8b",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 3,
-                            "startColumn": 35,
-                            "endLine": 3,
-                            "endColumn": 41,
-                            "isValidated": false,
+                            "propagationId": "10080166-cce1-4cdc-ae71-fdbe39da8d64",
+                            "sourceId": "10080166-cce1-4cdc-ae71-fdbe39da8d64",
+                            "startLine": 39,
+                            "startColumn": 0,
+                            "endLine": 40,
+                            "endColumn": 0,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         },
                         {
-                            "propagationId": "5cd79769-7787-4b54-85ad-b37e7cde40a3",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 1,
-                            "startColumn": 75,
-                            "endLine": 1,
-                            "endColumn": 83,
-                            "isValidated": false,
+                            "propagationId": "7f71dad0-e0f7-4f18-9bdc-3eca0dbe32fc",
+                            "sourceId": "7f71dad0-e0f7-4f18-9bdc-3eca0dbe32fc",
+                            "startLine": 53,
+                            "startColumn": 0,
+                            "endLine": 54,
+                            "endColumn": 0,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Services/Ordering/Ordering.API/Application/Validations/CreateOrderCommandValidator.cs",
-            "propagations": [
-                {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
-                    "ranges": [
-                        {
-                            "propagationId": "e1f131e7-65b4-41c8-97fb-cd90dace7fe3",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 1,
-                            "startColumn": 68,
-                            "endLine": 1,
-                            "endColumn": 76,
-                            "isValidated": false,
-                            "isMapped": false,
-                            "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         },
                         {
-                            "propagationId": "e2d2e6b7-d527-4df6-9445-c4ccc7075e4d",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 6,
-                            "startColumn": 75,
-                            "endLine": 6,
-                            "endColumn": 83,
-                            "isValidated": false,
+                            "propagationId": "d58764d5-b417-4fbe-9d35-c6e3b8241a74",
+                            "sourceId": "d58764d5-b417-4fbe-9d35-c6e3b8241a74",
+                            "startLine": 18,
+                            "startColumn": 0,
+                            "endLine": 19,
+                            "endColumn": 0,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         }
@@ -4264,22 +4235,36 @@
             ]
         },
         {
-            "file": "src/Services/Ordering/Ordering.API/Application/Validations/IdentifiedCommandValidator.cs",
+            "file": "src/Web/WebSPA/Client/src/modules/shared/services/security.service.ts",
             "propagations": [
                 {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                     "ranges": [
                         {
-                            "propagationId": "0baa3750-67a7-400e-a8b5-d26b7ca63fc0",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 1,
-                            "startColumn": 68,
-                            "endLine": 1,
-                            "endColumn": 76,
-                            "isValidated": false,
+                            "propagationId": "b5877773-c533-4175-ac89-dd8441f7556d",
+                            "sourceId": "b5877773-c533-4175-ac89-dd8441f7556d",
+                            "startLine": 149,
+                            "startColumn": 0,
+                            "endLine": 164,
+                            "endColumn": 5,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "94fffa92-5a79-4f83-92d1-6155e05446fb",
+                            "sourceId": "94fffa92-5a79-4f83-92d1-6155e05446fb",
+                            "startLine": 77,
+                            "startColumn": 0,
+                            "endLine": 101,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         }
@@ -4288,22 +4273,22 @@
             ]
         },
         {
-            "file": "src/Services/Ordering/Ordering.API/Controllers/OrdersController.cs",
+            "file": "src/Web/WebSPA/Client/src/modules/shared/services/basket.wrapper.service.ts",
             "propagations": [
                 {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                     "ranges": [
                         {
-                            "propagationId": "d0cc7695-15aa-4a6d-84bf-22c8778a5bbf",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 4,
-                            "startColumn": 68,
-                            "endLine": 4,
-                            "endColumn": 76,
-                            "isValidated": false,
+                            "propagationId": "b8acf5b4-2d60-4c8b-a094-d2abfd44d939",
+                            "sourceId": "b8acf5b4-2d60-4c8b-a094-d2abfd44d939",
+                            "startLine": 36,
+                            "startColumn": 0,
+                            "endLine": 37,
+                            "endColumn": 0,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         }
@@ -4312,22 +4297,22 @@
             ]
         },
         {
-            "file": "src/Services/Ordering/Ordering.API/Infrastructure/AutofacModules/ApplicationModule.cs",
+            "file": "src/Web/WebSPA/Client/src/modules/app.component.html",
             "propagations": [
                 {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                     "ranges": [
                         {
-                            "propagationId": "af36555a-1134-4680-add6-301ca6448713",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 2,
-                            "startColumn": 68,
-                            "endLine": 2,
-                            "endColumn": 76,
-                            "isValidated": false,
+                            "propagationId": "ba34fc9c-eb30-4592-81e0-2a5908fcad06",
+                            "sourceId": "ba34fc9c-eb30-4592-81e0-2a5908fcad06",
+                            "startLine": 13,
+                            "startColumn": 0,
+                            "endLine": 16,
+                            "endColumn": 22,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         }
@@ -4336,22 +4321,22 @@
             ]
         },
         {
-            "file": "src/Services/Ordering/Ordering.API/Infrastructure/AutofacModules/MediatorModule.cs",
+            "file": "src/Web/WebMVC/Views/Shared/_LoginPartial.cshtml",
             "propagations": [
                 {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                     "ranges": [
                         {
-                            "propagationId": "01a51481-ed3d-4b16-a68b-b2107e2ff373",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 3,
-                            "startColumn": 68,
-                            "endLine": 3,
-                            "endColumn": 76,
-                            "isValidated": false,
+                            "propagationId": "af9a9aff-e071-4851-862a-a751f82ced86",
+                            "sourceId": "af9a9aff-e071-4851-862a-a751f82ced86",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 63,
+                            "endColumn": 0,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         }
@@ -4360,22 +4345,22 @@
             ]
         },
         {
-            "file": "src/Services/Ordering/Ordering.API/Startup.cs",
+            "file": "src/Web/WebSPA/Client/src/modules/shared/components/identity/identity.ts",
             "propagations": [
                 {
-                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                     "ranges": [
                         {
-                            "propagationId": "dc71cb02-0f29-49ec-837b-301edb08f367",
-                            "sourceId": "92a448a5-ec90-408d-9620-5988673a3485",
-                            "startLine": 104,
-                            "startColumn": 41,
-                            "endLine": 104,
-                            "endColumn": 56,
-                            "isValidated": false,
+                            "propagationId": "9c64bdd1-196f-4ae7-af89-addc31a1551f",
+                            "sourceId": "9c64bdd1-196f-4ae7-af89-addc31a1551f",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 55,
+                            "endColumn": 0,
+                            "isValidated": true,
                             "isMapped": false,
                             "analyzer": "Interoperable analyzer",
-                            "isFromMarker": false,
+                            "isFromMarker": true,
                             "parent": "-1",
                             "children": []
                         }
@@ -4387,422 +4372,14 @@
     "replacementPropagations": [],
     "resourcePropagations": [
         {
-            "file": "src/Services/Catalog/Catalog.FunctionalTests/Catalog.FunctionalTests.csproj",
-            "propagations": [
-                {
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "ranges": [
-                        {
-                            "propagationId": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
-                            "sourceId": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
-                            "startLine": 10,
-                            "startColumn": 24,
-                            "endLine": 10,
-                            "endColumn": 41,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "07371216-dfa8-4f33-bad1-367ef0dd559d",
-                            "sourceId": "07371216-dfa8-4f33-bad1-367ef0dd559d",
-                            "startLine": 20,
-                            "startColumn": 28,
-                            "endLine": 20,
-                            "endColumn": 45,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "ranges": [
-                        {
-                            "propagationId": "e1a07523-e77d-451c-b97f-1eed00dc3244",
-                            "sourceId": "e1a07523-e77d-451c-b97f-1eed00dc3244",
-                            "startLine": 11,
-                            "startColumn": 24,
-                            "endLine": 11,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
-                            "sourceId": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
-                            "startLine": 23,
-                            "startColumn": 28,
-                            "endLine": 23,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "ranges": [
-                        {
-                            "propagationId": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
-                            "sourceId": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
-                            "startLine": 12,
-                            "startColumn": 24,
-                            "endLine": 12,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "90781c91-cecb-4c3c-ae91-aa91931d0019",
-                            "sourceId": "90781c91-cecb-4c3c-ae91-aa91931d0019",
-                            "startLine": 26,
-                            "startColumn": 28,
-                            "endLine": 26,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "ranges": [
-                        {
-                            "propagationId": "65392b6f-a786-4b3a-9d4f-a78fee825101",
-                            "sourceId": "65392b6f-a786-4b3a-9d4f-a78fee825101",
-                            "startLine": 13,
-                            "startColumn": 24,
-                            "endLine": 13,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
-                            "sourceId": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
-                            "startLine": 29,
-                            "startColumn": 28,
-                            "endLine": 29,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Tests/Services/Application.FunctionalTests/Application.FunctionalTests.csproj",
-            "propagations": [
-                {
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "ranges": [
-                        {
-                            "propagationId": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
-                            "sourceId": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
-                            "startLine": 12,
-                            "startColumn": 24,
-                            "endLine": 12,
-                            "endColumn": 41,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "617cebf9-b73e-4605-9b65-d695661323f2",
-                            "sourceId": "617cebf9-b73e-4605-9b65-d695661323f2",
-                            "startLine": 26,
-                            "startColumn": 28,
-                            "endLine": 26,
-                            "endColumn": 45,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "ranges": [
-                        {
-                            "propagationId": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
-                            "sourceId": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
-                            "startLine": 13,
-                            "startColumn": 24,
-                            "endLine": 13,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "8fba14d2-2377-4b58-8402-523f6d78ed92",
-                            "sourceId": "8fba14d2-2377-4b58-8402-523f6d78ed92",
-                            "startLine": 29,
-                            "startColumn": 28,
-                            "endLine": 29,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "ranges": [
-                        {
-                            "propagationId": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
-                            "sourceId": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
-                            "startLine": 14,
-                            "startColumn": 24,
-                            "endLine": 14,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "64214cc6-1e53-410e-9c93-75f75b0469ac",
-                            "sourceId": "64214cc6-1e53-410e-9c93-75f75b0469ac",
-                            "startLine": 32,
-                            "startColumn": 28,
-                            "endLine": 32,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "ranges": [
-                        {
-                            "propagationId": "1b3f66ab-df50-4897-80aa-d1a133391c18",
-                            "sourceId": "1b3f66ab-df50-4897-80aa-d1a133391c18",
-                            "startLine": 15,
-                            "startColumn": 24,
-                            "endLine": 15,
-                            "endColumn": 40,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        },
-                        {
-                            "propagationId": "d0110719-ca4a-40f8-8de6-2ce908504f72",
-                            "sourceId": "d0110719-ca4a-40f8-8de6-2ce908504f72",
-                            "startLine": 35,
-                            "startColumn": 28,
-                            "endLine": 35,
-                            "endColumn": 44,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebMVC/WebMVC.csproj",
-            "propagations": [
-                {
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "ranges": [
-                        {
-                            "propagationId": "f7d364fa-f158-497f-8d26-941a5acc741c",
-                            "sourceId": "f7d364fa-f158-497f-8d26-941a5acc741c",
-                            "startLine": 13,
-                            "startColumn": 28,
-                            "endLine": 13,
-                            "endColumn": 38,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebSPA/WebSPA.csproj",
-            "propagations": [
-                {
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "ranges": [
-                        {
-                            "propagationId": "8c6e0dc1-2803-40a8-af37-8a8f3ae0c28c",
-                            "sourceId": "8c6e0dc1-2803-40a8-af37-8a8f3ae0c28c",
-                            "startLine": 19,
-                            "startColumn": 28,
-                            "endLine": 19,
-                            "endColumn": 38,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebSPA/Server/Infrastructure/WebContextSeed.cs",
-            "propagations": [
-                {
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "ranges": [
-                        {
-                            "propagationId": "6c69d6c8-a00e-43ff-a219-cd5975d7604d",
-                            "sourceId": "6c69d6c8-a00e-43ff-a219-cd5975d7604d",
-                            "startLine": 36,
-                            "startColumn": 79,
-                            "endLine": 36,
-                            "endColumn": 89,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebMVC/Infrastructure/WebContextSeed.cs",
-            "propagations": [
-                {
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "ranges": [
-                        {
-                            "propagationId": "4524de55-3fe5-4f09-9512-d773231bec4a",
-                            "sourceId": "4524de55-3fe5-4f09-9512-d773231bec4a",
-                            "startLine": 58,
-                            "startColumn": 79,
-                            "endLine": 58,
-                            "endColumn": 89,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "file": "src/Services/Catalog/Catalog.API/Infrastructure/CatalogContextSeed.cs",
             "propagations": [
                 {
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
+                    "featureKey": "8d47ec8f-7865-4b56-a291-5f88741a9d85",
                     "ranges": [
                         {
-                            "propagationId": "e5afe922-5c21-493e-9435-9d6cb52556c1",
-                            "sourceId": "e5afe922-5c21-493e-9435-9d6cb52556c1",
-                            "startLine": 64,
-                            "startColumn": 82,
-                            "endLine": 64,
-                            "endColumn": 99,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "ranges": [
-                        {
-                            "propagationId": "b8d29fd0-9b56-41b2-a7ce-c8f479883d85",
-                            "sourceId": "b8d29fd0-9b56-41b2-a7ce-c8f479883d85",
-                            "startLine": 119,
-                            "startColumn": 81,
-                            "endLine": 119,
-                            "endColumn": 97,
-                            "isValidated": true,
-                            "isMapped": true,
-                            "analyzer": "Resource Analyzer",
-                            "isFromMarker": true,
-                            "parent": "-1",
-                            "children": []
-                        }
-                    ]
-                },
-                {
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "ranges": [
-                        {
-                            "propagationId": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
-                            "sourceId": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
+                            "propagationId": "bbaccdb4-4def-46b4-aee8-5da7625f9564",
+                            "sourceId": "bbaccdb4-4def-46b4-aee8-5da7625f9564",
                             "startLine": 173,
                             "startColumn": 81,
                             "endLine": 173,
@@ -4817,15 +4394,53 @@
                     ]
                 },
                 {
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
+                    "featureKey": "c6a28dfa-5a15-41d6-8c9d-b289cecd1962",
                     "ranges": [
                         {
-                            "propagationId": "9c66baea-1e14-4a79-93b0-4044bba742b2",
-                            "sourceId": "9c66baea-1e14-4a79-93b0-4044bba742b2",
+                            "propagationId": "16ff53c3-9565-4ae7-8cd3-dcc02996108f",
+                            "sourceId": "16ff53c3-9565-4ae7-8cd3-dcc02996108f",
                             "startLine": 367,
                             "startColumn": 92,
                             "endLine": 367,
                             "endColumn": 108,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "9cb98684-9baa-4671-a31c-0907e0a7b06c",
+                    "ranges": [
+                        {
+                            "propagationId": "87a01c1b-761f-4295-99f0-d27698ba30d7",
+                            "sourceId": "87a01c1b-761f-4295-99f0-d27698ba30d7",
+                            "startLine": 119,
+                            "startColumn": 81,
+                            "endLine": 119,
+                            "endColumn": 97,
+                            "isValidated": true,
+                            "isMapped": true,
+                            "analyzer": "Resource Analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "dd4ceefd-b02e-45dc-a009-94e4650882dc",
+                    "ranges": [
+                        {
+                            "propagationId": "e85960c7-a3e7-4412-9a6d-e3a835b80ad6",
+                            "sourceId": "e85960c7-a3e7-4412-9a6d-e3a835b80ad6",
+                            "startLine": 64,
+                            "startColumn": 82,
+                            "endLine": 64,
+                            "endColumn": 99,
                             "isValidated": true,
                             "isMapped": true,
                             "analyzer": "Resource Analyzer",
@@ -5116,6 +4731,16 @@
             "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
             "isValidated": true,
             "isMapped": true,
+            "analyzer": "File system analyzer",
+            "isFromMarker": true
+        },
+        {
+            "propagationId": "c98dddfc-52ae-4ae3-97ca-07a701ecffac",
+            "sourceId": "c98dddfc-52ae-4ae3-97ca-07a701ecffac",
+            "propagatedPath": "src\\Web\\WebSPA\\Client\\src\\modules\\shared\\components\\identity\\identity.ts",
+            "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca",
+            "isValidated": true,
+            "isMapped": false,
             "analyzer": "File system analyzer",
             "isFromMarker": true
         }

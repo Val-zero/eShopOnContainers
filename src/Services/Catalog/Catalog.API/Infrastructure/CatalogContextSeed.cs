@@ -357,8 +357,8 @@
 
         private void GetCatalogItemPictures(string contentRootPath, string picturePath)
         {
-            if (picturePath != null)
-            {
+            // if (picturePath != null)
+            // {
                 DirectoryInfo directory = new DirectoryInfo(picturePath);
                 foreach (FileInfo file in directory.GetFiles())
                 {
@@ -367,7 +367,7 @@
 
                 string zipFileCatalogItemPictures = Path.Combine(contentRootPath, "Setup", "CatalogItems.zip");
                 ZipFile.ExtractToDirectory(zipFileCatalogItemPictures, picturePath);
-            }
+            // }
         }
 
         private AsyncRetryPolicy CreatePolicy(ILogger<CatalogContextSeed> logger, string prefix, int retries = 3)

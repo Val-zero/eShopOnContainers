@@ -1,80 +1,12 @@
 {
     "rangeSeeds": [
         {
-            "file": "src/Web/WebMVC/Infrastructure/WebContextSeed.cs",
-            "seeds": [
-                {
-                    "id": "4524de55-3fe5-4f09-9512-d773231bec4a",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "startLine": 58,
-                    "startColumn": 79,
-                    "endLine": 58,
-                    "endColumn": 89,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebMVC/WebMVC.csproj",
-            "seeds": [
-                {
-                    "id": "f7d364fa-f158-497f-8d26-941a5acc741c",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "startLine": 13,
-                    "startColumn": 28,
-                    "endLine": 13,
-                    "endColumn": 38,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebSPA/WebSPA.csproj",
-            "seeds": [
-                {
-                    "id": "8c6e0dc1-2803-40a8-af37-8a8f3ae0c28c",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "startLine": 19,
-                    "startColumn": 28,
-                    "endLine": 19,
-                    "endColumn": 38,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
-            "file": "src/Web/WebSPA/Server/Infrastructure/WebContextSeed.cs",
-            "seeds": [
-                {
-                    "id": "6c69d6c8-a00e-43ff-a219-cd5975d7604d",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                    "startLine": 36,
-                    "startColumn": 79,
-                    "endLine": 36,
-                    "endColumn": 89,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
             "file": "src/Services/Catalog/Catalog.API/Infrastructure/CatalogContextSeed.cs",
             "seeds": [
                 {
-                    "id": "e5afe922-5c21-493e-9435-9d6cb52556c1",
+                    "id": "e85960c7-a3e7-4412-9a6d-e3a835b80ad6",
                     "analyzer": "Resource Analyzer",
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
+                    "featureKey": "dd4ceefd-b02e-45dc-a009-94e4650882dc",
                     "startLine": 64,
                     "startColumn": 82,
                     "endLine": 64,
@@ -84,9 +16,9 @@
                     "isMapped": true
                 },
                 {
-                    "id": "b8d29fd0-9b56-41b2-a7ce-c8f479883d85",
+                    "id": "87a01c1b-761f-4295-99f0-d27698ba30d7",
                     "analyzer": "Resource Analyzer",
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
+                    "featureKey": "9cb98684-9baa-4671-a31c-0907e0a7b06c",
                     "startLine": 119,
                     "startColumn": 81,
                     "endLine": 119,
@@ -96,227 +28,25 @@
                     "isMapped": true
                 },
                 {
-                    "id": "0aadb573-cb03-47bf-b6ba-8ae0620a0819",
+                    "id": "bbaccdb4-4def-46b4-aee8-5da7625f9564",
                     "analyzer": "Resource Analyzer",
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "startLine": 173,
-                    "startColumn": 81,
-                    "endLine": 173,
-                    "endColumn": 97,
+                    "featureKey": "8d47ec8f-7865-4b56-a291-5f88741a9d85",
+                    "startLine": 191,
+                    "startColumn": 13,
+                    "endLine": 191,
+                    "endColumn": 13,
                     "type": "Deletion",
                     "isValidated": true,
                     "isMapped": true
                 },
                 {
-                    "id": "9c66baea-1e14-4a79-93b0-4044bba742b2",
+                    "id": "16ff53c3-9565-4ae7-8cd3-dcc02996108f",
                     "analyzer": "Resource Analyzer",
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
+                    "featureKey": "c6a28dfa-5a15-41d6-8c9d-b289cecd1962",
                     "startLine": 367,
                     "startColumn": 92,
                     "endLine": 367,
                     "endColumn": 108,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
-            "file": "src/Services/Catalog/Catalog.FunctionalTests/Catalog.FunctionalTests.csproj",
-            "seeds": [
-                {
-                    "id": "209dbd41-1691-42a4-a12f-dc7dfe9dbae7",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "startLine": 10,
-                    "startColumn": 24,
-                    "endLine": 10,
-                    "endColumn": 41,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "e1a07523-e77d-451c-b97f-1eed00dc3244",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "startLine": 11,
-                    "startColumn": 24,
-                    "endLine": 11,
-                    "endColumn": 40,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "0d9e4bc9-d2d5-4662-8666-99a85ba46c75",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "startLine": 12,
-                    "startColumn": 24,
-                    "endLine": 12,
-                    "endColumn": 40,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "65392b6f-a786-4b3a-9d4f-a78fee825101",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "startLine": 13,
-                    "startColumn": 24,
-                    "endLine": 13,
-                    "endColumn": 40,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "07371216-dfa8-4f33-bad1-367ef0dd559d",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "startLine": 20,
-                    "startColumn": 28,
-                    "endLine": 20,
-                    "endColumn": 45,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "09b6c7ab-a66e-487b-b047-534a6acac4fb",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "startLine": 23,
-                    "startColumn": 28,
-                    "endLine": 23,
-                    "endColumn": 44,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "90781c91-cecb-4c3c-ae91-aa91931d0019",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "startLine": 26,
-                    "startColumn": 28,
-                    "endLine": 26,
-                    "endColumn": 44,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "0bc5a99e-f5c6-4bc7-b816-93a5770be965",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "startLine": 29,
-                    "startColumn": 28,
-                    "endLine": 29,
-                    "endColumn": 44,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                }
-            ]
-        },
-        {
-            "file": "src/Tests/Services/Application.FunctionalTests/Application.FunctionalTests.csproj",
-            "seeds": [
-                {
-                    "id": "d56a5a88-7cfe-4ae8-a234-2e257e128dd6",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "startLine": 12,
-                    "startColumn": 24,
-                    "endLine": 12,
-                    "endColumn": 41,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "6ad791c2-9bc6-4c21-91cf-2a1efe895e38",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "startLine": 13,
-                    "startColumn": 24,
-                    "endLine": 13,
-                    "endColumn": 40,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "6b8dcdd1-a464-4fb1-9c04-25fc0dccf2d1",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "startLine": 14,
-                    "startColumn": 24,
-                    "endLine": 14,
-                    "endColumn": 40,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "1b3f66ab-df50-4897-80aa-d1a133391c18",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "startLine": 15,
-                    "startColumn": 24,
-                    "endLine": 15,
-                    "endColumn": 40,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "617cebf9-b73e-4605-9b65-d695661323f2",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                    "startLine": 26,
-                    "startColumn": 28,
-                    "endLine": 26,
-                    "endColumn": 45,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "8fba14d2-2377-4b58-8402-523f6d78ed92",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                    "startLine": 29,
-                    "startColumn": 28,
-                    "endLine": 29,
-                    "endColumn": 44,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "64214cc6-1e53-410e-9c93-75f75b0469ac",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                    "startLine": 32,
-                    "startColumn": 28,
-                    "endLine": 32,
-                    "endColumn": 44,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": true
-                },
-                {
-                    "id": "d0110719-ca4a-40f8-8de6-2ce908504f72",
-                    "analyzer": "Resource Analyzer",
-                    "featureKey": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                    "startLine": 35,
-                    "startColumn": 28,
-                    "endLine": 35,
-                    "endColumn": 44,
                     "type": "Deletion",
                     "isValidated": true,
                     "isMapped": true

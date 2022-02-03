@@ -60,9 +60,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92",
+            "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c",
             "position": {
-                "x": 1070,
+                "x": 890,
                 "y": 50
             },
             "attrs": {
@@ -157,21 +157,21 @@
         {
             "type": "app.FeatureShapeModel",
             "feature": {
-                "key": "28c9cac7-4d8a-4d53-a9e9-7fbf97f4eacc",
-                "name": "CatalogItems",
+                "key": "8d47ec8f-7865-4b56-a291-5f88741a9d85",
+                "name": "Items",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
-                "hexColor": "#626a5e",
+                "hexColor": "#6f8875",
                 "help": "",
                 "nodeWeight": -1,
                 "filePath": "src/Services/Catalog/Catalog.API/Setup",
                 "nodeType": "resourceFile",
                 "referenceType": "not a reference",
-                "fullName": "CatalogItems"
+                "fullName": "Items"
             },
             "size": {
                 "width": 180,
@@ -216,9 +216,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "727dd90c-1dae-4062-8765-d64d1058feb2",
+            "id": "1912c2e9-797d-4fa1-8dd3-877bc00e1a44",
             "position": {
-                "x": 150,
+                "x": 200,
                 "y": 151
             },
             "attrs": {
@@ -245,7 +245,7 @@
                     "text": ""
                 },
                 "bodyText": {
-                    "text": "CatalogItems",
+                    "text": "Items",
                     "refX": "50%",
                     "refY": "50%",
                     "textWrap": {
@@ -301,7 +301,7 @@
                 "markerColorRect": {
                     "refX": 12,
                     "refY": 10,
-                    "fill": "#626a5e",
+                    "fill": "#6f8875",
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
@@ -312,21 +312,21 @@
         {
             "type": "app.FeatureShapeModel",
             "feature": {
-                "key": "c33da827-deff-4676-8bd1-3adcae78ae3e",
-                "name": "CatalogBrands",
+                "key": "dd4ceefd-b02e-45dc-a009-94e4650882dc",
+                "name": "Brands",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
-                "hexColor": "#8eecc8",
+                "hexColor": "#761fd8",
                 "help": "",
                 "nodeWeight": -1,
                 "filePath": "src/Services/Catalog/Catalog.API/Setup",
                 "nodeType": "resourceFile",
                 "referenceType": "not a reference",
-                "fullName": "CatalogBrands"
+                "fullName": "Brands"
             },
             "size": {
                 "width": 180,
@@ -371,9 +371,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "724b8730-38a4-40cb-a883-defb2c7d7e0a",
+            "id": "975fe13f-a10d-48e8-a5da-00453a8093a0",
             "position": {
-                "x": 380,
+                "x": 430,
                 "y": 151
             },
             "attrs": {
@@ -400,7 +400,7 @@
                     "text": ""
                 },
                 "bodyText": {
-                    "text": "CatalogBrands",
+                    "text": "Brands",
                     "refX": "50%",
                     "refY": "50%",
                     "textWrap": {
@@ -456,7 +456,7 @@
                 "markerColorRect": {
                     "refX": 12,
                     "refY": 10,
-                    "fill": "#8eecc8",
+                    "fill": "#761fd8",
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
@@ -467,21 +467,21 @@
         {
             "type": "app.FeatureShapeModel",
             "feature": {
-                "key": "b4d2d469-c4cb-468e-888d-ee083e2dc9ef",
-                "name": "CatalogTypes",
+                "key": "9cb98684-9baa-4671-a31c-0907e0a7b06c",
+                "name": "Types",
                 "type": "Resource feature",
                 "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
                 "parentRelation": "Normal",
-                "presence": "Optional",
+                "presence": "Mandatory",
                 "lgFile": "",
                 "role": "",
-                "hexColor": "#270d04",
+                "hexColor": "#845c92",
                 "help": "",
                 "nodeWeight": -1,
                 "filePath": "src/Services/Catalog/Catalog.API/Setup",
                 "nodeType": "resourceFile",
                 "referenceType": "not a reference",
-                "fullName": "CatalogTypes"
+                "fullName": "Types"
             },
             "size": {
                 "width": 180,
@@ -526,9 +526,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "89a76a5d-a120-40c9-a1d8-cc5bfde99966",
+            "id": "0d25bcdb-7e81-4495-8c59-32e1356b307b",
             "position": {
-                "x": 610,
+                "x": 660,
                 "y": 151
             },
             "attrs": {
@@ -555,7 +555,7 @@
                     "text": ""
                 },
                 "bodyText": {
-                    "text": "CatalogTypes",
+                    "text": "Types",
                     "refX": "50%",
                     "refY": "50%",
                     "textWrap": {
@@ -611,471 +611,7 @@
                 "markerColorRect": {
                     "refX": 12,
                     "refY": 10,
-                    "fill": "#270d04",
-                    "stroke": "none",
-                    "r": 6,
-                    "title": "Marker color",
-                    "cursor": "pointer"
-                }
-            }
-        },
-        {
-            "type": "app.FeatureShapeModel",
-            "feature": {
-                "key": "e16d92c3-ee9f-418d-8c7e-91112cdc5248",
-                "name": "RessourcesGraphiques",
-                "type": "Resource feature",
-                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-                "parentRelation": "Normal",
-                "presence": "Optional",
-                "lgFile": "",
-                "role": "",
-                "hexColor": "#480e49",
-                "help": "",
-                "nodeWeight": -1,
-                "filePath": "src/Web/WebMVC/Setup",
-                "nodeType": "resourceFile",
-                "referenceType": "not a reference",
-                "fullName": "RessourcesGraphiques"
-            },
-            "size": {
-                "width": 180,
-                "height": 51
-            },
-            "hidden": false,
-            "markup": [
-                {
-                    "tagName": "rect",
-                    "selector": "body"
-                },
-                {
-                    "tagName": "rect",
-                    "selector": "header"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "headerText"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "bodyText"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "relationType"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "deadFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "commonFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "falseOptionalFeature"
-                },
-                {
-                    "tagName": "circle",
-                    "selector": "markerColorRect"
-                }
-            ],
-            "id": "9583797a-fda5-4abc-b118-25f242e596e8",
-            "position": {
-                "x": 840,
-                "y": 151
-            },
-            "attrs": {
-                "body": {
-                    "refWidth": "100%",
-                    "refHeight": "100%",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "stroke": "#b745bb",
-                    "style": {
-                        "transition": "0.3s ease-in-out"
-                    },
-                    "rx": 8,
-                    "ry": 8
-                },
-                "header": {
-                    "refWidth": "100%",
-                    "height": 0,
-                    "stroke": "#b745bb",
-                    "strokeWidth": 0,
-                    "fill": "#b745bb"
-                },
-                "headerText": {
-                    "text": ""
-                },
-                "bodyText": {
-                    "text": "RessourcesGraphiques",
-                    "refX": "50%",
-                    "refY": "50%",
-                    "textWrap": {
-                        "ellipsis": true,
-                        "width": -10
-                    },
-                    "textVerticalAnchor": "middle",
-                    "textAnchor": "middle",
-                    "fontSize": 14,
-                    "fontWeight": 700,
-                    "fontFamily": "Inter"
-                },
-                "relationType": {
-                    "refX": "50%",
-                    "refY": "100%",
-                    "stroke": "#A0A0A0",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "strokeLinejoin": "round",
-                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
-                    "height": 20,
-                    "width": 30,
-                    "display": "none"
-                },
-                "deadFeature": {
-                    "refX": "68%",
-                    "refY": "65%",
-                    "fill": "#E63757",
-                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
-                    "title": "Dead Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "commonFeature": {
-                    "refX": "88%",
-                    "refY": "65%",
-                    "fill": "#0d6efd",
-                    "strokeLinejoin": "round",
-                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
-                    "title": "Common Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "falseOptionalFeature": {
-                    "refX": "78%",
-                    "refY": "65%",
-                    "fill": "#CA9704",
-                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
-                    "title": "False Optional Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "markerColorRect": {
-                    "refX": 12,
-                    "refY": 10,
-                    "fill": "#480e49",
-                    "stroke": "none",
-                    "r": 6,
-                    "title": "Marker color",
-                    "cursor": "pointer"
-                }
-            }
-        },
-        {
-            "type": "app.FeatureShapeModel",
-            "feature": {
-                "key": "075fcd95-fa1e-49d3-8a2b-982d41695f10",
-                "name": "CatalogPictures",
-                "type": "Resource feature",
-                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-                "parentRelation": "Normal",
-                "presence": "Optional",
-                "lgFile": "",
-                "role": "",
-                "hexColor": "#5df2f0",
-                "help": "",
-                "nodeWeight": -1,
-                "filePath": "src/Services/Catalog/Catalog.API/Setup",
-                "nodeType": "resourceFile",
-                "referenceType": "not a reference",
-                "fullName": "CatalogPictures"
-            },
-            "size": {
-                "width": 180,
-                "height": 51
-            },
-            "hidden": false,
-            "markup": [
-                {
-                    "tagName": "rect",
-                    "selector": "body"
-                },
-                {
-                    "tagName": "rect",
-                    "selector": "header"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "headerText"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "bodyText"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "relationType"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "deadFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "commonFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "falseOptionalFeature"
-                },
-                {
-                    "tagName": "circle",
-                    "selector": "markerColorRect"
-                }
-            ],
-            "id": "97b535c9-55c8-49b1-b755-9d05f66d5ba3",
-            "position": {
-                "x": 1070,
-                "y": 151
-            },
-            "attrs": {
-                "body": {
-                    "refWidth": "100%",
-                    "refHeight": "100%",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "stroke": "#b745bb",
-                    "style": {
-                        "transition": "0.3s ease-in-out"
-                    },
-                    "rx": 8,
-                    "ry": 8
-                },
-                "header": {
-                    "refWidth": "100%",
-                    "height": 0,
-                    "stroke": "#b745bb",
-                    "strokeWidth": 0,
-                    "fill": "#b745bb"
-                },
-                "headerText": {
-                    "text": ""
-                },
-                "bodyText": {
-                    "text": "CatalogPictures",
-                    "refX": "50%",
-                    "refY": "50%",
-                    "textWrap": {
-                        "ellipsis": true,
-                        "width": -10
-                    },
-                    "textVerticalAnchor": "middle",
-                    "textAnchor": "middle",
-                    "fontSize": 14,
-                    "fontWeight": 700,
-                    "fontFamily": "Inter"
-                },
-                "relationType": {
-                    "refX": "50%",
-                    "refY": "100%",
-                    "stroke": "#A0A0A0",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "strokeLinejoin": "round",
-                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
-                    "height": 20,
-                    "width": 30,
-                    "display": "none"
-                },
-                "deadFeature": {
-                    "refX": "68%",
-                    "refY": "65%",
-                    "fill": "#E63757",
-                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
-                    "title": "Dead Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "commonFeature": {
-                    "refX": "88%",
-                    "refY": "65%",
-                    "fill": "#0d6efd",
-                    "strokeLinejoin": "round",
-                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
-                    "title": "Common Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "falseOptionalFeature": {
-                    "refX": "78%",
-                    "refY": "65%",
-                    "fill": "#CA9704",
-                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
-                    "title": "False Optional Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "markerColorRect": {
-                    "refX": 12,
-                    "refY": 10,
-                    "fill": "#5df2f0",
-                    "stroke": "none",
-                    "r": 6,
-                    "title": "Marker color",
-                    "cursor": "pointer"
-                }
-            }
-        },
-        {
-            "type": "app.FeatureShapeModel",
-            "feature": {
-                "key": "6a21491c-5e8f-4234-9638-b793fa71e694",
-                "name": "Tri",
-                "type": "Functionality feature",
-                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-                "parentRelation": "Normal",
-                "presence": "Optional",
-                "lgFile": "",
-                "role": "",
-                "hexColor": "#995814",
-                "help": "",
-                "nodeWeight": -1,
-                "nodeType": "feature",
-                "referenceType": "not a reference",
-                "fullName": "Tri"
-            },
-            "size": {
-                "width": 180,
-                "height": 51
-            },
-            "hidden": false,
-            "markup": [
-                {
-                    "tagName": "rect",
-                    "selector": "body"
-                },
-                {
-                    "tagName": "rect",
-                    "selector": "header"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "headerText"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "bodyText"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "relationType"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "deadFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "commonFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "falseOptionalFeature"
-                },
-                {
-                    "tagName": "circle",
-                    "selector": "markerColorRect"
-                }
-            ],
-            "id": "44df45c2-a867-4c5d-9e2d-e969cf59b69b",
-            "position": {
-                "x": 1300,
-                "y": 151
-            },
-            "attrs": {
-                "body": {
-                    "refWidth": "100%",
-                    "refHeight": "100%",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "stroke": "#adc949",
-                    "style": {
-                        "transition": "0.3s ease-in-out"
-                    },
-                    "rx": 8,
-                    "ry": 8
-                },
-                "header": {
-                    "refWidth": "100%",
-                    "height": 0,
-                    "stroke": "#adc949",
-                    "strokeWidth": 0,
-                    "fill": "#adc949"
-                },
-                "headerText": {
-                    "text": ""
-                },
-                "bodyText": {
-                    "text": "Tri",
-                    "refX": "50%",
-                    "refY": "50%",
-                    "textWrap": {
-                        "ellipsis": true,
-                        "width": -10
-                    },
-                    "textVerticalAnchor": "middle",
-                    "textAnchor": "middle",
-                    "fontSize": 14,
-                    "fontWeight": 700,
-                    "fontFamily": "Inter"
-                },
-                "relationType": {
-                    "refX": "50%",
-                    "refY": "100%",
-                    "stroke": "#A0A0A0",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "strokeLinejoin": "round",
-                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
-                    "height": 20,
-                    "width": 30,
-                    "display": "none"
-                },
-                "deadFeature": {
-                    "refX": "68%",
-                    "refY": "65%",
-                    "fill": "#E63757",
-                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
-                    "title": "Dead Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "commonFeature": {
-                    "refX": "88%",
-                    "refY": "65%",
-                    "fill": "#0d6efd",
-                    "strokeLinejoin": "round",
-                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
-                    "title": "Common Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "falseOptionalFeature": {
-                    "refX": "78%",
-                    "refY": "65%",
-                    "fill": "#CA9704",
-                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
-                    "title": "False Optional Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "markerColorRect": {
-                    "refX": 12,
-                    "refY": 10,
-                    "fill": "#995814",
+                    "fill": "#845c92",
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
@@ -1144,9 +680,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "743ec561-7abc-4cf8-8170-94885546d4cf",
+            "id": "38104913-cd55-489c-84a5-f2d40bccf11e",
             "position": {
-                "x": 1530,
+                "x": 890,
                 "y": 151
             },
             "attrs": {
@@ -1298,9 +834,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "6005afe7-b030-4908-b5fc-c117aa72d257",
+            "id": "54d7bf8e-d567-48d0-89f4-15ede3d564b4",
             "position": {
-                "x": 1760,
+                "x": 1120,
                 "y": 151
             },
             "attrs": {
@@ -1452,9 +988,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "fcfd8914-ae86-4a4b-959d-3c483e2014db",
+            "id": "e4b83f06-d97d-40cf-b27c-a580df14e074",
             "position": {
-                "x": 1990,
+                "x": 1350,
                 "y": 151
             },
             "attrs": {
@@ -1557,7 +1093,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -1577,11 +1113,11 @@
                         "rotate": true
                     }
                 },
-                "id": "727dd90c-1dae-4062-8765-d64d1058feb2"
+                "id": "1912c2e9-797d-4fa1-8dd3-877bc00e1a44"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "d50736ea-f89b-470d-8e42-0eae7bd03316",
+            "id": "22d59b7b-93b7-44ab-ba3c-3d46d8271601",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1591,7 +1127,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1615,7 +1151,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -1635,11 +1171,11 @@
                         "rotate": true
                     }
                 },
-                "id": "724b8730-38a4-40cb-a883-defb2c7d7e0a"
+                "id": "975fe13f-a10d-48e8-a5da-00453a8093a0"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "3c1879d9-1394-49d2-8806-208edc24a2f1",
+            "id": "3cc1a534-087b-4887-a60c-a9d00bc6f6e3",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1649,7 +1185,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1673,7 +1209,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -1693,11 +1229,11 @@
                         "rotate": true
                     }
                 },
-                "id": "89a76a5d-a120-40c9-a1d8-cc5bfde99966"
+                "id": "0d25bcdb-7e81-4495-8c59-32e1356b307b"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "a8c54328-71c1-4f87-be48-4c2c30a8cd57",
+            "id": "32bf18e8-0e81-44c7-966b-f0544c15f0d7",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1707,7 +1243,7 @@
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -1731,7 +1267,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -1751,127 +1287,11 @@
                         "rotate": true
                     }
                 },
-                "id": "9583797a-fda5-4abc-b118-25f242e596e8"
+                "id": "38104913-cd55-489c-84a5-f2d40bccf11e"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "a1e5b7bf-cf2e-4365-ac2d-6b03cda6f374",
-            "attrs": {
-                "line": {
-                    "stroke": "#b745bb",
-                    "strokeWidth": 1,
-                    "targetMarker": {
-                        "type": "circle",
-                        "r": 7,
-                        "cx": 7,
-                        "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
-                    },
-                    "connection": true,
-                    "strokeLinejoin": "round"
-                },
-                "wrapper": {
-                    "connection": true,
-                    "strokeWidth": 10,
-                    "strokeLinejoin": "round"
-                }
-            }
-        },
-        {
-            "source": {
-                "connectionPoint": {
-                    "name": "anchor",
-                    "args": {}
-                },
-                "anchor": {
-                    "name": "bottom",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
-            },
-            "target": {
-                "connectionPoint": {
-                    "name": "boundary",
-                    "args": {
-                        "offset": 0,
-                        "insideout": false,
-                        "extrapolate": true,
-                        "sticky": true,
-                        "precision": 3,
-                        "stroke": true
-                    }
-                },
-                "anchor": {
-                    "name": "top",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "97b535c9-55c8-49b1-b755-9d05f66d5ba3"
-            },
-            "z": 100,
-            "type": "standard.Link",
-            "id": "fd363d1b-bd90-4000-a6bf-7ba5f81e66f3",
-            "attrs": {
-                "line": {
-                    "stroke": "#b745bb",
-                    "strokeWidth": 1,
-                    "targetMarker": {
-                        "type": "circle",
-                        "r": 7,
-                        "cx": 7,
-                        "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
-                    },
-                    "connection": true,
-                    "strokeLinejoin": "round"
-                },
-                "wrapper": {
-                    "connection": true,
-                    "strokeWidth": 10,
-                    "strokeLinejoin": "round"
-                }
-            }
-        },
-        {
-            "source": {
-                "connectionPoint": {
-                    "name": "anchor",
-                    "args": {}
-                },
-                "anchor": {
-                    "name": "bottom",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
-            },
-            "target": {
-                "connectionPoint": {
-                    "name": "boundary",
-                    "args": {
-                        "offset": 0,
-                        "insideout": false,
-                        "extrapolate": true,
-                        "sticky": true,
-                        "precision": 3,
-                        "stroke": true
-                    }
-                },
-                "anchor": {
-                    "name": "top",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "44df45c2-a867-4c5d-9e2d-e969cf59b69b"
-            },
-            "z": 100,
-            "type": "standard.Link",
-            "id": "c46a586a-5392-48e1-ab40-89fbc4eb9f2f",
+            "id": "a4ebc1be-7b24-4d72-b8ef-7f67e5af1751",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1905,7 +1325,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -1925,11 +1345,11 @@
                         "rotate": true
                     }
                 },
-                "id": "743ec561-7abc-4cf8-8170-94885546d4cf"
+                "id": "54d7bf8e-d567-48d0-89f4-15ede3d564b4"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "cd368c97-7ccc-4ebe-b6dc-05482ee4215b",
+            "id": "6fa34e99-26f0-47bb-beee-6722ccaeb384",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1963,7 +1383,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -1983,11 +1403,11 @@
                         "rotate": true
                     }
                 },
-                "id": "6005afe7-b030-4908-b5fc-c117aa72d257"
+                "id": "e4b83f06-d97d-40cf-b27c-a580df14e074"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "e8e9fa2e-0deb-478c-8b6f-7fc5cf935620",
+            "id": "c92b91bd-b91d-4929-84fd-12eb833037fb",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -2021,7 +1441,7 @@
                         "rotate": true
                     }
                 },
-                "id": "40a028d0-b5d7-45f1-bf80-1fdf2f77dc92"
+                "id": "30d04b90-b4bb-42d4-a6a1-972fcd1ef48c"
             },
             "target": {
                 "connectionPoint": {
@@ -2041,21 +1461,21 @@
                         "rotate": true
                     }
                 },
-                "id": "fcfd8914-ae86-4a4b-959d-3c483e2014db"
+                "id": "c6a28dfa-5a15-41d6-8c9d-b289cecd1962"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "df2d91e1-2bc5-4d65-bfab-80046feb2642",
+            "id": "654d55ae-942b-416c-8086-e3076548a38a",
             "attrs": {
                 "line": {
-                    "stroke": "#adc949",
+                    "stroke": "#b745bb",
                     "strokeWidth": 1,
                     "targetMarker": {
                         "type": "circle",
                         "r": 7,
                         "cx": 7,
                         "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "white"
+                        "fill": "black"
                     },
                     "connection": true,
                     "strokeLinejoin": "round"
@@ -2064,6 +1484,164 @@
                     "connection": true,
                     "strokeWidth": 10,
                     "strokeLinejoin": "round"
+                }
+            }
+        },
+        {
+            "type": "app.FeatureShapeModel",
+            "feature": {
+                "key": "c6a28dfa-5a15-41d6-8c9d-b289cecd1962",
+                "name": "New functionality",
+                "type": "Functionality feature",
+                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+                "parentRelation": "Normal",
+                "presence": "Optional",
+                "lgFile": "",
+                "role": "",
+                "hexColor": "#b82b89",
+                "help": "",
+                "nodeWeight": -1,
+                "filePath": "src/Services/Catalog/Catalog.API/Setup",
+                "nodeType": "feature",
+                "referenceType": "not a reference",
+                "fullName": "New functionality",
+                "isPropagated": false
+            },
+            "size": {
+                "width": 180,
+                "height": 51
+            },
+            "hidden": false,
+            "markup": [
+                {
+                    "tagName": "rect",
+                    "selector": "body"
+                },
+                {
+                    "tagName": "rect",
+                    "selector": "header"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "headerText"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "bodyText"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "relationType"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "deadFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "commonFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "falseOptionalFeature"
+                },
+                {
+                    "tagName": "circle",
+                    "selector": "markerColorRect"
+                }
+            ],
+            "id": "c6a28dfa-5a15-41d6-8c9d-b289cecd1962",
+            "position": {
+                "x": 1580,
+                "y": 151
+            },
+            "z": 101,
+            "attrs": {
+                "body": {
+                    "refWidth": "100%",
+                    "refHeight": "100%",
+                    "strokeWidth": 2,
+                    "fill": "#FFFFFF",
+                    "stroke": "#b745bb",
+                    "style": {
+                        "transition": "0.3s ease-in-out"
+                    },
+                    "rx": 8,
+                    "ry": 8
+                },
+                "header": {
+                    "refWidth": "100%",
+                    "height": 0,
+                    "stroke": "#b745bb",
+                    "strokeWidth": 0,
+                    "fill": "#b745bb"
+                },
+                "headerText": {
+                    "text": ""
+                },
+                "bodyText": {
+                    "text": "New functionality",
+                    "refX": "50%",
+                    "refY": "50%",
+                    "textWrap": {
+                        "ellipsis": true,
+                        "width": -10
+                    },
+                    "textVerticalAnchor": "middle",
+                    "textAnchor": "middle",
+                    "fontSize": 14,
+                    "fontWeight": 700,
+                    "fontFamily": "Inter"
+                },
+                "relationType": {
+                    "refX": "50%",
+                    "refY": "100%",
+                    "stroke": "#A0A0A0",
+                    "strokeWidth": 1,
+                    "fill": "#FFFFFF",
+                    "strokeLinejoin": "round",
+                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
+                    "height": 20,
+                    "width": 30,
+                    "display": "none"
+                },
+                "deadFeature": {
+                    "refX": "68%",
+                    "refY": "65%",
+                    "fill": "#E63757",
+                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
+                    "title": "Dead Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "commonFeature": {
+                    "refX": "88%",
+                    "refY": "65%",
+                    "fill": "#0d6efd",
+                    "strokeLinejoin": "round",
+                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
+                    "title": "Common Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "falseOptionalFeature": {
+                    "refX": "78%",
+                    "refY": "65%",
+                    "fill": "#CA9704",
+                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
+                    "title": "False Optional Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "markerColorRect": {
+                    "refX": 12,
+                    "refY": 10,
+                    "fill": "#b82b89",
+                    "stroke": "none",
+                    "r": 6,
+                    "title": "Marker color",
+                    "cursor": "pointer",
+                    "display": "block"
                 }
             }
         }

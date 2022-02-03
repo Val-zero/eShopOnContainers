@@ -1,0 +1,15 @@
+CatalogTypeName,CatalogBrandName,Description,Name,Price,PictureFileName,availablestock,onreorder
+Guerison,Bonheur,"Oranger du Mexique",Oranger du Mexique,32.90,1.jpg,100,false
+Pot,Bonheur,Assortiment de plantes grasses,Assortiment de plantes grasses,9.90,2.jpg,89,true
+Guerison,Armonie,Verveine citronnelle,Verveine citronnelle,11.49,3.jpg,56,false
+Guerison,Bonheur,Pittosporum Tenuifolium,Pittosporum Tenuifolium,24.9,4.jpg,120,false
+Vie,Armonie,Batavia Rouge Kamikaze,Batavia Rouge Kamikaze,5.5,5.jpg,12,false
+Guerison,Bonheur,Fraisier Magnum,Fraisier Magnume,4.50,6.jpg,1,false
+Guerison,Armonie,Tomate Coeur de Boeuf,Tomate Coeur de Boeuf,5.20,7.jpg,8,false
+Guerison,Armonie,Sac de plants de pomme de terre,Sac de plants de pomme de terre,19.9,8.jpg,34,false
+Pot,Armonie,Cornichon,Cornichon,6.9,9.jpg,76,false
+Vie,Bonheur,Aromatiques,Aromatiques,12.4,10.jpg,11,false
+Vie,Bonheur,Cache-pot en osier,Cache-pot en osier,16.9,11.jpg,3,false
+Guerison,Armonie,Pots en céramique bleu/gris,Pots en céramique bleu/gris,18.40,12.jpg,0,false
+Pot,Bonheur,Monstera minima,Monstera minima,24.90,13.jpg,89,true
+Pot,Armonie,Plante carnivore,Plante carnivore,7.40,14.jpg,76,false
