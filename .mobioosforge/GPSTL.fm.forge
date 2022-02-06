@@ -60,9 +60,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "495f926c-1295-4216-ab02-58b0874c320b",
+            "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154",
             "position": {
-                "x": 1120,
+                "x": 1070,
                 "y": 50
             },
             "attrs": {
@@ -216,9 +216,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "560419aa-c14b-4431-9f4d-62d3879b4175",
+            "id": "18d135ba-c920-4c3d-9232-f171ff4d6316",
             "position": {
-                "x": 200,
+                "x": 150,
                 "y": 151
             },
             "attrs": {
@@ -371,9 +371,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "e1435dba-b95d-4844-a1ae-a5da62d67bf5",
+            "id": "e58d21d0-8be5-4a69-9b2e-2727a1b75e49",
             "position": {
-                "x": 430,
+                "x": 380,
                 "y": 151
             },
             "attrs": {
@@ -526,9 +526,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "fba697dd-76d4-4164-a368-48efea5d63fa",
+            "id": "2694577f-57e0-48a9-8c48-1f268a4f4b93",
             "position": {
-                "x": 660,
+                "x": 610,
                 "y": 151
             },
             "attrs": {
@@ -681,9 +681,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "217fee0e-c079-455d-95ed-0eb0389468bf",
+            "id": "f64fb6fb-d754-4824-93b0-9b3aaf28e1ef",
             "position": {
-                "x": 890,
+                "x": 840,
                 "y": 151
             },
             "attrs": {
@@ -777,6 +777,316 @@
         {
             "type": "app.FeatureShapeModel",
             "feature": {
+                "key": "a9d7f1da-46a3-417c-8f93-652c132442cf",
+                "name": "HeaderMVC",
+                "type": "Resource feature",
+                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+                "parentRelation": "Normal",
+                "presence": "Mandatory",
+                "lgFile": "",
+                "role": "",
+                "hexColor": "#0f940a",
+                "help": "",
+                "nodeWeight": -1,
+                "filePath": "src/Web/WebMVC/wwwroot/images",
+                "nodeType": "resourceFile",
+                "referenceType": "not a reference",
+                "fullName": "HeaderMVC"
+            },
+            "size": {
+                "width": 180,
+                "height": 51
+            },
+            "hidden": false,
+            "markup": [
+                {
+                    "tagName": "rect",
+                    "selector": "body"
+                },
+                {
+                    "tagName": "rect",
+                    "selector": "header"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "headerText"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "bodyText"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "relationType"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "deadFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "commonFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "falseOptionalFeature"
+                },
+                {
+                    "tagName": "circle",
+                    "selector": "markerColorRect"
+                }
+            ],
+            "id": "25d09786-f9b2-469a-85d2-0be0a1175f50",
+            "position": {
+                "x": 1070,
+                "y": 151
+            },
+            "attrs": {
+                "body": {
+                    "refWidth": "100%",
+                    "refHeight": "100%",
+                    "strokeWidth": 1,
+                    "fill": "#FFFFFF",
+                    "stroke": "#b745bb",
+                    "style": {
+                        "transition": "0.3s ease-in-out"
+                    },
+                    "rx": 8,
+                    "ry": 8
+                },
+                "header": {
+                    "refWidth": "100%",
+                    "height": 0,
+                    "stroke": "#b745bb",
+                    "strokeWidth": 0,
+                    "fill": "#b745bb"
+                },
+                "headerText": {
+                    "text": ""
+                },
+                "bodyText": {
+                    "text": "HeaderMVC",
+                    "refX": "50%",
+                    "refY": "50%",
+                    "textWrap": {
+                        "ellipsis": true,
+                        "width": -10
+                    },
+                    "textVerticalAnchor": "middle",
+                    "textAnchor": "middle",
+                    "fontSize": 14,
+                    "fontWeight": 700,
+                    "fontFamily": "Inter"
+                },
+                "relationType": {
+                    "refX": "50%",
+                    "refY": "100%",
+                    "stroke": "#A0A0A0",
+                    "strokeWidth": 1,
+                    "fill": "#FFFFFF",
+                    "strokeLinejoin": "round",
+                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
+                    "height": 20,
+                    "width": 30,
+                    "display": "none"
+                },
+                "deadFeature": {
+                    "refX": "68%",
+                    "refY": "65%",
+                    "fill": "#E63757",
+                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
+                    "title": "Dead Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "commonFeature": {
+                    "refX": "88%",
+                    "refY": "65%",
+                    "fill": "#0d6efd",
+                    "strokeLinejoin": "round",
+                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
+                    "title": "Common Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "falseOptionalFeature": {
+                    "refX": "78%",
+                    "refY": "65%",
+                    "fill": "#CA9704",
+                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
+                    "title": "False Optional Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "markerColorRect": {
+                    "refX": 12,
+                    "refY": 10,
+                    "fill": "#0f940a",
+                    "stroke": "none",
+                    "r": 6,
+                    "title": "Marker color",
+                    "cursor": "pointer"
+                }
+            }
+        },
+        {
+            "type": "app.FeatureShapeModel",
+            "feature": {
+                "key": "3f896e65-6499-42f8-a856-687aa3a878ad",
+                "name": "HeaderSPA",
+                "type": "Resource feature",
+                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+                "parentRelation": "Normal",
+                "presence": "Mandatory",
+                "lgFile": "",
+                "role": "",
+                "hexColor": "#4fe5f8",
+                "help": "",
+                "nodeWeight": -1,
+                "filePath": "src/Web/WebSPA/Client/src/assets/images",
+                "nodeType": "resourceFile",
+                "referenceType": "not a reference",
+                "fullName": "HeaderSPA"
+            },
+            "size": {
+                "width": 180,
+                "height": 51
+            },
+            "hidden": false,
+            "markup": [
+                {
+                    "tagName": "rect",
+                    "selector": "body"
+                },
+                {
+                    "tagName": "rect",
+                    "selector": "header"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "headerText"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "bodyText"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "relationType"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "deadFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "commonFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "falseOptionalFeature"
+                },
+                {
+                    "tagName": "circle",
+                    "selector": "markerColorRect"
+                }
+            ],
+            "id": "15db99ed-ed29-4925-ae31-d1535015c5db",
+            "position": {
+                "x": 1300,
+                "y": 151
+            },
+            "attrs": {
+                "body": {
+                    "refWidth": "100%",
+                    "refHeight": "100%",
+                    "strokeWidth": 1,
+                    "fill": "#FFFFFF",
+                    "stroke": "#b745bb",
+                    "style": {
+                        "transition": "0.3s ease-in-out"
+                    },
+                    "rx": 8,
+                    "ry": 8
+                },
+                "header": {
+                    "refWidth": "100%",
+                    "height": 0,
+                    "stroke": "#b745bb",
+                    "strokeWidth": 0,
+                    "fill": "#b745bb"
+                },
+                "headerText": {
+                    "text": ""
+                },
+                "bodyText": {
+                    "text": "HeaderSPA",
+                    "refX": "50%",
+                    "refY": "50%",
+                    "textWrap": {
+                        "ellipsis": true,
+                        "width": -10
+                    },
+                    "textVerticalAnchor": "middle",
+                    "textAnchor": "middle",
+                    "fontSize": 14,
+                    "fontWeight": 700,
+                    "fontFamily": "Inter"
+                },
+                "relationType": {
+                    "refX": "50%",
+                    "refY": "100%",
+                    "stroke": "#A0A0A0",
+                    "strokeWidth": 1,
+                    "fill": "#FFFFFF",
+                    "strokeLinejoin": "round",
+                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
+                    "height": 20,
+                    "width": 30,
+                    "display": "none"
+                },
+                "deadFeature": {
+                    "refX": "68%",
+                    "refY": "65%",
+                    "fill": "#E63757",
+                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
+                    "title": "Dead Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "commonFeature": {
+                    "refX": "88%",
+                    "refY": "65%",
+                    "fill": "#0d6efd",
+                    "strokeLinejoin": "round",
+                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
+                    "title": "Common Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "falseOptionalFeature": {
+                    "refX": "78%",
+                    "refY": "65%",
+                    "fill": "#CA9704",
+                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
+                    "title": "False Optional Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "markerColorRect": {
+                    "refX": 12,
+                    "refY": 10,
+                    "fill": "#4fe5f8",
+                    "stroke": "none",
+                    "r": 6,
+                    "title": "Marker color",
+                    "cursor": "pointer"
+                }
+            }
+        },
+        {
+            "type": "app.FeatureShapeModel",
+            "feature": {
                 "key": "db0c3f43-b03b-46e6-a66d-86c412698eca",
                 "name": "Login",
                 "type": "Functionality feature",
@@ -835,9 +1145,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "6ff6a7e2-70ce-4ab4-9b1d-abea545d5b41",
+            "id": "f5068510-f5d0-4cad-b512-b1a682b2f8de",
             "position": {
-                "x": 1120,
+                "x": 1530,
                 "y": 151
             },
             "attrs": {
@@ -989,18 +1299,18 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "12a248f0-0efa-48cf-a4a3-3ac06c72bc1f",
+            "id": "b4634aca-9d93-4d0c-a70c-64330f96d1eb",
             "position": {
-                "x": 1350,
+                "x": 1760,
                 "y": 151
             },
             "attrs": {
                 "body": {
                     "refWidth": "100%",
                     "refHeight": "100%",
-                    "strokeWidth": 1,
+                    "strokeWidth": 2,
                     "fill": "#FFFFFF",
-                    "stroke": "#adc949",
+                    "stroke": "#FFCFC3",
                     "style": {
                         "transition": "0.3s ease-in-out"
                     },
@@ -1143,9 +1453,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "412416be-2126-479e-a85d-1487f53ff3ce",
+            "id": "4f497493-a22a-4b94-bb55-1ca53f5aa310",
             "position": {
-                "x": 1580,
+                "x": 1990,
                 "y": 151
             },
             "attrs": {
@@ -1248,7 +1558,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1268,11 +1578,11 @@
                         "rotate": true
                     }
                 },
-                "id": "560419aa-c14b-4431-9f4d-62d3879b4175"
+                "id": "18d135ba-c920-4c3d-9232-f171ff4d6316"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "20de352a-b6e6-4e15-843e-7ba6d133551c",
+            "id": "165d6e1d-7a2e-4a00-aa87-9bb43894252c",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1306,7 +1616,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1326,11 +1636,11 @@
                         "rotate": true
                     }
                 },
-                "id": "e1435dba-b95d-4844-a1ae-a5da62d67bf5"
+                "id": "e58d21d0-8be5-4a69-9b2e-2727a1b75e49"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "1b1af0a4-7b78-445b-803e-12010fb27d14",
+            "id": "84cd5c0b-278f-4dbb-8a1b-e399d77bdb8c",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1364,7 +1674,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1384,11 +1694,11 @@
                         "rotate": true
                     }
                 },
-                "id": "fba697dd-76d4-4164-a368-48efea5d63fa"
+                "id": "2694577f-57e0-48a9-8c48-1f268a4f4b93"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "e3d088bb-42d6-4ca3-be24-0e78b34ee139",
+            "id": "839093cb-442d-4472-9a6e-1012a8f43b98",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1422,7 +1732,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1442,11 +1752,11 @@
                         "rotate": true
                     }
                 },
-                "id": "217fee0e-c079-455d-95ed-0eb0389468bf"
+                "id": "f64fb6fb-d754-4824-93b0-9b3aaf28e1ef"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "a411aa48-4f8c-4905-8bbc-3ea708a0a782",
+            "id": "393543bd-6fb3-483a-94ba-8faa3e847932",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1480,7 +1790,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1500,11 +1810,127 @@
                         "rotate": true
                     }
                 },
-                "id": "6ff6a7e2-70ce-4ab4-9b1d-abea545d5b41"
+                "id": "25d09786-f9b2-469a-85d2-0be0a1175f50"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "a758b715-ecbd-4bbf-836e-4bf371f42984",
+            "id": "920b1ca6-8752-4a0f-98e3-a80bae52b955",
+            "attrs": {
+                "line": {
+                    "stroke": "#b745bb",
+                    "strokeWidth": 1,
+                    "targetMarker": {
+                        "type": "circle",
+                        "r": 7,
+                        "cx": 7,
+                        "d": "M 10 -5 0 0 10 5 z",
+                        "fill": "black"
+                    },
+                    "connection": true,
+                    "strokeLinejoin": "round"
+                },
+                "wrapper": {
+                    "connection": true,
+                    "strokeWidth": 10,
+                    "strokeLinejoin": "round"
+                }
+            }
+        },
+        {
+            "source": {
+                "connectionPoint": {
+                    "name": "anchor",
+                    "args": {}
+                },
+                "anchor": {
+                    "name": "bottom",
+                    "args": {
+                        "rotate": true
+                    }
+                },
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+            },
+            "target": {
+                "connectionPoint": {
+                    "name": "boundary",
+                    "args": {
+                        "offset": 0,
+                        "insideout": false,
+                        "extrapolate": true,
+                        "sticky": true,
+                        "precision": 3,
+                        "stroke": true
+                    }
+                },
+                "anchor": {
+                    "name": "top",
+                    "args": {
+                        "rotate": true
+                    }
+                },
+                "id": "15db99ed-ed29-4925-ae31-d1535015c5db"
+            },
+            "z": 100,
+            "type": "standard.Link",
+            "id": "43245a75-ada1-4f9a-b4a6-5963fab5b437",
+            "attrs": {
+                "line": {
+                    "stroke": "#b745bb",
+                    "strokeWidth": 1,
+                    "targetMarker": {
+                        "type": "circle",
+                        "r": 7,
+                        "cx": 7,
+                        "d": "M 10 -5 0 0 10 5 z",
+                        "fill": "black"
+                    },
+                    "connection": true,
+                    "strokeLinejoin": "round"
+                },
+                "wrapper": {
+                    "connection": true,
+                    "strokeWidth": 10,
+                    "strokeLinejoin": "round"
+                }
+            }
+        },
+        {
+            "source": {
+                "connectionPoint": {
+                    "name": "anchor",
+                    "args": {}
+                },
+                "anchor": {
+                    "name": "bottom",
+                    "args": {
+                        "rotate": true
+                    }
+                },
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+            },
+            "target": {
+                "connectionPoint": {
+                    "name": "boundary",
+                    "args": {
+                        "offset": 0,
+                        "insideout": false,
+                        "extrapolate": true,
+                        "sticky": true,
+                        "precision": 3,
+                        "stroke": true
+                    }
+                },
+                "anchor": {
+                    "name": "top",
+                    "args": {
+                        "rotate": true
+                    }
+                },
+                "id": "f5068510-f5d0-4cad-b512-b1a682b2f8de"
+            },
+            "z": 100,
+            "type": "standard.Link",
+            "id": "419d14f3-eaee-4ae3-bd8b-23586d9f0154",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1538,7 +1964,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1558,11 +1984,11 @@
                         "rotate": true
                     }
                 },
-                "id": "12a248f0-0efa-48cf-a4a3-3ac06c72bc1f"
+                "id": "b4634aca-9d93-4d0c-a70c-64330f96d1eb"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "323269e1-5b06-427f-baea-50bf8bf9e835",
+            "id": "c4cd5044-f7a0-4c0d-abf6-d02f78b0af69",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1596,7 +2022,7 @@
                         "rotate": true
                     }
                 },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
+                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
             },
             "target": {
                 "connectionPoint": {
@@ -1616,11 +2042,11 @@
                         "rotate": true
                     }
                 },
-                "id": "412416be-2126-479e-a85d-1487f53ff3ce"
+                "id": "4f497493-a22a-4b94-bb55-1ca53f5aa310"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "d3e7add5-5e05-4324-962a-3024836cf425",
+            "id": "c17746a5-3ed7-40e0-839e-3b61a0fa9d1f",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1639,437 +2065,6 @@
                     "connection": true,
                     "strokeWidth": 10,
                     "strokeLinejoin": "round"
-                }
-            }
-        },
-        {
-            "source": {
-                "connectionPoint": {
-                    "name": "anchor",
-                    "args": {}
-                },
-                "anchor": {
-                    "name": "bottom",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
-            },
-            "target": {
-                "connectionPoint": {
-                    "name": "boundary",
-                    "args": {
-                        "offset": 0,
-                        "insideout": false,
-                        "extrapolate": true,
-                        "sticky": true,
-                        "precision": 3,
-                        "stroke": true
-                    }
-                },
-                "anchor": {
-                    "name": "top",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "7bdc043a-e759-4995-ac23-3d5e5ad1e7e7"
-            },
-            "z": 100,
-            "type": "standard.Link",
-            "id": "bfb214ee-c89f-45c2-a8db-8139fab077a7",
-            "attrs": {
-                "line": {
-                    "stroke": "#b745bb",
-                    "strokeWidth": 1,
-                    "targetMarker": {
-                        "type": "circle",
-                        "r": 7,
-                        "cx": 7,
-                        "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "black"
-                    },
-                    "connection": true,
-                    "strokeLinejoin": "round"
-                },
-                "wrapper": {
-                    "connection": true,
-                    "strokeWidth": 10,
-                    "strokeLinejoin": "round"
-                }
-            }
-        },
-        {
-            "source": {
-                "connectionPoint": {
-                    "name": "anchor",
-                    "args": {}
-                },
-                "anchor": {
-                    "name": "bottom",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "495f926c-1295-4216-ab02-58b0874c320b"
-            },
-            "target": {
-                "connectionPoint": {
-                    "name": "boundary",
-                    "args": {
-                        "offset": 0,
-                        "insideout": false,
-                        "extrapolate": true,
-                        "sticky": true,
-                        "precision": 3,
-                        "stroke": true
-                    }
-                },
-                "anchor": {
-                    "name": "top",
-                    "args": {
-                        "rotate": true
-                    }
-                },
-                "id": "3f896e65-6499-42f8-a856-687aa3a878ad"
-            },
-            "z": 100,
-            "type": "standard.Link",
-            "id": "0da0beeb-3934-4d4c-bd1f-39c3346af14f",
-            "attrs": {
-                "line": {
-                    "stroke": "#b745bb",
-                    "strokeWidth": 1,
-                    "targetMarker": {
-                        "type": "circle",
-                        "r": 7,
-                        "cx": 7,
-                        "d": "M 10 -5 0 0 10 5 z",
-                        "fill": "black"
-                    },
-                    "connection": true,
-                    "strokeLinejoin": "round"
-                },
-                "wrapper": {
-                    "connection": true,
-                    "strokeWidth": 10,
-                    "strokeLinejoin": "round"
-                }
-            }
-        },
-        {
-            "type": "app.FeatureShapeModel",
-            "feature": {
-                "key": "a9d7f1da-46a3-417c-8f93-652c132442cf",
-                "name": "HeaderMVC",
-                "nodeType": "resourceFile",
-                "type": "Resource feature",
-                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-                "parentRelation": "Normal",
-                "presence": "Mandatory",
-                "lgFile": "",
-                "role": "",
-                "hexColor": "#0f940a",
-                "help": "",
-                "nodeWeight": -1,
-                "isPropagated": false,
-                "filePath": "src/Web/WebMVC/wwwroot/images",
-                "referenceType": "not a reference"
-            },
-            "size": {
-                "width": 180,
-                "height": 51
-            },
-            "hidden": false,
-            "markup": [
-                {
-                    "tagName": "rect",
-                    "selector": "body"
-                },
-                {
-                    "tagName": "rect",
-                    "selector": "header"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "headerText"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "bodyText"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "relationType"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "deadFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "commonFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "falseOptionalFeature"
-                },
-                {
-                    "tagName": "circle",
-                    "selector": "markerColorRect"
-                }
-            ],
-            "id": "7bdc043a-e759-4995-ac23-3d5e5ad1e7e7",
-            "position": {
-                "x": 1810,
-                "y": 151
-            },
-            "z": 101,
-            "attrs": {
-                "body": {
-                    "refWidth": "100%",
-                    "refHeight": "100%",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "stroke": "#b745bb",
-                    "style": {
-                        "transition": "0.3s ease-in-out"
-                    },
-                    "rx": 8,
-                    "ry": 8
-                },
-                "header": {
-                    "refWidth": "100%",
-                    "height": 0,
-                    "stroke": "#b745bb",
-                    "strokeWidth": 0,
-                    "fill": "#b745bb"
-                },
-                "headerText": {
-                    "text": ""
-                },
-                "bodyText": {
-                    "text": "HeaderMVC",
-                    "refX": "50%",
-                    "refY": "50%",
-                    "textWrap": {
-                        "ellipsis": true,
-                        "width": -10
-                    },
-                    "textVerticalAnchor": "middle",
-                    "textAnchor": "middle",
-                    "fontSize": 14,
-                    "fontWeight": 700,
-                    "fontFamily": "Inter"
-                },
-                "relationType": {
-                    "refX": "50%",
-                    "refY": "100%",
-                    "stroke": "#A0A0A0",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "strokeLinejoin": "round",
-                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
-                    "height": 20,
-                    "width": 30,
-                    "display": "none"
-                },
-                "deadFeature": {
-                    "refX": "68%",
-                    "refY": "65%",
-                    "fill": "#E63757",
-                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
-                    "title": "Dead Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "commonFeature": {
-                    "refX": "88%",
-                    "refY": "65%",
-                    "fill": "#0d6efd",
-                    "strokeLinejoin": "round",
-                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
-                    "title": "Common Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "falseOptionalFeature": {
-                    "refX": "78%",
-                    "refY": "65%",
-                    "fill": "#CA9704",
-                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
-                    "title": "False Optional Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "markerColorRect": {
-                    "refX": 12,
-                    "refY": 10,
-                    "fill": "#0f940a",
-                    "stroke": "none",
-                    "r": 6,
-                    "title": "Marker color",
-                    "cursor": "pointer",
-                    "display": "block"
-                }
-            }
-        },
-        {
-            "type": "app.FeatureShapeModel",
-            "feature": {
-                "key": "3f896e65-6499-42f8-a856-687aa3a878ad",
-                "name": "New functionality",
-                "nodeType": "feature",
-                "type": "Functionality feature",
-                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
-                "parentRelation": "Normal",
-                "presence": "Optional",
-                "lgFile": "",
-                "role": "",
-                "hexColor": "#4fe5f8",
-                "help": "",
-                "nodeWeight": -1,
-                "isPropagated": false,
-                "filePath": "src/Web/WebMVC/wwwroot/images",
-                "referenceType": "not a reference",
-                "fullName": "New functionality"
-            },
-            "size": {
-                "width": 180,
-                "height": 51
-            },
-            "hidden": false,
-            "markup": [
-                {
-                    "tagName": "rect",
-                    "selector": "body"
-                },
-                {
-                    "tagName": "rect",
-                    "selector": "header"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "headerText"
-                },
-                {
-                    "tagName": "text",
-                    "selector": "bodyText"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "relationType"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "deadFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "commonFeature"
-                },
-                {
-                    "tagName": "path",
-                    "selector": "falseOptionalFeature"
-                },
-                {
-                    "tagName": "circle",
-                    "selector": "markerColorRect"
-                }
-            ],
-            "id": "3f896e65-6499-42f8-a856-687aa3a878ad",
-            "position": {
-                "x": 2040,
-                "y": 151
-            },
-            "z": 101,
-            "attrs": {
-                "body": {
-                    "refWidth": "100%",
-                    "refHeight": "100%",
-                    "strokeWidth": 2,
-                    "fill": "#FFFFFF",
-                    "stroke": "#b745bb",
-                    "style": {
-                        "transition": "0.3s ease-in-out"
-                    },
-                    "rx": 8,
-                    "ry": 8
-                },
-                "header": {
-                    "refWidth": "100%",
-                    "height": 0,
-                    "stroke": "#b745bb",
-                    "strokeWidth": 0,
-                    "fill": "#b745bb"
-                },
-                "headerText": {
-                    "text": ""
-                },
-                "bodyText": {
-                    "text": "New functionality",
-                    "refX": "50%",
-                    "refY": "50%",
-                    "textWrap": {
-                        "ellipsis": true,
-                        "width": -10
-                    },
-                    "textVerticalAnchor": "middle",
-                    "textAnchor": "middle",
-                    "fontSize": 14,
-                    "fontWeight": 700,
-                    "fontFamily": "Inter"
-                },
-                "relationType": {
-                    "refX": "50%",
-                    "refY": "100%",
-                    "stroke": "#A0A0A0",
-                    "strokeWidth": 1,
-                    "fill": "#FFFFFF",
-                    "strokeLinejoin": "round",
-                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
-                    "height": 20,
-                    "width": 30,
-                    "display": "none"
-                },
-                "deadFeature": {
-                    "refX": "68%",
-                    "refY": "65%",
-                    "fill": "#E63757",
-                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
-                    "title": "Dead Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "commonFeature": {
-                    "refX": "88%",
-                    "refY": "65%",
-                    "fill": "#0d6efd",
-                    "strokeLinejoin": "round",
-                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
-                    "title": "Common Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "falseOptionalFeature": {
-                    "refX": "78%",
-                    "refY": "65%",
-                    "fill": "#CA9704",
-                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
-                    "title": "False Optional Feature",
-                    "cursor": "pointer",
-                    "display": "none"
-                },
-                "markerColorRect": {
-                    "refX": 12,
-                    "refY": 10,
-                    "fill": "#4fe5f8",
-                    "stroke": "none",
-                    "r": 6,
-                    "title": "Marker color",
-                    "cursor": "pointer",
-                    "display": "block"
                 }
             }
         }

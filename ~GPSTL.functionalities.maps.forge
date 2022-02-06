@@ -59,7 +59,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "e85bbcb8-e2a0-4e9c-a451-8f7b67097492",
@@ -83,7 +83,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "a0b960fe-424e-4546-a10f-43a2a26af378",
@@ -95,7 +95,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "be74b4b0-ee93-4ee9-9bb6-964d880e08d8",
@@ -107,7 +107,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "ee61fb9f-3a5c-48ee-80db-29202c20ccb2",
@@ -131,7 +131,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "2f9ca90b-f5a6-4232-8f01-11a6e42767af",
@@ -143,7 +143,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "67c003ba-e210-42d6-8ad3-c8104141885c",
@@ -155,7 +155,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "f523f438-36ec-4071-940c-7f3c9d2ce7a5",
@@ -167,7 +167,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "4ca098f8-b1b7-431a-a6cd-5e6544ec2e3b",
@@ -191,7 +191,7 @@
                     "endColumn": 10,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "8b9daa94-ede1-410f-bf3a-5bc8797a99a8",
@@ -203,7 +203,7 @@
                     "endColumn": 80,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "a6603dce-2376-4bd7-bc22-d7165a1cc234",
@@ -215,7 +215,7 @@
                     "endColumn": 80,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "c6b180ce-f951-486b-af9a-eec18d4b1dc7",
@@ -227,7 +227,7 @@
                     "endColumn": 78,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "db4c125d-c09c-46b2-9674-4242150e3c07",
@@ -251,7 +251,7 @@
                     "endColumn": 78,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "70afd0cc-a068-493b-a83e-2cf4cf792ed0",
@@ -263,7 +263,7 @@
                     "endColumn": 78,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "70addc9c-5fbd-4fe5-809f-8da7e6c8caac",
@@ -275,7 +275,7 @@
                     "endColumn": 78,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "82557c8b-7227-40c3-bb21-34efd7d75882",
@@ -299,7 +299,7 @@
                     "endColumn": 78,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "ba20b1e6-e96b-4d64-a9c3-53a56416c05f",
@@ -311,7 +311,7 @@
                     "endColumn": 81,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "9a6907af-ee8f-4b94-b652-8b21f94c893e",
@@ -335,7 +335,7 @@
                     "endColumn": 81,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "ee8914ce-e57c-4bb5-b1a0-69b1d48b64f8",
@@ -347,7 +347,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "432af4cf-948c-4ba6-9a12-cb4177de64e9",
@@ -371,7 +371,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "258c666e-53df-4bfb-a9c7-87d54a3c9d91",
@@ -383,7 +383,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "cef0c7ec-2c3d-4ab4-bdfc-97f8f0ed6f93",
@@ -395,7 +395,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "9f38a3e6-1b23-4476-be95-df3b17d5d863",
@@ -407,7 +407,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "e43111cf-fc67-4c13-9af1-54ec3034076e",
@@ -431,7 +431,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 }
             ]
         },
@@ -808,7 +808,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "115e8e00-3d0a-439f-a7f0-000588196598",
@@ -1789,7 +1789,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "047aa883-69d1-4b5f-b6d9-cf2bae0fafe9",
@@ -1936,7 +1936,7 @@
                     "endColumn": 19,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "8336a3f0-3fc2-409f-8dd6-377dd06ec001",
@@ -2267,7 +2267,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "fe8fc218-8676-486b-88c1-6caf4a2b3812",
@@ -2806,35 +2806,22 @@
             "file": "src/Web/WebMVC/Views/Order/Create.cshtml",
             "seeds": [
                 {
-                    "id": "f2a773f8-32cb-4cbb-b97a-162b21155da9",
+                    "id": "9057f6a4-5b9d-497a-b0cb-dc606913f728",
                     "analyzer": "Interoperable analyzer",
-                    "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4",
-                    "startLine": 53,
+                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "startLine": 0,
                     "startColumn": 0,
-                    "endLine": 85,
-                    "endColumn": 18,
+                    "endLine": 106,
+                    "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 }
             ]
         },
         {
             "file": "src/Web/WebSPA/Client/src/modules/orders/orders-new/orders-new.component.html",
-            "seeds": [
-                {
-                    "id": "ac8a2926-796a-4fa4-b9fd-867aabd7848d",
-                    "analyzer": "Interoperable analyzer",
-                    "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4",
-                    "startLine": 38,
-                    "startColumn": 0,
-                    "endLine": 68,
-                    "endColumn": 18,
-                    "type": "Deletion",
-                    "isValidated": true,
-                    "isMapped": false
-                }
-            ]
+            "seeds": []
         },
         {
             "file": "src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj",
@@ -3013,7 +3000,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 },
                 {
                     "id": "5930acb3-149f-49ec-bb10-115136d583e2",
@@ -3088,7 +3075,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 }
             ]
         },
@@ -3105,7 +3092,7 @@
                     "endColumn": 0,
                     "type": "Deletion",
                     "isValidated": true,
-                    "isMapped": false
+                    "isMapped": true
                 }
             ]
         },
@@ -3263,6 +3250,101 @@
                     "isMapped": false
                 }
             ]
+        },
+        {
+            "file": "src/Web/WebMVC/Views/Order/_OrderItems.cshtml",
+            "seeds": [
+                {
+                    "id": "615f9fa8-d873-4a6c-bb23-69ccc39143d4",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 48,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Views/Order/Detail.cshtml",
+            "seeds": [
+                {
+                    "id": "fd4b5bd0-2dfa-4272-9bf2-2d1e646cb19e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 91,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebMVC/Views/Order/Index.cshtml",
+            "seeds": [
+                {
+                    "id": "8935ee81-6144-49ad-b68a-d9195446f75a",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+                    "startLine": 0,
+                    "startColumn": 0,
+                    "endLine": 50,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true,
+                    "isMapped": true
+                }
+            ]
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-new/orders-new.component.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-detail/orders-detail.component.html",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-detail/orders-detail.component.scss",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-detail/orders-detail.component.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-new/orders-new.component.scss",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.component.html",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.component.scss",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.component.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.module.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.service.ts",
+            "seeds": []
+        },
+        {
+            "file": "src/Web/WebMVC/Views/OrderManagement/Index.cshtml",
+            "seeds": []
         }
     ],
     "fileSeeds": [
@@ -3399,6 +3481,159 @@
             "analyzer": "File system analyzer",
             "isValidated": true,
             "isMapped": false,
+            "contentAnalysis": false
+        },
+        {
+            "id": "98ce6a9e-7c48-4540-a2be-f84cbaab2c4b",
+            "file": "src/Web/WebMVC/Views/Order/Detail.cshtml",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "3492f49f-de75-4fb2-a59a-767ea08da4b7",
+            "file": "src/Web/WebMVC/Views/Order/Index.cshtml",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "060d7a54-2cfb-463d-8200-32d032aa6ee5",
+            "file": "src/Web/WebMVC/Views/Order/Create.cshtml",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "6b03b75e-c880-4cab-82e1-06572d4081bb",
+            "file": "src/Web/WebMVC/Views/Order/_OrderItems.cshtml",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "0cb804b2-74a9-44dc-b7c0-a7a9e327740d",
+            "file": "src/Web/WebSPA/Client/src/modules/orders",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "c8239844-a43e-44da-a158-9077a46fb4a3",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-detail/orders-detail.component.html",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "d9f21fb6-0c6c-450c-b64e-3f68d983017d",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-detail/orders-detail.component.scss",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "2a64de15-2f66-4361-8aa8-a77580c12954",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-detail/orders-detail.component.ts",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "6313a700-a939-41e4-9240-ef4c5ce8af52",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-new/orders-new.component.html",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "c352c4fb-476b-4543-966c-7069b26095f1",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-new/orders-new.component.scss",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "1dbf0088-0e44-46d2-903c-f59ff3ebe003",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders-new/orders-new.component.ts",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "baf775ba-2e03-4586-969c-6931c216072e",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.component.html",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "bd20e2f9-d0fc-452c-aa8a-7caf4fc30974",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.component.scss",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "012ac431-6752-42c3-95b4-9d8d3ef2a410",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.component.ts",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "244bf1ba-04f7-49c7-890d-d5140ab0249c",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.module.ts",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "e6bfd925-6525-41fa-9657-162963e796c0",
+            "file": "src/Web/WebSPA/Client/src/modules/orders/orders.service.ts",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
+            "contentAnalysis": false
+        },
+        {
+            "id": "f81d412e-a105-43f7-aaaf-c238990b3b57",
+            "file": "src/Web/WebMVC/Views/OrderManagement/Index.cshtml",
+            "featureKey": "0b402a2e-6b63-4ce2-9f07-f056166b2946",
+            "analyzer": "File system analyzer",
+            "isValidated": true,
+            "isMapped": true,
             "contentAnalysis": false
         }
     ]

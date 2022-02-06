@@ -1,9 +1,10 @@
 Feature,#Markers,#Code Markers,#File Markers,#Propagations,#Deletion Propagations,#Replacement Propagations,#Resource Propagations,#Path Propagations
-Tri,0,0,0,0,0,0,0,0
-Login,4,2,2,2,2,0,0,2
-Basket,0,0,0,0,0,0,0,0
-CatalogItems,5,5,0,5,0,0,5,0
-CatalogBrands,5,5,0,5,0,0,5,0
-CatalogTypes,5,5,0,5,0,0,5,0
-RessourcesGraphiques,4,4,0,4,0,0,4,0
-CatalogPictures,5,5,0,5,0,0,5,0
+Login,103,102,1,102,102,0,0,1
+Payment,34,34,0,34,34,0,0,0
+Ordering,151,120,31,120,120,0,0,45
+Items,1,1,0,1,0,0,1,0
+Brands,1,1,0,1,0,0,1,0
+Types,1,1,0,1,0,0,1,0
+Pictures,1,1,0,1,0,0,1,0
+HeaderMVC,3,3,0,3,0,0,3,0
+HeaderSPA,1,1,0,1,0,0,1,0
