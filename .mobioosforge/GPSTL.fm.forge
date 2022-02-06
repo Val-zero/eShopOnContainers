@@ -60,9 +60,9 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154",
+            "id": "ea695701-28aa-4473-b8c8-3f5efaca990a",
             "position": {
-                "x": 1070,
+                "x": 1185,
                 "y": 50
             },
             "attrs": {
@@ -216,7 +216,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "18d135ba-c920-4c3d-9232-f171ff4d6316",
+            "id": "93c14f96-89e6-433b-b690-ed9b5c41ef39",
             "position": {
                 "x": 150,
                 "y": 151
@@ -371,7 +371,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "e58d21d0-8be5-4a69-9b2e-2727a1b75e49",
+            "id": "f83835c9-338e-459d-882a-a742ebf5ab67",
             "position": {
                 "x": 380,
                 "y": 151
@@ -526,7 +526,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "2694577f-57e0-48a9-8c48-1f268a4f4b93",
+            "id": "e4d84de2-780f-44b8-97eb-4a995a3a417c",
             "position": {
                 "x": 610,
                 "y": 151
@@ -681,7 +681,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "f64fb6fb-d754-4824-93b0-9b3aaf28e1ef",
+            "id": "ef5498f0-b8f8-456f-b08e-449be5bd275c",
             "position": {
                 "x": 840,
                 "y": 151
@@ -836,7 +836,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "25d09786-f9b2-469a-85d2-0be0a1175f50",
+            "id": "d1070428-f227-423a-8619-28100f3a22fc",
             "position": {
                 "x": 1070,
                 "y": 151
@@ -991,7 +991,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "15db99ed-ed29-4925-ae31-d1535015c5db",
+            "id": "b2febd7e-09cf-401d-ae3c-5449bb1373bd",
             "position": {
                 "x": 1300,
                 "y": 151
@@ -1145,7 +1145,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "f5068510-f5d0-4cad-b512-b1a682b2f8de",
+            "id": "d47a36e3-f4b6-4c14-9797-e9964881d63a",
             "position": {
                 "x": 1530,
                 "y": 151
@@ -1249,7 +1249,7 @@
                 "presence": "Normal",
                 "lgFile": "",
                 "role": "",
-                "hexColor": "#44b813",
+                "hexColor": "#1363b9",
                 "help": "",
                 "nodeWeight": -1,
                 "nodeType": "feature",
@@ -1299,7 +1299,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "b4634aca-9d93-4d0c-a70c-64330f96d1eb",
+            "id": "3ddf6516-73a5-40be-9d4e-df9b5383f5da",
             "position": {
                 "x": 1760,
                 "y": 151
@@ -1308,9 +1308,9 @@
                 "body": {
                     "refWidth": "100%",
                     "refHeight": "100%",
-                    "strokeWidth": 2,
+                    "strokeWidth": 1,
                     "fill": "#FFFFFF",
-                    "stroke": "#FFCFC3",
+                    "stroke": "#adc949",
                     "style": {
                         "transition": "0.3s ease-in-out"
                     },
@@ -1384,7 +1384,7 @@
                 "markerColorRect": {
                     "refX": 12,
                     "refY": 10,
-                    "fill": "#44b813",
+                    "fill": "#1363b9",
                     "stroke": "none",
                     "r": 6,
                     "title": "Marker color",
@@ -1453,7 +1453,7 @@
                     "selector": "markerColorRect"
                 }
             ],
-            "id": "4f497493-a22a-4b94-bb55-1ca53f5aa310",
+            "id": "7986d487-c7c5-4a6f-bb4d-478a49c3ecdd",
             "position": {
                 "x": 1990,
                 "y": 151
@@ -1558,7 +1558,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1578,11 +1578,11 @@
                         "rotate": true
                     }
                 },
-                "id": "18d135ba-c920-4c3d-9232-f171ff4d6316"
+                "id": "93c14f96-89e6-433b-b690-ed9b5c41ef39"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "165d6e1d-7a2e-4a00-aa87-9bb43894252c",
+            "id": "44703fa9-de65-47e1-b080-b5dc49420316",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1616,7 +1616,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1636,11 +1636,11 @@
                         "rotate": true
                     }
                 },
-                "id": "e58d21d0-8be5-4a69-9b2e-2727a1b75e49"
+                "id": "f83835c9-338e-459d-882a-a742ebf5ab67"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "84cd5c0b-278f-4dbb-8a1b-e399d77bdb8c",
+            "id": "241c5be7-bbe6-418b-9daa-76957e810e84",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1674,7 +1674,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1694,11 +1694,11 @@
                         "rotate": true
                     }
                 },
-                "id": "2694577f-57e0-48a9-8c48-1f268a4f4b93"
+                "id": "e4d84de2-780f-44b8-97eb-4a995a3a417c"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "839093cb-442d-4472-9a6e-1012a8f43b98",
+            "id": "dd46dc27-e809-4af8-84d0-03bc5c42bc54",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1732,7 +1732,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1752,11 +1752,11 @@
                         "rotate": true
                     }
                 },
-                "id": "f64fb6fb-d754-4824-93b0-9b3aaf28e1ef"
+                "id": "ef5498f0-b8f8-456f-b08e-449be5bd275c"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "393543bd-6fb3-483a-94ba-8faa3e847932",
+            "id": "11e6b1cd-de19-4669-8fce-69bcf46fb90a",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1790,7 +1790,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1810,11 +1810,11 @@
                         "rotate": true
                     }
                 },
-                "id": "25d09786-f9b2-469a-85d2-0be0a1175f50"
+                "id": "d1070428-f227-423a-8619-28100f3a22fc"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "920b1ca6-8752-4a0f-98e3-a80bae52b955",
+            "id": "54150486-82e3-480b-9e7a-f27aff150ee0",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1848,7 +1848,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1868,11 +1868,11 @@
                         "rotate": true
                     }
                 },
-                "id": "15db99ed-ed29-4925-ae31-d1535015c5db"
+                "id": "b2febd7e-09cf-401d-ae3c-5449bb1373bd"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "43245a75-ada1-4f9a-b4a6-5963fab5b437",
+            "id": "c68396b9-1e0c-49b0-b166-8a14d192cefd",
             "attrs": {
                 "line": {
                     "stroke": "#b745bb",
@@ -1906,7 +1906,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1926,11 +1926,11 @@
                         "rotate": true
                     }
                 },
-                "id": "f5068510-f5d0-4cad-b512-b1a682b2f8de"
+                "id": "d47a36e3-f4b6-4c14-9797-e9964881d63a"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "419d14f3-eaee-4ae3-bd8b-23586d9f0154",
+            "id": "226ce2f4-9d0f-4729-a955-cc68f612b529",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -1964,7 +1964,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -1984,11 +1984,11 @@
                         "rotate": true
                     }
                 },
-                "id": "b4634aca-9d93-4d0c-a70c-64330f96d1eb"
+                "id": "3ddf6516-73a5-40be-9d4e-df9b5383f5da"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "c4cd5044-f7a0-4c0d-abf6-d02f78b0af69",
+            "id": "d07a24d2-f736-4c56-8ef2-6482a1e87b70",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -2022,7 +2022,7 @@
                         "rotate": true
                     }
                 },
-                "id": "d0adfdc8-64c1-4d43-8afe-4ad49489f154"
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
             },
             "target": {
                 "connectionPoint": {
@@ -2042,11 +2042,11 @@
                         "rotate": true
                     }
                 },
-                "id": "4f497493-a22a-4b94-bb55-1ca53f5aa310"
+                "id": "7986d487-c7c5-4a6f-bb4d-478a49c3ecdd"
             },
             "z": 100,
             "type": "standard.Link",
-            "id": "c17746a5-3ed7-40e0-839e-3b61a0fa9d1f",
+            "id": "198e037d-e9d4-4884-9dd2-89e53fb3bf51",
             "attrs": {
                 "line": {
                     "stroke": "#adc949",
@@ -2065,6 +2065,220 @@
                     "connection": true,
                     "strokeWidth": 10,
                     "strokeLinejoin": "round"
+                }
+            }
+        },
+        {
+            "source": {
+                "connectionPoint": {
+                    "name": "anchor",
+                    "args": {}
+                },
+                "anchor": {
+                    "name": "bottom",
+                    "args": {
+                        "rotate": true
+                    }
+                },
+                "id": "ea695701-28aa-4473-b8c8-3f5efaca990a"
+            },
+            "target": {
+                "connectionPoint": {
+                    "name": "boundary",
+                    "args": {
+                        "offset": 0,
+                        "insideout": false,
+                        "extrapolate": true,
+                        "sticky": true,
+                        "precision": 3,
+                        "stroke": true
+                    }
+                },
+                "anchor": {
+                    "name": "top",
+                    "args": {
+                        "rotate": true
+                    }
+                },
+                "id": "fae8c409-1810-4246-a35a-0488542769c4"
+            },
+            "z": 100,
+            "type": "standard.Link",
+            "id": "b9ab8f3a-e02b-4da1-b2b1-75a0c302a82d",
+            "attrs": {
+                "line": {
+                    "stroke": "#adc949",
+                    "strokeWidth": 1,
+                    "targetMarker": {
+                        "type": "circle",
+                        "r": 7,
+                        "cx": 7,
+                        "d": "M 10 -5 0 0 10 5 z",
+                        "fill": "white"
+                    },
+                    "connection": true,
+                    "strokeLinejoin": "round"
+                },
+                "wrapper": {
+                    "connection": true,
+                    "strokeWidth": 10,
+                    "strokeLinejoin": "round"
+                }
+            }
+        },
+        {
+            "type": "app.FeatureShapeModel",
+            "feature": {
+                "name": "New node",
+                "fullName": "New node",
+                "key": "36ad7be5-38ad-47ef-87ee-cff4b7ab9ce9",
+                "type": "Functionality feature",
+                "hexColor": "#466b8e",
+                "parentRelation": "Normal",
+                "presence": "Optional",
+                "referenceType": "not a reference",
+                "lgFile": "",
+                "role": "",
+                "help": "",
+                "nodeWeight": -1,
+                "isPropagated": false,
+                "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee"
+            },
+            "size": {
+                "width": 180,
+                "height": 51
+            },
+            "hidden": false,
+            "markup": [
+                {
+                    "tagName": "rect",
+                    "selector": "body"
+                },
+                {
+                    "tagName": "rect",
+                    "selector": "header"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "headerText"
+                },
+                {
+                    "tagName": "text",
+                    "selector": "bodyText"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "relationType"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "deadFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "commonFeature"
+                },
+                {
+                    "tagName": "path",
+                    "selector": "falseOptionalFeature"
+                },
+                {
+                    "tagName": "circle",
+                    "selector": "markerColorRect"
+                }
+            ],
+            "id": "fae8c409-1810-4246-a35a-0488542769c4",
+            "position": {
+                "x": 2220,
+                "y": 150
+            },
+            "z": 101,
+            "attrs": {
+                "body": {
+                    "refWidth": "100%",
+                    "refHeight": "100%",
+                    "strokeWidth": 2,
+                    "fill": "#FFFFFF",
+                    "stroke": "#FFCFC3",
+                    "style": {
+                        "transition": "0.3s ease-in-out"
+                    },
+                    "rx": 8,
+                    "ry": 8
+                },
+                "header": {
+                    "refWidth": "100%",
+                    "height": 0,
+                    "stroke": "#adc949",
+                    "strokeWidth": 0,
+                    "fill": "#adc949"
+                },
+                "headerText": {
+                    "text": ""
+                },
+                "bodyText": {
+                    "text": "New node",
+                    "refX": "50%",
+                    "refY": "50%",
+                    "textWrap": {
+                        "ellipsis": true,
+                        "width": -10
+                    },
+                    "textVerticalAnchor": "middle",
+                    "textAnchor": "middle",
+                    "fontSize": 14,
+                    "fontWeight": 700,
+                    "fontFamily": "Inter"
+                },
+                "relationType": {
+                    "refX": "50%",
+                    "refY": "100%",
+                    "stroke": "#A0A0A0",
+                    "strokeWidth": 1,
+                    "fill": "#FFFFFF",
+                    "strokeLinejoin": "round",
+                    "d": "M 0 0 l -10 10 q 10 10 20 0 z",
+                    "height": 20,
+                    "width": 30,
+                    "display": "none"
+                },
+                "deadFeature": {
+                    "refX": "68%",
+                    "refY": "65%",
+                    "fill": "#E63757",
+                    "d": "M 9.426 4.974 a 0.6 0.6 90 0 0 -0.852 0 L 7.2 6.354 L 5.826 4.974 A 0.6 0.6 90 0 0 4.974 5.826 L 6.354 7.2 l -1.38 1.374 a 0.6 0.6 90 0 0 0 0.852 a 0.6 0.6 90 0 0 0.852 0 L 7.2 8.046 l 1.374 1.38 a 0.6 0.6 90 0 0 0.852 0 a 0.6 0.6 90 0 0 0 -0.852 L 8.046 7.2 l 1.38 -1.374 A 0.6 0.6 90 0 0 9.426 4.974 Z m 2.016 -2.016 A 6 6 90 1 0 2.958 11.442 A 6 6 90 1 0 11.442 2.958 Z M 10.596 10.596 A 4.8 4.8 90 1 1 12 7.2 A 4.77 4.77 90 0 1 10.596 10.596 Z",
+                    "title": "Dead Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "commonFeature": {
+                    "refX": "88%",
+                    "refY": "65%",
+                    "fill": "#0d6efd",
+                    "strokeLinejoin": "round",
+                    "d": "M 6.912 1.152 A 5.76 5.76 90 1 0 12.672 6.912 A 5.7664 5.7664 90 0 0 6.912 1.152 Z m 0 10.368 a 4.608 4.608 90 1 1 4.608 -4.608 A 4.6133 4.6133 90 0 1 6.912 11.52 Z m 0 -4.896 a 0.576 0.576 90 0 0 -0.576 0.576 v 1.728 a 0.576 0.576 90 0 0 1.152 0 v -1.728 A 0.576 0.576 90 0 0 6.912 6.624 Z m 0 -2.304 a 0.72 0.72 90 1 0 0.72 0.72 A 0.72 0.72 90 0 0 6.912 4.32 Z",
+                    "title": "Common Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "falseOptionalFeature": {
+                    "refX": "78%",
+                    "refY": "65%",
+                    "fill": "#CA9704",
+                    "d": "M 7.2 9.6 a 0.6 0.6 90 1 0 0.6 0.6 A 0.6 0.6 90 0 0 7.2 9.6 Z m 6.402 0.882 l -4.83 -8.4 a 1.8 1.8 90 0 0 -3.144 0 l -4.8 8.4 A 1.8 1.8 90 0 0 2.364 13.2 H 12.036 a 1.8 1.8 90 0 0 1.566 -2.718 Z m -1.038 1.2 a 0.6 0.6 90 0 1 -0.528 0.306 H 2.364 a 0.6 0.6 90 0 1 -0.528 -0.306 a 0.6 0.6 90 0 1 0 -0.6 l 4.8 -8.4 a 0.6 0.6 90 0 1 1.068 0 l 4.83 8.4 A 0.6 0.6 90 0 1 12.564 11.694 Z M 7.2 4.8 a 0.6 0.6 90 0 0 -0.6 0.6 v 2.4 a 0.6 0.6 90 0 0 1.2 0 V 5.4 A 0.6 0.6 90 0 0 7.2 4.8 Z",
+                    "title": "False Optional Feature",
+                    "cursor": "pointer",
+                    "display": "none"
+                },
+                "markerColorRect": {
+                    "refX": 12,
+                    "refY": 10,
+                    "fill": "#466b8e",
+                    "stroke": "none",
+                    "r": 6,
+                    "title": "Marker color",
+                    "cursor": "pointer",
+                    "display": "block"
                 }
             }
         }

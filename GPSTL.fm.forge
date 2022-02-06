@@ -51,6 +51,19 @@
             "hexColor": "#10614e",
             "help": "",
             "nodeWeight": -1
+        },
+        {
+            "key": "36ad7be5-38ad-47ef-87ee-cff4b7ab9ce9",
+            "name": "Basket",
+            "type": "Functionality feature",
+            "parent": "cd7d9885-e81c-4721-bc45-93ed4a6e73ee",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#466b8e",
+            "help": "",
+            "nodeWeight": -1
         }
     ],
     "fileResources": [
