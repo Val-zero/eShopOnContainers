@@ -61,7 +61,7 @@
             "presence": "Optional",
             "lgFile": "",
             "role": "",
-            "hexColor": "#466b8e",
+            "hexColor": "#daa616",
             "help": "",
             "nodeWeight": -1
         }
@@ -173,6 +173,17 @@
             "left": {
                 "type": "feature",
                 "featureKey": "6638de2b-d69d-4131-9f46-199a7f8abfa4"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "db0c3f43-b03b-46e6-a66d-86c412698eca"
+            }
+        },
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "36ad7be5-38ad-47ef-87ee-cff4b7ab9ce9"
             },
             "right": {
                 "type": "feature",
